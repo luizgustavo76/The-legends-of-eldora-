@@ -1,0 +1,19 @@
+a dreamcore 1.0 é 
+-pergunta
+--palavra-chave
+---tema
+----resposta
+a dreamcore 2.0 é 
+-pergunta
+--palavra-chave:pronto
+---tema:pronto
+----sinais:pronto
+-----intenção(sinal + sinal):pronto
+------modo de fala:arquivado
+-------tom(intenção + sinais + modo de fala)
+--------leitura de açoes do jogador
+---------verificar se é mentira,blefe ou alguma alteração de estado
+----------alterar status de emoção do npc de acordo com a resposta
+-----------adicionar todas as informações atribuidas a construção da pergunta na memoria do npc
+------------pensar no jeito que ele vai responder(tipo se ele vai ajudar,explicar etc dependendo da emoçao dele)
+-------------responder
