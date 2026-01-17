@@ -1,0 +1,4830 @@
+hp|||hp
+resistencia|||resistance
+dano|||damage
+ano|||year
+dia|||day
+mes|||month
+horas|||hours
+0|||0
+minutos|||minutes
+00|||00
+dia|||day
+mes|||month
+horas|||hours
+minutos|||minutes
+facil|||easy
+medio|||average
+dificil|||difficult
+inferno|||hell
+nome|||name
+classe|||class
+nivel|||level
+vida|||life
+habilidade espadas|||swordsmanship
+habilidade magia|||magic skill
+patente nivel|||patent level
+exp|||exp
+moedas|||coins
+diamantes|||diamonds
+defesa|||defense
+dano|||damage
+exp para evoluir|||exp to evolve
+esquivar|||dodge
+chat|||chat
+area|||area
+nome|||name
+classe|||class
+nivel|||level
+xp|||xp
+local|||local
+amigos|||friends
+id online|||ID online
+000000000|||000000000
+...poderei me juntar a sua guilda?|||...can I join your guild?
+1|||1
+muito obrigado...juro que não irei te decepcionar companheiro!|||Thank you so much... I swear I won't let you down, my friend!
+ferreiro|||blacksmith
+então isso é um não,eu te entendo|||So that's a no, I understand.
+saudacao|||greeting
+oi|||hey
+ola|||hello
+eai|||and there
+eae|||hey
+como vai|||how are you
+você|||you
+vosmecê|||you
+vossa mecê|||Your Grace
+batalha|||battle
+batalhar|||battle
+confronto|||confrontation
+arena infinita|||Infinite Arena
+masmorra|||dungeon
+monstro|||monster
+guilda|||guild
+guilda|||guild
+grupo|||group
+bando|||gang
+juntar|||to bring together
+xingamento|||insult
+filho da puta|||son of a bitch
+filho da mãe|||mother's son
+porra|||damn
+caralho|||fuck
+vai se fuder|||Go fuck yourself.
+corno|||horn
+viado|||fag
+puta que pariu|||holy shit
+ferreiro|||blacksmith
+espada|||sword
+capacete|||helmet
+peitoral|||chest
+calça|||pants
+bota|||boot
+adaga|||dagger
+golem|||golem
+reparar|||repair
+concertar|||fix
+equipamento|||equipment
+preço alto|||high price
+preço baixo|||low price
+loja|||store
+vendendor|||seller
+concorrencia|||competition
+amigos|||friends
+loja|||store
+taverna|||tavern
+barman|||bartender
+bêbado|||drunk
+taverna|||tavern
+alcool|||alcohol
+cerveja|||beer
+pinga de mel|||honey drop
+cachaça mineira|||cachaça from Minas Gerais
+vodka|||vodka
+velho barreiro|||old clay pit
+vilas|||villages
+rimvark|||rimvark
+ebrenthal|||ebrenthal
+vangurd|||vanguard
+nocten|||nocten
+vila|||village
+clima|||climate
+chuva|||rain
+frio|||cold
+calor|||heat
+ensolarado|||sunny
+nublado|||cloudy
+tempestade|||storm
+ajuda|||help
+ajuda, duvida|||help, doubt
+classes|||classes
+classe|||class
+bruxo|||wizard
+goblin|||goblin
+cavaleiro|||knight
+monstro|||monster
+mercador|||merchant
+economia|||economy
+dinheiro|||money
+economia|||economy
+npcs|||npcs
+ferreiro|||blacksmith
+vendendor|||seller
+barman|||bartender
+bebado|||drunk
+antigo guerreiro|||ancient warrior
+golem|||golem
+elogios|||compliments
+bom|||good
+execelente|||excellent
+otimo|||excellent
+muito bom|||very good
+perfeito|||perfect
+pergunta estado|||state question
+chato|||boring
+ triste|||sad
+raiva|||anger
+feliz|||happy
+medo|||fear
+ansioso|||anxious
+despedida|||farewell
+adeus|||goodbye
+tchau|||goodbye
+ até mais|||until later
+até a proxima|||Until next time.
+nome_player|||player_name
+classe|||class
+nome|||name
+nome_player|||player_name
+nome|||name
+nome_player|||player_name
+saudacao|||greeting
+batalha|||battle
+vejamos que você gosta de batalhar....bom saber disso|||Let's see, you like to battle... good to know.
+você gosta de batalhar então...eu me sinto sozinho às vezes depois disso tudo...poderia me juntar a sua guilda?|||So you like to battle... I feel lonely sometimes after all this... could I join your guild?
+opa...vamos batalhar?|||Hey...let's battle?
+guilda|||guild
+xingamento|||insult
+pra que isso......????|||Why this...?
+ferreiro|||blacksmith
+nome|||name
+ferreiro_preço|||blacksmith_price
+que bom saber que meus preços estão acessíveis para você|||That's great to know my prices are affordable for you.
+eh....me desculpa se os preços são altos..minha vida não está nas melhores condições ainda mais na questão de dinheiro|||Uh... I'm sorry if the prices are high... my life isn't the best right now, especially financially.
+loja|||store
+não me incomodo por que nós dois somos essências para esse reino, pois somos os únicos|||It doesn't bother me because we are both essential to this kingdom, as we are the only ones.
+taverna|||tavern
+coisa boa que era ir na taverna nos tempos antigos, a alegria reinando e bebendo sem preocupação|||How wonderful it was to go to the tavern in the old days, with joy reigning and drinking without a care in the world.
+poderia ir lá na taverna, fazem anos que não vou lá|||I could go to the tavern, it's been years since I've been there.
+vilas|||villages
+só ouvi falar dessa e das outras vilas... eu não sei o que eu sinto.. uma obrigação de ficar nessa ferraria... como se todos os dias fossem iguais|||I've only heard about this village and the others... I don't know how I feel... an obligation to stay in this blacksmith shop... as if every day were the same.
+não conheço mas um dia irei lá|||I don't know it, but I'll go there someday.
+ajuda|||help
+opa... em que posso ajudá-lo?|||Hey... how can I help you?
+está interessado na mercadoria mas precisa de ajuda, certo?|||You're interested in the merchandise but need help, right?
+classes|||classes
+não vai a mal, mas nesse reino existiram poucos da sua classe, você eu que foi o mais destemido deles|||No offense intended, but in that kingdom there were few of your kind; you were the most fearless of them all.
+economia|||economy
+coisa difícil de conseguir facilmente em Eldora|||something difficult to obtain easily in Eldora
+npcs|||npcs
+meu amigo..... alias muito gente boa|||my friend... actually, a very good person.
+elogios|||compliments
+fico feliz que tenha gostado do meu serviço, pois senão gostasse não teria outro lugar para comprar...|||I'm glad you liked my service, because if you hadn't, you wouldn't have had anywhere else to buy from...
+despedida|||farewell
+até mais|||until later
+adeus|||goodbye
+que Deus guia a sua mão|||May God guide your hand.
+adeus|||goodbye
+classe|||class
+vai falar direito ou não?|||Are you going to speak properly or not?
+desculpa mas não entendi o que você falou|||Sorry, but I didn't understand what you said.
+acho que estou ficando surdo! poderia repetir?|||I think I'm going deaf! Could you repeat that?
+classe|||class
+barman|||bartender
+bebado|||drunk
+ferreiro|||blacksmith
+mineiro|||miner
+mercador|||merchant
+mercador nocten|||nocten merchant
+mercador vangurd|||merchant vangurd
+mercador ebranthal|||merchant ebranthal
+mercador rimvark|||rimvark merchant
+vendedor sombrio|||shady seller
+antigo guerreiro|||ancient warrior
+você...você veio aqui com a promessa de salvar aqueles que sofreram tanto só de estarem ali...mas você os matou....matou aqueles em que a esperança de um reino feliz como antes...você tinha esse poder...e por isso que eles estavam ali....|||You...you came here with the promise to save those who suffered so much just by being there...but you killed them...you killed those in whom the hope of a happy kingdom like before lingered...you had that power...and that's why they were there....
+se a esperança é a ultima que morre...você já deveria estar morto. . . |||If hope is the last thing to die...you should already be dead.
+final genocidia...|||final genocide...
+final genocidia|||final genocide
+classe|||class
+bruxo|||wizard
+chegar ao nivel 50 não é so uma conquista...é uma prova que tu sobreviveu mesmo no caos...|||Reaching level 50 isn't just an achievement...it's proof that you truly survived the chaos...
+agora você pode escolher um caminho para seguir|||Now you can choose a path to follow.
+você deseja se tornar um:|||Do you want to become a:
+[1]bruxo das águas|||[1]water wizard
+[2]bruxo do fogo|||[2]fire wizard
+[3]bruxo do vento|||[3]wind wizard
+[4]bruxo da folha|||[4]leaf wizard
+qual sub-classe você escolhará?escolha sabiamente,para ter informação\ndecada sub-classe escreva [i]|||Which subclass will you choose? Choose wisely, to have information on each subclass write [i]
+i|||i
+qual sub-classe deseja se informar?|||Which subclass would you like information on?
+[1]bruxo das águas|||[1]water wizard
+[2]bruxo do fogo|||[2]fire wizard
+[3]bruxo do vento|||[3]wind wizard
+[4]bruxo da folha|||[4]leaf wizard
+1|||1
+bruxo das agua:tem poders áquaticos para seu bem...tem ataques como mandar uma onda para o inimigo,essa sub-classe é bastante\npoderosa contra inimigos do tipo fogo|||Water Wizard: Possesses aquatic powers for their own benefit... has attacks such as sending a wave at the enemy; this subclass is quite powerful against fire-type enemies.
+pressione Enter para continuar|||Press Enter to continue.
+2|||2
+bruxo do fogo,tem ataques de fogo como queimadura e tem mais vantagens contra inimigos do tipo folha|||Fire wizard, has fire attacks like burn and has more advantages against grass-type enemies.
+pressione Enter para continuar|||Press Enter to continue.
+=====suas habilidades=====|||=====your skills=====
+sua classe:|||your class:
+classe|||class
+mana|||manna
+subclasse|||subclass
+bruxo da agua|||water wizard
+nivel|||level
+corte de água|||water cut
+nivel|||level
+classe|||class
+cavaleiro|||knight
+nivel|||level
+classe|||class
+cavaleiro|||knight
+habilidade_cavaleiro|||knight_skill
+nivel|||level
+classe|||class
+cavaleiro|||knight
+habilidade_cavaleiro2|||knight_skill2
+nivel|||level
+classe|||class
+cavaleiro|||knight
+habilidade_cavaleiro3|||knight_skill3
+nivel|||level
+classe|||class
+cavaleiro|||knight
+habilidade_cavaleiro4|||knight_skill4
+classe|||class
+bruxo|||wizard
+nivel|||level
+habilidade_bruxo|||wizard_skill
+nivel|||level
+habilidade_bruxo2|||wizard_skill2
+nivel|||level
+habilidade_bruxo3|||wizard_skill3
+nivel|||level
+habilidade_bruxo4|||wizard_skill4
+classe|||class
+goblin|||goblin
+nivel|||level
+habilidade_goblin|||goblin_skill
+nivel|||level
+habilidade_goblin2|||goblin_skill2
+nivel|||level
+habilidade_goblin3|||goblin_skill3
+nivel|||level
+habilidade_goblin4|||goblin_skill4
+classe|||class
+monstro|||monster
+nivel|||level
+habilidade_monstro|||monster_ability
+nivel|||level
+habilidade_monstro2|||monster_ability2
+nivel|||level
+habilidade_monstro3|||monster_ability3
+nivel|||level
+habilidade_monstro4|||monster_ability4
+classe|||class
+mercador|||merchant
+nivel|||level
+habilidade_mercador|||merchant_skill
+nivel|||level
+habilidade_mercador2|||merchant_skill2
+nivel|||level
+habilidade_mercador3|||merchant_skill3
+nivel|||level
+habilidade_mercador4|||merchant_skill4
+qual habilidade deseja usar?|||Which skill do you want to use?
+classe|||class
+cavaleiro|||knight
+habilidade_cavaleiro|||knight_skill
+mana|||manna
+você usou|||you used
+habilidade_cavaleiro|||knight_skill
+mana|||manna
+você tirou 10 de vida do monstro|||You took 10 life points from the monster.
+vida|||life
+Você não tem mana suficiente|||You don't have enough mana.
+habilidade_cavaleiro4|||knight_skill4
+mana|||manna
+você recebeu a benção do voto de honra|||You have received the blessing of the vote of honor.
+seus ataques e defesas serão multiplicados por 3 mas não podera fugir e recebera o ataque critico duas vezes mais forte|||Your attacks and defenses will be multiplied by 3, but you will not be able to escape and will receive a critical hit twice as strong.
+dano|||damage
+defesa|||defense
+dano|||damage
+defesa|||defense
+mana|||manna
+você não tem mana o suficiente|||you don't have enough mana
+habilidade_cavaleiro3|||knight_skill3
+você atacou o monstro usando investida brutal|||You attacked the monster using a brutal charge.
+-15 mana|||-15 mana
+dano|||damage
+mana|||manna
+vida|||life
+habilidade_cavaleiro2|||knight_skill2
+você usou escudo sagrado|||you used sacred shield
+você recebeu a benção sagrada |||You have received the sacred blessing.
+classe|||class
+bruxo|||wizard
+habilidade_bruxo|||wizard_skill
+mana|||manna
+você soltou uma bola de fogo|||You unleashed a fireball.
+vida|||life
+mana|||manna
+você não tem mana o suficiente|||you don't have enough mana
+habilidade_bruxo2|||wizard_skill2
+mana|||manna
+você solta uma explosão arcana|||You unleash an arcane explosion.
+a explosão arcana causou queimadura no inimigo|||The arcane explosion caused burns on the enemy.
+vida|||life
+a explosão arcana causou dano mas não deu queimadura|||The arcane explosion caused damage but did not inflict burns.
+mana|||manna
+Você não tem mana suficiente|||You don't have enough mana.
+habilidade_bruxo3|||wizard_skill3
+mana|||manna
+você usou maldição sombria no inimigo|||You used a dark curse on the enemy.
+mana|||manna
+Você não tem mana suficiente|||You don't have enough mana.
+habilidade_bruxo4|||wizard_skill4
+mana|||manna
+vida|||life
+mana|||manna
+Você não tem mana suficiente|||You don't have enough mana.
+classe|||class
+monstro|||monster
+habilidade_monstro|||monster_ability
+mana|||manna
+mana|||manna
+você dá um rugido aterrorizante|||you let out a terrifying roar
+o rugido fez o monstro fugir|||The roar made the monster flee.
+o rugido fez nada|||The roar did nothing.
+monstro te atacou com furia|||The monster attacked you furiously.
+vida|||life
+habilidade_monstro2|||monster_ability2
+mana|||manna
+mana|||manna
+com a mordida seu dano duplicou nesse ataque especial|||With the bite, its damage doubled in this special attack.
+dano|||damage
+habilidade_monstro3|||monster_ability3
+mana|||manna
+mana|||manna
+com a raiva selvagem pode dar dois ataques de uma vez só|||In its wild rage, it can launch two attacks at once.
+habilidade_monstro4|||monster_ability4
+mana|||manna
+você esta se regenerando de forma sobrenatural|||You are regenerating in a supernatural way.
+vida|||life
+mana|||manna
+classe|||class
+mercador|||merchant
+habilidade_mercador4|||merchant_skill4
+mana|||manna
+você usa a habilidade lucro maximo|||You use the maximum profit skill.
+habilidade_mercador3|||merchant_skill3
+mana|||manna
+você usa o ataque de persuação|||You use the persuasion attack.
+monstro tenta te atacar|||The monster is trying to attack you.
+monstro errou o ataque|||The monster missed its attack.
+monstro acertou o ataque|||The monster landed the attack.
+vida|||life
+habilidade_mercador2|||merchant_skill2
+mana|||manna
+mana|||manna
+cura 20 moedas|||cure 20 coins
+defesa 15 moedas|||defense 15 coins
+dano 10 moedas|||damage 10 coins
+selecione um item para comprar|||select an item to buy
+cura|||cure
+moedas|||coins
+você foi curado|||You have been healed.
+moedas|||coins
+moedas|||coins
+moedas|||coins
+vida|||life
+você não tem moedas o suficiente|||You don't have enough coins.
+defesa|||defense
+moedas|||coins
+moedas|||coins
+moedas|||coins
+moedas|||coins
+defesa|||defense
+sua defesa aumentou em 5|||His defense increased by 5.
+voc~e não tem dinheiro suficiente...|||You don't have enough money...
+dano|||damage
+moedas|||coins
+seu dano aumentou em 5|||its damage increased by 5.
+moedas|||coins
+moedas|||coins
+moedas|||coins
+dano|||damage
+você não tem moedas o suficiente|||You don't have enough coins.
+habilidade_mercador|||merchant_skill
+mana|||manna
+moedas|||coins
+você esta fazendo suborno com o monstro|||You're bribing the monster.
+mana|||manna
+moedas|||coins
+o monstro aceitou a proposta|||The monster accepted the proposal.
+o monstro foi embora|||The monster is gone.
+o monstro não aceitou a proposta|||The monster did not accept the proposal.
+o monstro devolveu o dinheiro|||The monster returned the money.
+moedas|||coins
+o monstro roubou o seu dinheiro|||The monster stole your money.
+classe|||class
+goblin|||goblin
+habilidade_goblin4|||goblin_skill4
+mana|||manna
+você ARMOU UMA BOMBA|||You planted a bomb.
+BOMBA EXPLODINDO EM|||BOMB EXPLODING IN
+3|||3
+2|||2
+1|||1
+a bomba explodiu causando 10 de dano|||The bomb exploded, causing 10 damage.
+vida|||life
+habilidade_goblin3|||goblin_skill3
+mana|||manna
+você usou o ataque zombaria|||You used the mockery attack.
+habilidade_goblin2|||goblin_skill2
+mana|||manna
+essa habilidade faz fuga instantanea,deseja usar essa habilidade? [s] ou [n]|||This ability allows for instant escape. Do you wish to use this ability? [y] or [n]
+s|||s
+você escapou da batalha|||You escaped the battle.
+mana|||manna
+n|||n
+sua mana não será gastada|||Your mana will not be spent.
+resposta invalida|||invalid answer
+habilidade_goblin|||goblin_skill
+mana|||manna
+o monstro não consegue te atingir porque esta longe demais|||The monster can't reach you because it's too far away.
+mana|||manna
+golem de cobre|||copper golem
+moedas|||coins
+itens|||items
+barra de cobre|||copper bar
+amuleto das almas|||amulet of souls
+golem de madeira|||wooden golem
+moedas|||coins
+itens|||items
+madeira|||wood
+amuleto das almas|||amulet of souls
+golem de ferro|||iron golem
+moedas|||coins
+itens|||items
+barra de ferro|||iron bar
+amuleto das almas|||amulet of souls
+golem de pedra|||stone golem
+moedas|||coins
+itens|||items
+pedra|||stone
+amuleto das almas|||amulet of souls
+golem de obsidiana|||obsidian golem
+moedas|||coins
+itens|||items
+obsidiana|||obsidian
+amuleto das almas|||amulet of souls
+golem de rubi|||ruby golem
+moedas|||coins
+itens|||items
+rubi|||ruby
+amuleto das almas|||amulet of souls
+golem de esmeralda|||emerald golem
+moedas|||coins
+itens|||items
+esmeralda|||emerald
+amuleto das almas|||amulet of souls
+golem de ouro|||golden golem
+moedas|||coins
+itens|||items
+barra de ouro|||gold bar
+amuleto das almas|||amulet of souls
+golem de diamante|||diamond golem
+moedas|||coins
+itens|||items
+diamante|||diamond
+amuleto das almas|||amulet of souls
+https://luizsgustavo76.pythonanywhere.com/get|||https://luizsgustavo76.pythonanywhere.com/get
+atualmente você está sem internet ou o servidor está fora do ar...por favor retorne mais tarde se o problema persistir...|||You are currently without internet or the server is down...please try again later if the problem persists...
+https://luizsgustavo76.pythonanywhere.com/update|||https://luizsgustavo76.pythonanywhere.com/update
+chat|||chat
+sua mensagem\nou digite reload para recarregar o chat|||Your message\ or type reload to reload the chat.
+reload|||reload
+r|||r
+utf-8|||utf-8
+w|||w
+utf-8|||utf-8
+nome|||name
+Amigo|||Friend
+vida|||life
+vida_max|||life_max
+area|||area
+desconhecida|||unknown
+itens|||items
+ouro|||gold
+chat|||chat
+amigo_mundo.json|||friend_world.json
+[SERVIDOR] Amigo desconectou|||[SERVER] Friend disconnected
+[SERVIDOR] Conexão encerrada|||[SERVER] Connection closed
+[CLIENTE] Não foi possível conectar ao host|||[CLIENT] Could not connect to host
+amigo_mundo.json|||friend_world.json
+[CLIENTE] Conexão perdida com host|||[CLIENT] Connection lost with host
+[CLIENTE] Conexão encerrada|||[CLIENT] Connection closed
+8.8.8.8|||8.8.8.8
+127.0.0.1|||127.0.0.1
+nome|||name
+Amigo|||Friend
+vida|||life
+vida_max|||life_max
+area|||area
+desconhecida|||unknown
+ˆ|||ˆ
+Não foi possível mostrar status do amigo|||Unable to display friend's status.
+itens|||items
+ouro|||gold
+[1] Enviar item\n[2] Enviar ouro\nEscolha: |||[1] Send item\n[2] Send gold\nChoose:
+1|||1
+Qual item deseja enviar? |||Which item would you like to send?
+itens|||items
+itens|||items
+itens|||items
+Você não tem esse item.|||You don't have that item.
+2|||2
+Quanto ouro deseja enviar? |||How much gold do you want to send?
+Valor inválido.|||Invalid value.
+ouro|||gold
+ouro|||gold
+ouro|||gold
+Você não tem ouro suficiente.|||You don't have enough gold.
+Escolha inválida.|||Invalid choice.
+tloe_save.json|||tloe_save.json
+amigo_mundo.json|||friend_world.json
+\n=== CHAT MULTIPLAYER ===|||=== MULTIPLAYER CHAT ===
+chat|||chat
+[1] abrir chat|||[1] open chat
+[2] Sair do chat|||[2] Exit chat
+Escolha: |||Choice:
+1|||1
+[0] para sair|||[0] to exit
+>>>Digite sua mensagem: |||Type your message:
+nome|||name
+Você|||You
+chat|||chat
+tloe_save.json|||tloe_save.json
+0|||0
+2|||2
+Saindo do chat.|||Leaving the chat.
+Comando inválido.|||Invalid command.
+\n=== MENU MULTIPLAYER ===|||\n=== MULTIPLAYER MENU ===
+[1] Abrir mundo (servidor)|||[1] Open world (server)
+[2] Entrar no mundo do amigo (cliente)|||[2] Entering the friend's (customer's) world
+Escolha: |||Choice:
+1|||1
+Servidor iniciado! Você pode continuar jogando normalmente.|||Server started! You can continue playing normally.
+2|||2
+Digite o IP do seu amigo (servidor): |||Enter your friend's IP address (server):
+Conectado ao mundo do amigo! Você pode continuar jogando normalmente.|||Connected to your friend's world! You can continue playing normally.
+Escolha inválida.|||Invalid choice.
+tloe_save.json|||tloe_save.json
+cls|||cls
+nt|||nt
+clear|||clear
+primeira_vez_resistencia|||first_time_resistance
+primeira_vez_bau_cabana|||first_time_trunk_cabin
+bau_cabana|||bau_cabana
+limite itens báu é 30 itens|||The limit for items in the chest is 30 items.
+[1] deposistar itens|||[1] deposit items
+[2] retirar itens|||[2] remove items
+[0] sair|||[0] exit
+o que deseja fazer?|||What do you want to do?
+1|||1
+bau_cabana|||bau_cabana
+o báu está cheio!|||The chest is full!
+escolha os itens que deseja depositar|||Choose the items you wish to deposit.
+item:|||item:
+bau_cabana|||bau_cabana
+não é possivel depoistar itens com valor de 0 ou menos|||It is not possible to deposit items with a value of 0 or less.
+item depositado com sucesso!|||Item deposited successfully!
+[1] fazer missões|||[1] to do missions
+[2] conversar com algum integrante|||[2] talk to a member
+[3] checar báu|||[3] check chest
+[4] abrir inventário|||[4] open inventory
+o que deseja fazer?|||What do you want to do?
+3|||3
+primeira_vez_bau_cabana|||first_time_trunk_cabin
+[Maria] a...esse é o bau daqui, pode guardas seus itens aí a vontade|||[Maria] ...this is the chest here, you can store your items there as much as you like.
+primeira_vez_resistencia|||first_time_resistance
+você aproxima-se daquela cabana, ela ainda parece ser habitada|||You approach that cabin; it still appears to be inhabited.
+...|||...
+[pessoa desconhecida 1] quem...quem é você???|||[Unknown person 1] Who...who are you???
+vocÊ varias pessoas dentro dessa cabana, elas parecem inseguras após a sua chegada|||You see several people inside that cabin; they seem insecure after your arrival.
+[pessoa desconhecida 2] o garoto, vai se apresentar não???|||[Unknown person 2] The boy is going to introduce himself, right???
+nome|||name
+[pessoa desconhecida 2] pelo visto você não é uma ameaça...meu nome é Josué|||[Unknown person 2] It seems you're not a threat...my name is Joshua
+[pessoa desconhecida 1] a... meu nome é maria|||[Unknown person 1] a... my name is Maria
+primeira_vez_resistencia|||first_time_resistance
+Gortak o tirano da pedra|||Gortak the tyrant of stone
+nivel|||level
+dificuldade|||difficulty
+facil|||easy
+ataques|||attacks
+apredejamento|||stoning
+dano|||damage
+colosso das sombras|||colossus of shadows
+nivel|||level
+dificuldade|||difficulty
+medio|||average
+ataques especiais|||special attacks
+escuridao|||darkness
+envenenamento sombrio|||dark poisoning
+dano|||damage
+shadow dead|||shadow dead
+nivel|||level
+dificuldade|||difficulty
+dificil|||difficult
+ataques|||attacks
+alma vazia|||empty soul
+ataque duplo|||double attack
+dano|||damage
+dragão do inferno|||hell dragon
+dificuldade|||difficulty
+inferno|||hell
+ataques|||attacks
+ardencia do inferno|||hellish burning
+duplicada|||duplicate
+escudo de chamas|||shield of flames
+dano|||damage
+mana|||manna
+valor_evolucao_nivel|||level_evolution_value
+pontos_upgrades|||upgrade_points
+nome|||name
+antigo guerreiro|||ancient warrior
+vida|||life
+defesa|||defense
+dano|||damage
+nivel|||level
+nome|||name
+bebado|||drunk
+vida|||life
+defesa|||defense
+dano|||damage
+nivel|||level
+nome|||name
+nome|||name
+vida|||life
+defesa|||defense
+dano|||damage
+nivel|||level
+nivel|||level
+cabeca|||head
+tronco|||stem
+pernas|||legs
+pes|||feet
+mao direita|||right hand
+mao esquerda|||left hand
+nome_player|||player_name
+objetivo_eldora|||objective_eldora
+vezes_perguntas|||times_questions
+memoria_adicional|||additional_memory
+afinidade|||affinity
+vila atual|||current village
+reputação em Vangurd|||reputation in Vangurd
+reputação em Nocten|||reputation in Nocten
+reputação em Ebranthal|||reputation in Ebranthal
+reputação em Rimvark|||reputation in Rimvark
+1|||1
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+0|||0
+[Dorian]então era aqui que você queria me levar?|||[Dorian] So this is where you wanted to take me?
+nome|||name
+por que tá tudo destruido?|||Why is everything destroyed?
+[Dorian]eu estava conversando com uns habitantes locais daqui e eles disseram que era sobreviventes de algum incidente desse reino...mas qual seria esse incidente..|||[Dorian] I was talking to some locals here and they said they were survivors of some incident in this kingdom...but what incident could that be...
+nome|||name
+[Dorian]eu estou voltando para meu aposento então..|||[Dorian] I'm going back to my room then...
+você chegou as ruinas|||You arrived at the ruins.
+[1]andar para frente|||[1]walk forward
+[2]virar para direita|||[2] turn right
+[3]virar para esquerda|||[3] turn left
+[4]andar para trás|||[4]walk backwards
+[5]limpar destroço|||[5]clear debris
+[6]abrir inventário|||[6]open inventory
+[7]ver mapa|||[7]see map
+[0]voltar para o centro de eldora|||[0] return to the center of Eldora
+o que irá fazer|||what will you do
+0|||0
+7|||7
+aperte [0~] para voltar para o menu|||Press [0~] to return to the menu.
+0|||0
+vila atual|||current village
+Vila de Rimvark:|||Rimvark Village:
+[1]loja|||[1]store
+[2]igreja|||[2]church
+[3]mercado|||[3]market
+[4]casa|||[4]house
+[5]ver mapa|||[5]see map
+[6]menu jogador|||[6]player menu
+o queres fazer?|||What do you want to do?
+1|||1
+bem vindo á minha loja de armamentos...|||Welcome to my weapons store...
+[1]ver estoque|||[1]see stock
+[2]vender itens|||[2] sell items
+[3]conversar|||[3]talk
+[0]sair|||[0]exit
+o que deseja fazer?|||What do you want to do?
+0|||0
+ao sair você percebe que o comerciante ficou feliz pois você comprou algo...|||As you leave, you realize the shopkeeper was happy because you bought something...
+ok....volte sempre!|||Okay...come back anytime!
+3|||3
+modo livre...escreva qualquer coisa que ele te responderá...tecnologia DreamCore,fale palavras como tchau,adeus para sair do chat|||Free mode...write anything and he will reply...DreamCore technology, say words like goodbye to exit the chat.
+comerciante de rimvark|||rimvark merchant
+2|||2
+você entra na igreja mas percebe que ainda está em construção depois das destruições que ocorreram em Rimvark|||You enter the church but realize it's still under construction after the destruction that occurred in Rimvark.
+Igreja católica de Rimvark|||Rimvark Catholic Church
+[1]se sentar nos bancos|||[1] to sit on the benches
+[2]ir para o altar|||[2]go to the altar
+[3]ir conversar com o Padre|||[3]go talk to the Father
+[0]sair|||[0]exit
+o que deseja fazer?|||What do you want to do?
+0|||0
+você sai da igreja...|||You leave the church...
+5|||5
+você esta viajando de volta para o centro de eldora|||You are traveling back to the center of Eldora.
+...|||...
+Vila de Vangurd:|||Vangurd Village:
+[1]loja|||[1]store
+[2]igreja|||[2]church
+[3]mercado|||[3]market
+[4]casa|||[4]house
+[5]voltar para eldora|||[5] return to Eldora
+[6]abrir inventario|||[6]open inventory
+[7]abrir status|||[7]open status
+o queres fazer?|||What do you want to do?
+5|||5
+você esta viajando de volta para o centro de eldora|||You are traveling back to the center of Eldora.
+...|||...
+1|||1
+[comerciante de Vangurd]:seja bem vindo a minha humilde loja|||[Merchant from Vangurd]: Welcome to my humble shop.
+[1]ver estoque|||[1]see stock
+[2]vender itens|||[2] sell items
+[3]conversar|||[3]talk
+[0]sair|||[0]exit
+o que deseja fazer?|||What do you want to do?
+0|||0
+ao sair você percebe que o comerciante ficou feliz pois você comprou algo...|||As you leave, you realize the shopkeeper was happy because you bought something...
+ok....volte sempre!|||Okay...come back anytime!
+3|||3
+modo livre...escreva qualquer coisa que ele te responderá...tecnologia DreamCore,fale palavras como tchau,adeus para sair do chat|||Free mode...write anything and he will reply...DreamCore technology, say words like goodbye to exit the chat.
+comerciante de vangurd|||merchant of vangurd
+2|||2
+você entra na igreja mas percebe que ainda está em construção...\nlogo á frente o padre celebrando uma missa.....|||You enter the church but realize it's still under construction...\nright ahead, the priest is celebrating mass.....
+Vila de Nocten:|||Nocten Village:
+[1]loja|||[1]store
+[2]igreja|||[2]church
+[3]mercado|||[3]market
+[4]casa|||[4]house
+[5]ver mapa|||[5]see map
+[6]menu jogador|||[6]player menu
+o queres fazer?|||What do you want to do?
+5|||5
+você esta viajando de volta para o centro de eldora|||You are traveling back to the center of Eldora.
+...|||...
+1|||1
+[comerciante de nocten]:bem vindo a minha loja de poções e itens almadiçoados|||[Nocten merchant]: Welcome to my shop of potions and cursed items.
+[1]ver estoque|||[1]see stock
+[2]vender itens|||[2] sell items
+[3]conversar|||[3]talk
+[0]sair|||[0]exit
+o que deseja fazer?|||What do you want to do?
+0|||0
+ao sair você percebe que o comerciante ficou feliz pois você comprou algo...|||As you leave, you realize the shopkeeper was happy because you bought something...
+ok....volte sempre!|||Okay...come back anytime!
+3|||3
+modo livre...escreva qualquer coisa que ele te responderá...tecnologia DreamCore,fale palavras como tchau,adeus para sair do chat|||Free mode...write anything and he will reply...DreamCore technology, say words like goodbye to exit the chat.
+comerciante de nocten|||nocten merchant
+2|||2
+você entra na igreja mas percebe que ainda está em construção|||You enter the church but realize it's still under construction.
+dinheiro|||money
+estoque|||stock
+vila de Ebranthal:|||Ebranthal village:
+[1]loja|||[1]store
+[2]igreja|||[2]church
+[3]mercado|||[3]market
+[4]casa|||[4]house
+[5]ver mapa|||[5]see map
+[6]menu jogador|||[6]player menu
+o queres fazer?|||What do you want to do?
+5|||5
+você esta viajando de volta para o centro de eldora|||You are traveling back to the center of Eldora.
+...|||...
+1|||1
+[comerciante de Ebranthal]:bem vindo á minha loja|||[Merchant from Ebranthal]: Welcome to my shop.
+[1]ver estoque|||[1]see stock
+[2]vender itens|||[2] sell items
+[3]conversar|||[3]talk
+[0]sair|||[0]exit
+o que deseja fazer?|||What do you want to do?
+0|||0
+ao sair você percebe que o comerciante ficou feliz pois você comprou algo...|||As you leave, you realize the shopkeeper was happy because you bought something...
+ok....volte sempre!|||Okay...come back anytime!
+3|||3
+modo livre...escreva qualquer coisa que ele te responderá...tecnologia DreamCore,fale palavras como tchau,adeus para sair do chat|||Free mode...write anything and he will reply...DreamCore technology, say words like goodbye to exit the chat.
+comerciante de ebranthal|||merchant of Ebranthal
+2|||2
+você entra na igreja mas percebe que ainda está em construção|||You enter the church but realize it's still under construction.
+você está bêbado...|||You're drunk...
+você entra nessa floresta mas esse lugar definitivamente não te conforta|||You enter this forest, but this place definitely doesn't comfort you.
+o ceu parece escurecer e ficar de noite|||The sky seems to darken and become night.
+arvores|||trees
+inimigos|||enemies
+cogumelo ambulante|||walking mushroom
+vida|||life
+ataque|||attack
+habilidade especial|||special skill
+envenenamento|||poisoning
+goblin do mal|||evil goblin
+vida|||life
+ataque|||attack
+habilidade especial|||special skill
+lançamento de adaga|||dagger throw
+assasino das trevas|||dark assassin
+vida|||life
+ataque|||attack
+habilidade especial|||special skill
+nenhuma|||none
+demonio da noite|||night demon
+vida|||life
+ataque|||attack
+habilidade especial|||special skill
+envenamento demoniaco|||demonic poisoning
+arvores|||trees
+[1]quebrar uma arvore|||[1]break a tree
+[2]caminhar pela floresta|||[2]walking through the forest
+[0]sair da floresta|||[0]leave the forest
+o que deseha fazer?|||What do you want to do?
+olá!antes de começar o jogo poderiamos perguntar se queira criar uma conta pra conteudos online? |||Hi! Before we start the game, could we ask if you'd like to create an account for online content?
+é de graça e te permite \n desfrutar de modos interativos multiplayer!|||It's free and allows you to enjoy interactive multiplayer modes!
+[S]sim, eu gostaria.\n[N]não, obrigado|||[Y]yes, I would like to.\n[N]no, thank you.
+s|||s
+http://luizsgustavo76.pythonanywhere.com|||http://luizsgustavo76.pythonanywhere.com
+/create-id|||/create-id
+nickname|||nickname
+email|||e-mail
+senha|||password
+escolha um nickname, ele é unico e inalterável, é usado essencialmente \n |||Choose a nickname; it's unique and unchangeable, and is essentially used...
+para chats,trades e recursos online!|||For chats, trades, and online resources!
+qual será seu nickname?seja criativo ^^|||What will your nickname be? Be creative! ^^
+[S]sim [N]não|||[Y]yes [N]no
+s|||s
+nickname|||nickname
+deseja colocar um email?em caso de esquecimento de senha poderemos \n |||Do you want to enter an email address? If you forget your password, we can help.
+enviar um email de redefinição de senha!e tambem terá noticias de \n |||Send a password reset email! And you'll also receive news about...
+primeira mão direto no seu email|||First-hand information sent directly to your email.
+obs:enviaremos um email de confirmação na sua caixa de entrada|||Note: We will send a confirmation email to your inbox.
+[S] sim, [N] não|||[S] yes, [N] no
+s|||s
+qual é seu email?|||What is your email address?
+você poderá mudar seu email de recuperação á qualquer momento |||You can change your recovery email at any time.
+nas configurações|||in the settings
+email|||e-mail
+agora...defina uma senha por favor|||Now... please set a password.
+sua senha:|||Your password:
+sua senha é muito curta...mas você tem a opção de ficar mas encarar |||Your password is too short... but you have the option to stay but face it.
+riscos de segurança:segundo a licença|||security risks: according to the license
+[S] sim,tenho consimento do risco, |||[S] Yes, I am aware of the risk,
+[N] não,quero redefinir minha senha|||[N] No, I want to reset my password.
+s|||s
+o aviso foi dado...|||The warning was given...
+confirme sua senha|||confirm your password
+suas senhas não se coicidem|||Your passwords don't match.
+senha|||password
+enviando dados pro servidor...:[andamento]|||Sending data to the server...:[in progress]
+enviando dados pro servidor...:|||Sending data to the server...:
+[concluido]|||[completed]
+enviando dados pro servidor...:|||Sending data to the server...:
+[FALHA]|||[FAILURE]
+ um erro aconteceu durante a comunicação com os servidores,|||An error occurred during communication with the servers.
+por favor tente mais tarde,se o erro persistir contacte no |||Please try again later. If the error persists, contact us at [phone number/contact information].
+email:luizsgustavo76@gmail.com|||email: luizsgustavo76@gmail.com
+Resposta não é JSON:|||The response is not JSON:
+gerando ID|||generating ID
+id|||id
+finalizando criação da conta|||Finishing account creation
+https://luizsgustavo76.pythonanywhere.com|||https://luizsgustavo76.pythonanywhere.com
+hora|||time
+nome|||name
+mensagem|||message
+Erro ao receber mensagens:|||Error receiving messages:
+> |||>
+/sair|||/to go out
+Saindo do chat...|||Leaving the chat...
+nome|||name
+mensagem|||message
+hora|||time
+%H:%M:%S|||%H:%M:%S
+Erro ao enviar mensagem:|||Error sending message:
+exp|||exp
+exp|||exp
+nivel|||level
+nivel|||level
+pontos_upgrades|||upgrade_points
+você subiu de nivel para o nivel|||you leveled up to level
+nivel|||level
+#|||#
+[|||[
+]|||]
+facil|||easy
+gorthak tirano da pedra["dano"]|||Gorthak, tyrant of the stone ["damage"]
+gorthak tirano da pedra["ataques"]|||gorthak tyrant of the stone ["attacks"]
+gorthak tirano da pedra["vida"]|||Gorthak, tyrant of the stone ["life"]
+que belo dia....bom PRA TACAR UMA GARRAFA NA TUA CABEÇA,garotos como você não deveria estar nesse bar especialmente seno derrotado por mim,Então é isso?irá me deixar para trás para morrer??,toda causa haja uma consequencia|||What a beautiful day... perfect for throwing a bottle at your head. Boys like you shouldn't be in this bar, especially being defeated by me. So, is that it? You're going to leave me behind to die? Every cause has a consequence.
+barman|||bartender
+barman|||bartender
+[1]atacar|||[1]attack
+[2]defender|||[2]defender
+[3]habilidade|||[3]ability
+[4]trocar aliado|||[4]switch ally
+[5]inventario|||[5]inventory
+[6]fugir da batalha|||[6] flee from battle
+escolha uma opção|||choose an option
+1|||1
+====== BAÚ ======|||====== CHEST ======
+[1] Ver itens no baú|||[1] View items in the chest
+[2] Guardar item no baú|||[2] Store item in chest
+[3] Retirar item do baú|||[3] Remove item from chest
+[0] Sair|||[0] Exit
+Escolha uma opção: |||Choose an option:
+1|||1
+Itens no baú:|||Items in the chest:
+_|||_
+ ||| 
+O baú está vazio.|||The chest is empty.
+Pressione Enter para continuar...|||Press Enter to continue...
+2|||2
+Nome do item para guardar: |||Name of the item to store:
+ ||| 
+_|||_
+Quantidade para guardar: |||Quantity to store:
+_|||_
+ ||| 
+Você não tem essa quantidade.|||You don't have that amount.
+Item não encontrado no inventário.|||Item not found in inventory.
+Pressione Enter para continuar...|||Press Enter to continue...
+3|||3
+Nome do item para retirar: |||Name of the item to be removed:
+ ||| 
+_|||_
+Quantidade para retirar: |||Quantity to withdraw:
+_|||_
+ ||| 
+Você não tem essa quantidade no baú.|||You don't have that amount in the chest.
+Item não encontrado no baú.|||Item not found in the chest.
+Pressione Enter para continuar...|||Press Enter to continue...
+0|||0
+Opção inválida.|||Invalid option.
+criador_trade|||creator_trade
+integrantes|||members
+itens|||items
+em_duracao|||in_duration
+limite_pessoas|||limit_people
+Quantos participantes terão?\n*Limite 10 integrantes|||How many participants will there be? *Limit 10 participants
+Digite um número válido!|||Enter a valid number!
+Não é possível criar a trade, limite ultrapassado. Integrantes máximos são 10|||It's not possible to create a trade; the limit has been exceeded. The maximum number of members is 10.
+Não é possível criar uma mesa de trades com menos de 2 pessoas|||It is not possible to create a trading table with fewer than 2 people.
+criador_trade|||creator_trade
+nome|||name
+limite_pessoas|||limit_people
+em_duracao|||in_duration
+True|||True
+integrantes|||members
+nome|||name
+https://luizsgustavo76.pythonanywhere.com|||https://luizsgustavo76.pythonanywhere.com
+criador_trade|||creator_trade
+criador_trade|||creator_trade
+integrantes|||members
+integrantes|||members
+itens|||items
+itens|||items
+em_duracao|||in_duration
+em_duracao|||in_duration
+limite_pessoas|||limit_people
+limite_pessoas|||limit_people
+Erro ao conectar ao servidor:|||Error connecting to the server:
+\nCENTRO MERCANTIL DE ELDORA\n|||\nELDORA MERCANTIL CENTER\n
+Nenhum estande disponível.\n|||No booths available.
+-|||-
+nome_stand|||stand_name
+nome|||name
+-|||-
+itens|||items
+Itens inválidos ou corrompidos.|||Invalid or corrupted items.
+Sem itens à venda.|||No items for sale.
+item|||item
+Desconhecido|||Unknown
+preco|||price
+N/A|||N/A
+-|||-
+\n|||\n
+https://luizsgustavo76.pythonanywhere.com|||https://luizsgustavo76.pythonanywhere.com
+nome|||name
+nome|||name
+itens|||items
+valor_pago|||value_paid
+nome_stand|||stand_name
+Qual será o titulo do estande?|||What will the title of the booth be?
+Titulo:|||Title:
+nome_stand|||stand_name
+pra você ter seu estande você o aluga por hora(horario real) ou minutos!,somente 1000 moedas por hora ou 16 moedas por minuto!|||To have your own booth, you rent it by the hour (real time) or by the minute! Only 1000 coins per hour or 16 coins per minute!
+[1] por hora|||[1] per hour
+[2] por minuto|||[2] per minute
+qual opção deseja escolher?|||Which option would you like to choose?
+1|||1
+quantas horas você deseja alugar?|||How many hours do you want to rent?
+tempo:|||time:
+deseja continuar\n[S] sim\n[N] não|||Do you wish to continue? [Y] Yes [N] No
+n|||n
+s|||s
+moedas|||coins
+valor_pago|||value_paid
+2|||2
+quantos minutos você deseja alugar?|||How many minutes do you want to rent?
+tempo:|||time:
+deseja continuar\n[S] sim\n[N] não|||Do you wish to continue? [Y] Yes [N] No
+n|||n
+s|||s
+moedas|||coins
+valor_pago|||value_paid
+quais serão o itens a venda...digite /finalizar pra finalizar a seleção de itens|||Which items will be for sale...type /finish to finalize the item selection.
+/finalizar|||/finish
+item adicionado!|||Item added!
+qual será o valor da unidade desse item?|||What will be the unit price of this item?
+Preço:|||Price:
+itens|||items
+item|||item
+preco|||price
+digite um numero NÃO UMA PALAVRA!!!|||Enter a number, NOT A WORD!!!
+item não encontrado no seu inventário|||Item not found in your inventory.
+finalizando...|||In conclusion...
+/s-stands|||/s-stands
+https://luizsgustavo76.pythonanywhere.com|||https://luizsgustavo76.pythonanywhere.com
+[1] trocar itens|||[1] exchange items
+[2] chat interno|||[2] internal chat
+[0] sair|||[0] exit
+o que opção deseja escolher?|||Which option would you like to choose?
+0|||0
+1|||1
+qual item deseja trocar?se quer trocar moedas digite 'moedas {valor}|||Which item do you want to exchange? If you want to exchange coins, type 'coins {value}'.
+/adicionar-itens|||/add-items
+trade_id|||trade_id
+item|||item
+https://luizsgustavo76.pythonanywhere.com/r-trade|||https://luizsgustavo76.pythonanywhere.com/r-trade
+Nenhuma trade aberta no momento.|||No trades open at the moment.
+Trades abertas:|||Open trades:
+integrantes|||members
+integrantes|||members
+itens|||items
+itens|||items
+criador_trade|||creator_trade
+limite_pessoas|||limit_people
+\nDigite o número da trade que deseja entrar (ou 0 para cancelar): |||Enter the trade number you wish to enter (or 0 to cancel):
+criador_trade|||creator_trade
+https://luizsgustavo76.pythonanywhere.com/entrar-trade|||https://luizsgustavo76.pythonanywhere.com/entrar-trade
+trade_id|||trade_id
+id|||id
+nome|||name
+nome|||name
+status|||status
+ok|||OK
+integrantes|||members
+id|||id
+mensagem|||message
+Número inválido. Tente novamente.|||Invalid number. Please try again.
+Digite um número válido!|||Enter a valid number!
+=====CENTRO MERCANTÍL DE ELDORA=====|||=====ELDORA MARKET CENTER=====
+[1] trades|||[1] trades
+[2] ir nos estandes de vendas|||[2] go to the sales stands
+[3] abrir o chat|||[3] open the chat
+[0]sair|||[0]exit
+o que deseja fazer?|||What do you want to do?
+0|||0
+você sai do centro...|||you leave the center...
+3|||3
+1|||1
+[1]criar uma mesa de trade|||[1]create a trading table
+[2]ver mesas de trades abertas|||[2]see open trading tables
+[0] sair|||[0] exit
+o que deseja fazer?|||What do you want to do?
+1|||1
+2|||2
+em qual trade deseja|||which trade do you want?
+0|||0
+2|||2
+[1] Criar um Estande|||[1] Create a Booth
+[2] Ver Estandes|||[2] See Stands
+[0] sair|||[0] exit
+qual opção deseja escolher?|||Which option would you like to choose?
+1|||1
+2|||2
+https://luizsgustavo76.pythonanywhere.com|||https://luizsgustavo76.pythonanywhere.com
+0|||0
+opção invalida|||invalid option
+pocao_exp2|||pocao_exp2
+espada2|||sword2
+pao2|||pao2
+carne2|||meat2
+batata2|||potato2
+pocao_de_stamina2|||pocao_de_stamina2
+artefato_luz2|||artifact_light2
+artefato_fogo2|||artifact_fire2
+artefato_agua2|||artifact_water2
+artefato_lava2|||artifact_lava2
+artefato_diamante2|||diamond_artifact2
+artefato_força2|||artifact_force2
+artefato_defesa2|||defense_artifact2
+artefato_ouro2|||gold_artifact2
+artefato_sorte2|||artifact_luck2
+artefato_magia2|||artifact_magic2
+moeda_do_submundo2|||underworld_coin2
+contrato_das_almas2|||contract_of_souls2
+amuleto_da_necromancia2|||necromancy_amulet2
+fumaca_da_ilusao2|||smoke_of_illusion2
+adaga_envenenada2|||poisoned_dagger2
+armadura_sombria2|||dark_armor2
+_|||_
+ ||| 
+ ||| 
+Seu inventário está vazio.|||Your inventory is empty.
+ ||| 
+ ||| 
+_|||_
+pao2|||pao2
+batata2|||potato2
+Você recuperou 10 de vida.|||You regained 10 points of life.
+carne2|||meat2
+Você recuperou 20 de vida.|||You've regained 20 seconds of life.
+pocao_de_stamina2|||pocao_de_stamina2
+Você recuperou toda sua energia.|||You've regained all your energy.
+pocao_exp2|||pocao_exp2
+Você ganhou 100 de exp!|||You gained 100 experience points!
+exp|||exp
+cerveja|||beer
+Você bebeu uma cerveja.|||You drank a beer.
+cerveja|||beer
+pinga de mel|||honey drop
+Você bebeu uma pinga de mel.|||You drank a shot of honey.
+pinga de mel|||honey drop
+cachaça mineira|||cachaça from Minas Gerais
+você bebeu uma cachaça mineira|||You drank some cachaça from Minas Gerais.
+cachaça mineira|||cachaça from Minas Gerais
+vodka|||vodka
+Você bebeu uma vodka|||You drank a vodka.
+vodka|||vodka
+velho barreiro|||old clay pit
+você bebeu um velho barreiro.|||You drank some old-fashioned rum.
+velho barreiro|||old clay pit
+1|||1
+Você examinou o item. Pode ser útil em crafting.|||You examined the item. It might be useful for crafting.
+moeda_do_submundo2|||underworld_coin2
+Você ouviu sussurros do além...|||You heard whispers from beyond...
+contrato_das_almas2|||contract_of_souls2
+Você fez um pacto obscuro.|||You made a dark pact.
+amuleto_da_necromancia2|||necromancy_amulet2
+Mortos agora te reconhecem como um dos deles.|||The dead now recognize you as one of their own.
+fumaca_da_ilusao2|||smoke_of_illusion2
+Você ficou invisível por alguns segundos.|||You became invisible for a few seconds.
+adaga_envenenada2|||poisoned_dagger2
+Sua próxima lâmina será mortal.|||His next blade will be deadly.
+armadura_sombria2|||dark_armor2
+Uma armadura sombria envolve seu corpo.|||A dark armor envelops his body.
+espada2|||sword2
+armadura2|||armor2
+Você equipou um novo equipamento de batalha.|||You have equipped a new battle gear.
+Você usou o item, mas nada aconteceu.|||You used the item, but nothing happened.
+Item não encontrado no inventário.|||Item not found in inventory.
+valor_nivel|||level_value
+bronze I|||bronze I
+bronze II|||bronze II
+bronze III|||bronze III
+prata I|||silver I
+prata II|||silver II
+prata III|||silver III
+ouro I|||gold I
+ouro II|||gold II
+ouro III|||Gold III
+platina I|||Platinum I
+platina II|||Platinum II
+platina III|||Platinum III
+diamante I|||Diamond I
+diamante II|||diamond II
+diamante III|||Diamond III
+mestre I|||Master I
+mestre II|||Master II
+mestre III|||Master III
+mestre da honrra I|||Master of Honor I
+mestre da honrra II|||Master of Honor II
+mestre da honrra III|||Master of Honor III
+elite I|||elite I
+elite II|||elite II
+elite III|||elite III
+bem vindo |||welcome
+nome|||name
+classe|||class
+bem vindo ao tutorial|||Welcome to the tutorial.
+você deseja fazer o tutorial? (s/n)|||Do you want to do the tutorial? (y/n)
+n|||n
+então que a aventura começe|||So let the adventure begin.
+The Legends Of Eldora|||The Legends of Eldora
+s|||s
+bem vindo ao mundo de eldora|||Welcome to the world of Eldora.
+pra começar vamos comprar uma espada|||To begin with, let's buy a sword.
+<--------|||<--------
+ <-------|||<-------
+  <------|||  <------
+   <-----|||   <-----
+(1)ir a taverna|||(1) go to the tavern
+(2)loja|||(2)store
+(3)inventario|||(3)inventory
+(1)ir a taverna|||(1) go to the tavern
+(2)loja|||(2)store
+(3)inventario|||(3)inventory
+(1)ir a taverna|||(1) go to the tavern
+(2)loja|||(2)store
+(3)inventario|||(3)inventory
+(1)ir a taverna|||(1) go to the tavern
+(2)loja|||(2)store
+(3)inventario|||(3)inventory
+(1)ir a taverna|||(1) go to the tavern
+(2)loja|||(2)store
+(3)inventario|||(3)inventory
+(1)ir a taverna|||(1) go to the tavern
+(2)loja|||(2)store
+(3)inventario|||(3)inventory
+(1)ir a taverna|||(1) go to the tavern
+(2)loja|||(2)store
+(3)inventario|||(3)inventory
+facil|||easy
+medio|||average
+dificil|||difficult
+inferno|||hell
+morte_facil|||easy_death
+ok cara você tem que treinar mais um pouco|||Okay man, you need to train a little more.
+morte_medio|||death_medium
+não desista você ainda consegue|||Don't give up, you can still do it.
+morte_dificil|||difficult_death
+isso que foi uma batalha boa|||That was a good battle!
+morte_inferno|||death_hell
+você tentou,isso que foi o mais dificil|||You tried, that was the hardest part.
+\033[1;31m|||\033[1;31m
+\033[1;32m|||\033[1;32m
+\033[1;34m|||\033[1;34m
+\033[1;33m|||\033[1;33m
+\033[0m|||\033[0m
+\033[1;35m|||\033[1;35m
+\033[1;36m|||\033[1;36m
+\033[1;37m|||\033[1;37m
+\033[33m|||\033[33m
+\033[92m|||\033[92m
+\033[1;37m|||\033[1;37m
+descarted: aw000|||discarded: aw000
+caracol maligno|||evil snail
+aranha|||spider
+slime|||slime
+goblin|||goblin
+gorthak o tirano da pedra|||Gorthak the Tyrant of Stone
+taverna|||tavern
+loja|||store
+guilda|||guild
+masmorra|||dungeon
+antigo_guerreiro|||ancient_warrior
+bebado|||drunk
+vida_max|||life_max
+vida|||life
+defesa|||defense
+mana|||manna
+exp|||exp
+maestria com espadas|||sword mastery
+magia|||magic
+habilidade|||ability
+exp_valor|||exp_value
+pontos upgrades|||upgrade points
+habilidade_cavaleiro|||knight_skill
+golpe divino|||divine strike
+habilidade_bruxo|||wizard_skill
+bola de fogo|||fireball
+habilidade_goblin|||goblin_skill
+lançar adaga|||throw dagger
+habilidade_monstro|||monster_ability
+rugido aterrorizante|||terrifying roar
+habilidade_mercador|||merchant_skill
+suborno|||bribe
+habilidade_cavaleiro2|||knight_skill2
+escudo sagrado|||sacred shield
+habilidade_cavaleiro3|||knight_skill3
+investida brutal|||brutal attack
+habilidade_cavaleiro4|||knight_skill4
+voto de honra|||vote of honor
+habilidade_bruxo2|||wizard_skill2
+explosão arcana|||arcane explosion
+habilidade_bruxo3|||wizard_skill3
+maldição sombria|||dark curse
+habilidade_bruxo4|||wizard_skill4
+drenar alma|||drain soul
+habilidade_goblin2|||goblin_skill2
+fuga agil|||swift escape
+habilidade_goblin3|||goblin_skill3
+zombaria|||mockery
+habilidade_goblin4|||goblin_skill4
+bomba improvisada|||improvised bomb
+habilidade_mercador2|||merchant_skill2
+oferta relampago|||Flash Sale
+habilidade_mercador3|||merchant_skill3
+persuação|||persuasion
+habilidade_mercador4|||merchant_skill4
+lucro maxímo|||maximum profit
+habilidade_monstro2|||monster_ability2
+mordida voraz|||voracious bite
+habilidade_monstro3|||monster_ability3
+raiva selvagem|||wild rage
+habilidade_monstro4|||monster_ability4
+regeneraçao natural|||natural regeneration
+resfriado|||cold
+exposto_clima|||exposed_climate
+o dia está com um pouco de sol|||It's a somewhat sunny day.
+o dia está chuvoso|||It's a rainy day.
+exposto_clima|||exposed_climate
+está com uma chuva forte,até parece que vai dar uma tempestade|||It's raining heavily, it looks like a storm is coming.
+exposto_clima|||exposed_climate
+está uma tempestade intensa com raios e ventos fortes,e melhor eu me abrigar|||There's a severe storm with lightning and strong winds, I'd better take shelter.
+exposto_clima|||exposed_climate
+o dia está nublado,está até bom ficar aqui!|||It's a cloudy day, but it's actually nice to be here!
+o dia tá ensolarado,aproveite para fazer suas tarefas|||It's a sunny day, take advantage of it to get your chores done.
+está tendo uma nevasca,e melhor eu me abrigar|||There's a snowstorm going on, I'd better take shelter.
+exposto_clima|||exposed_climate
+exposto_clima|||exposed_climate
+você está esposto ao clima arrume um abrigo! |||You are exposed to the elements, find shelter!
+exposto_clima|||exposed_climate
+você está muito exposto ao clima arrume um abrigo urgentemente|||You are too exposed to the elements; find shelter urgently.
+madeira|||wood
+pontos de upgrade|||upgrade points
+conquistas|||achievements
+item espada bau|||item sword chest
+bebado|||drunk
+antigo_heroi|||ancient_hero
+carvão|||coal
+adaga|||dagger
+barra_cobre|||copper_bar
+pipeta_cobre|||copper pipette
+capacete|||helmet
+peitoral|||chest
+calças|||pants
+botas|||boots
+pocao_exp2|||pocao_exp2
+espada2|||sword2
+pao2|||pao2
+carne2|||meat2
+batata2|||potato2
+pocao_de_stamina2|||pocao_de_stamina2
+cerveja2|||beer2
+pinga2|||pinga2
+choro_dragao2|||choro_dragao2
+skull_soul2|||skull_soul2
+dead_soul2|||dead_soul2
+alma_negra2|||black_soul2
+artefato_luz2|||artifact_light2
+artefato_fogo2|||artifact_fire2
+artefato_agua2|||artifact_water2
+artefato_lava2|||artifact_lava2
+artefato_diamante2|||diamond_artifact2
+artefato_força2|||artifact_force2
+artefato_defesa2|||defense_artifact2
+artefato_ouro2|||gold_artifact2
+artefato_sorte2|||artifact_luck2
+artefato_magia2|||artifact_magic2
+dente_goblin1|||goblin_tooth1
+olho_aranha1|||spider_eye1
+bola_slime1|||slime_ball1
+casca_caracol1|||snail_shell1
+moeda_do_submundo2|||underworld_coin2
+contrato_das_almas2|||contract_of_souls2
+amuleto_da_necromancia2|||necromancy_amulet2
+fumaca_da_ilusao2|||smoke_of_illusion2
+adaga_envenenada2|||poisoned_dagger2
+armadura_sombria2|||dark_armor2
+cerveja|||beer
+pinga_de_mel|||honey drop
+cachaça_mineira|||cachaça_mineira
+vodka|||vodka
+velho_barreiro|||old_clay
+balde|||bucket
+obsidiana|||obsidian
+balde de água|||bucket of water
+balde de lava|||bucket of lava
+picareta de obsidiana|||obsidian pickaxe
+picareta de cobre|||copper pickaxe
+cobre bruto|||raw copper
+ferro bruto|||raw iron
+ouro bruto|||raw gold
+machado de madeira|||wooden axe
+machado de ferro|||iron axe
+machado de pedra|||stone axe
+machado de ferro|||iron axe
+machado de cobre|||copper axe
+machado de obsidiana|||obsidian axe
+machado de diamante|||diamond axe
+pedra|||stone
+pergaminho da forca I|||gallows scroll I
+pergaminho da forca II|||gallows scroll II
+pergaminho da forca III|||gallows parchment III
+pergaminho da forca IV|||gallows scroll IV
+pergaminho da defesa I|||parchment of defense I
+pergaminho da defesa II|||parchment of defense II
+pergaminho da defesa III|||parchment of defense III
+pergaminho da defesa IV|||parchment of defense IV
+pergaminho de remendo|||patching parchment
+pergaminho de mais moedas|||parchment of more coins
+cobre|||copper
+ferro|||iron
+ouro|||gold
+diamante|||diamond
+rubi|||ruby
+esmeralda|||emerald
+amuleto das almas|||amulet of souls
+espada de rubi|||ruby sword
+espada de esmeralda|||emerald sword
+espada de ferro|||iron sword
+espada de cobre|||copper sword
+espada de ouro|||golden sword
+espada de diamante|||diamond sword
+espada de obsidiana|||obsidian sword
+capacete de madeira|||wooden helmet
+capacete de pedra|||stone helmet
+capacete de cobre|||copper helmet
+capacete de ferro|||iron helmet
+capacete de ouro|||golden helmet
+capacete de rubi|||ruby helmet
+capacete de esmeralda|||emerald helmet
+capacete de obsidiana|||obsidian helmet
+picareta de madeira|||wooden pickaxe
+picareta de pedra|||stone pickaxe
+picareta de cobre|||copper pickaxe
+picareta de ferro|||iron pickaxe
+picareta de ouro|||golden pickaxe
+picareta de esmeralda|||emerald pickaxe
+picareta de rubi|||ruby pickaxe
+picareta de diamante|||diamond pickaxe
+picareta de obsidiana|||obsidian pickaxe
+peitoral de madeira|||wooden breastplate
+peitoral de pedra|||stone breastplate
+peitoral de cobre|||copper breastplate
+peitoral de ferro|||Iron breastplate
+peitoral de ouro|||golden breastplate
+peitoral de esmeralda|||emerald breastplate
+peitoral de rubi|||ruby breastplate
+peitoral de diamante|||diamond breastplate
+peitoral de obsidiana|||obsidian breastplate
+calça de madeira|||wooden pants
+calça de pedra|||stone pants
+calça de cobre|||copper pants
+calça de ferro|||iron pants
+calça de ouro|||gold pants
+calça de rubi|||ruby pants
+calça de esmeralda|||emerald pants
+calça de diamante|||diamond pants
+calça de obsidiana|||obsidian pants
+botas de madeira|||wooden boots
+botas de pedra|||stone boots
+botas de cobre|||copper boots
+botas de ferro|||iron boots
+botas de ouro|||golden boots
+botas de rubi|||ruby boots
+botas de esmeralda|||emerald boots
+botas de diamante|||diamond boots
+botas de obidiana|||boots of obidian
+enxada de madeira|||wooden hoe
+enxada de pedra|||stone hoe
+enxada de cobre|||copper hoe
+enxada de ferro|||iron hoe
+enxada de ouro|||golden hoe
+enxada de rubi|||ruby hoe
+enxada de esmeralda|||emerald hoe
+enxada de diamante|||diamond hoe
+enxada de obsidiana|||obsidian hoe
+madeira|||wood
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+carvão|||coal
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+adaga|||dagger
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+barra_cobre|||copper_bar
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+pipeta_cobre|||copper pipette
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+pocao_exp2|||pocao_exp2
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+espada2|||sword2
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+pao2|||pao2
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+carne2|||meat2
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+batata2|||potato2
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+pocao_de_stamina2|||pocao_de_stamina2
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+cerveja2|||beer2
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+pinga2|||pinga2
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+artefato_luz2|||artifact_light2
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+artefato_fogo2|||artifact_fire2
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+artefato_agua2|||artifact_water2
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+artefato_lava2|||artifact_lava2
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+artefato_diamante2|||diamond_artifact2
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+artefato_força2|||artifact_force2
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+artefato_defesa2|||defense_artifact2
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+artefato_ouro2|||gold_artifact2
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+artefato_sorte2|||artifact_luck2
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+artefato_magia2|||artifact_magic2
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+moeda_do_submundo2|||underworld_coin2
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+contrato_das_almas2|||contract_of_souls2
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+amuleto_da_necromancia2|||necromancy_amulet2
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+fumaca_da_ilusao2|||smoke_of_illusion2
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+adaga_envenenada2|||poisoned_dagger2
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+armadura_sombria2|||dark_armor2
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+cerveja|||beer
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+pinga_de_mel|||honey drop
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+cachaça_mineira|||cachaça_mineira
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+vodka|||vodka
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+velho_barreiro|||old_clay
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+balde|||bucket
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+obsidiana|||obsidian
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+balde de água|||bucket of water
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+balde de lava|||bucket of lava
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+picareta de obsidiana|||obsidian pickaxe
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+picareta de cobre|||copper pickaxe
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+cobre bruto|||raw copper
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+ferro bruto|||raw iron
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+ouro bruto|||raw gold
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+machado de madeira|||wooden axe
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+machado de ferro|||iron axe
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+machado de pedra|||stone axe
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+machado de ferro|||iron axe
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+machado de cobre|||copper axe
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+machado de obsidiana|||obsidian axe
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+machado de diamante|||diamond axe
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+pedra|||stone
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+pergaminho da forca I|||gallows scroll I
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+pergaminho da forca II|||gallows scroll II
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+pergaminho da forca III|||gallows parchment III
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+pergaminho da forca IV|||gallows scroll IV
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+pergaminho da defesa I|||parchment of defense I
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+pergaminho da defesa II|||parchment of defense II
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+pergaminho da defesa III|||parchment of defense III
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+pergaminho da defesa IV|||parchment of defense IV
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+pergaminho de remendo|||patching parchment
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+pergaminho de mais moedas|||parchment of more coins
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+cobre|||copper
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+ferro|||iron
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+ouro|||gold
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+diamante|||diamond
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+rubi|||ruby
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+esmeralda|||emerald
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+amuleto das almas|||amulet of souls
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+espada de rubi|||ruby sword
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+espada de esmeralda|||emerald sword
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+espada de ferro|||iron sword
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+espada de cobre|||copper sword
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+espada de ouro|||golden sword
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+espada de diamante|||diamond sword
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+espada de obsidiana|||obsidian sword
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+capacete de madeira|||wooden helmet
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+capacete de pedra|||stone helmet
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+capacete de cobre|||copper helmet
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+capacete de ferro|||iron helmet
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+capacete de ouro|||golden helmet
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+capacete de rubi|||ruby helmet
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+capacete de esmeralda|||emerald helmet
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+capacete de obsidiana|||obsidian helmet
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+picareta de madeira|||wooden pickaxe
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+picareta de pedra|||stone pickaxe
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+picareta de cobre|||copper pickaxe
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+picareta de ferro|||iron pickaxe
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+picareta de ouro|||golden pickaxe
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+picareta de esmeralda|||emerald pickaxe
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+picareta de rubi|||ruby pickaxe
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+picareta de diamante|||diamond pickaxe
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+picareta de obsidiana|||obsidian pickaxe
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+peitoral de madeira|||wooden breastplate
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+peitoral de pedra|||stone breastplate
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+peitoral de cobre|||copper breastplate
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+peitoral de ferro|||Iron breastplate
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+peitoral de ouro|||golden breastplate
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+peitoral de esmeralda|||emerald breastplate
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+peitoral de rubi|||ruby breastplate
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+peitoral de diamante|||diamond breastplate
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+peitoral de obsidiana|||obsidian breastplate
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+calça de madeira|||wooden pants
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+calça de pedra|||stone pants
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+calça de cobre|||copper pants
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+calça de ferro|||iron pants
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+calça de ouro|||gold pants
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+calça de rubi|||ruby pants
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+calça de esmeralda|||emerald pants
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+calça de diamante|||diamond pants
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+calça de obsidiana|||obsidian pants
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+botas de madeira|||wooden boots
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+botas de pedra|||stone boots
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+botas de cobre|||copper boots
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+botas de ferro|||iron boots
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+botas de ouro|||golden boots
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+botas de rubi|||ruby boots
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+botas de esmeralda|||emerald boots
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+botas de diamante|||diamond boots
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+botas de obidiana|||boots of obidian
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+enxada de madeira|||wooden hoe
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+enxada de pedra|||stone hoe
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+enxada de cobre|||copper hoe
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+enxada de ferro|||iron hoe
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+enxada de ouro|||golden hoe
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+enxada de rubi|||ruby hoe
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+enxada de esmeralda|||emerald hoe
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+enxada de diamante|||diamond hoe
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+enxada de obsidiana|||obsidian hoe
+raridade|||rarity
+preço revenda|||resale price
+categoria|||category
+você encontra um báu de madeira\ndurante sua jornada\nsua curiosidade foi mais forte e você decide abrir ele|||You find a wooden chest during your journey; your curiosity gets the better of you and you decide to open it.
+você conseguiu um pergaminho da força nivel I.....!|||You obtained a Level I Strength Scroll.....!
+pergaminho da forca I|||gallows scroll I
+você conseguiu um pergaminho da defesa nivel I....!|||You obtained a Level I Defense Scroll...!
+pergaminho da defesa I|||parchment of defense I
+1|||1
+você encontra um báu de pedra\ndurante sua jornada\nsua curiosidade foi mais forte e você decide abrir ele|||You find a stone chest during your journey; your curiosity gets the better of you and you decide to open it.
+você conseguiu um pergaminho da força nivel II....!|||You obtained a Level II Strength Scroll...!
+pergaminho da forca II|||gallows scroll II
+você conseguiu um pergaminho da defesa nivel II....!|||You obtained a level II defense scroll...!
+pergaminho da defesa II|||parchment of defense II
+você encontra um báu de ouro\ndurante sua jornada\nsua curiosidade foi mais forte e você decide abrir ele|||You find a chest of gold during your journey; your curiosity gets the better of you and you decide to open it.
+você conseguiu um pergaminho de força nivel iii|||You obtained a level III strength scroll.
+pergaminho da forca iii|||gallows scroll iii
+você conseguiu um pergaminho de força nivel IV|||You obtained a level IV strength scroll.
+pergaminho da forca iv|||gallows scroll iv
+você conseguiu um pergaminho de defesa iii|||You obtained a Defense Scroll III.
+pergaminho da defesa iii|||parchment of defense iii
+você conseguiu um pergaminho da defesa nivel IV|||You obtained a level IV defense scroll.
+pergaminho da defesa iv|||parchment of defense iv
+você conseguiu um pergaminho de remendo|||You got a patching parchment.
+pergaminho de remendo|||patching parchment
+você ganhou um pergaminho de ganho de mais moedas|||You earned a scroll that grants you more coins.
+pergaminho de mais moedas|||parchment of more coins
+espada_madeira|||wooden_sword
+escudo_madeira|||wood_shield
+capacete_madeira|||helmet_wood
+placa_madeira|||wooden_plate
+placa_ferro|||iron_plate
+espada_ferro|||iron_sword
+escudo_ferro|||iron_shield
+capacete_ferro|||iron_helmet
+barra_ouro|||gold_bar
+barra_ferro|||iron_bar
+barra_prata|||silver_bar
+pipeta_ouro|||gold_pipette
+pipeta prata|||silver pipette
+cerveja|||beer
+pinga de mel|||honey drop
+cachaça mineira|||cachaça from Minas Gerais
+vodka|||vodka
+velho barreiro|||old clay pit
+dinheiro_barman|||bartender_money
+estoque_cerveja|||beer stock
+estoque_pinga_de_mel|||honey_pinga_stock
+estoque_cachaça_mineira|||stock_cachaça_mineira
+estoque_vodka|||vodka_stock
+estoque_velho_barreiro|||old_barrel_stock
+estoque_vinho|||wine stock
+estoque_whiskey|||whiskey_stock
+estoque_tequila|||tequila stock
+estoque_hidromel|||mead_stock
+estoque_rum|||rum_stock
+reputação taverna|||tavern reputation
+frequentadores|||regulars
+bebado|||drunk
+melhorias_taverna|||tavern improvements
+bancos|||banks
+mesas|||tables
+aparencia|||appearance
+bebidas|||drinks
+iluminação|||lighting
+cozinha|||kitchen
+cerveja|||beer
+cachaça mineira|||cachaça from Minas Gerais
+pinga de mel|||honey drop
+vodka|||vodka
+velho barreiro|||old clay pit
+estoque_|||stock_
+ ||| 
+_|||_
+capacete|||helmet
+antigo_guerreiro|||ancient_warrior
+bebado|||drunk
+antigo_guerreiro_hp|||ancient_warrior_hp
+bebado_hp|||drunk_hp
+ataque_guerreiro|||warrior_attack
+bebado_ataque|||drunk_attack
+guerreiro_defesa|||warrior_defense
+bebado_defesa|||drunk_defense
+mesas|||tables
+nivel 1|||level 1
+nivel 2|||level 2
+nivel 3|||level 3
+nivel 4|||level 4
+nivel 5|||level 5
+bancos|||banks
+nivel 1|||level 1
+nivel 2|||level 2
+nivel 3|||level 3
+nivel 4|||level 4
+nivel 5|||level 5
+aparencia|||appearance
+nivel 1|||level 1
+nivel 2|||level 2
+nivel 3|||level 3
+nivel 4|||level 4
+nivel 5|||level 5
+cozinha|||kitchen
+nivel 1|||level 1
+nivel 2|||level 2
+nivel 3|||level 3
+nivel 4|||level 4
+nivel 5|||level 5
+loja sombria|||dark shop
+nivel 1|||level 1
+nivel 2|||level 2
+nivel 3|||level 3
+nivel 4|||level 4
+nivel 5|||level 5
+bebidas|||drinks
+nivel 1|||level 1
+nivel 2|||level 2
+nivel 3|||level 3
+nivel 4|||level 4
+nivel 5|||level 5
+iluminação|||lighting
+nivel 1|||level 1
+nivel 2|||level 2
+nivel 3|||level 3
+nivel 4|||level 4
+nivel 5|||level 5
+mesas|||tables
+bancos|||banks
+aparencia|||appearance
+cozinha|||kitchen
+loja sombria|||dark shop
+bebidas|||drinks
+iluminação|||lighting
+nome|||name
+=== Lista de amigos disponíveis para PvP ===|||=== List of friends available for PvP ===
+Escolha o número do amigo para iniciar o PvP: |||Choose your friend's number to start PvP:
+Escolha inválida.|||Invalid choice.
+Não foi possível conectar ao amigo.|||We were unable to connect to our friend.
+ATAQUE|||ATTACK
+FUGA|||ESCAPE
+O inimigo fugiu!|||The enemy has fled!
+\n=== Seu turno ===|||Your turn ===
+1 - Atacar|||1 - Attack
+2 - Defender|||2 - Defender
+3 - Inventário|||3 - Inventory
+4 - Fugir|||4 - Escape
+Escolha sua ação: |||Choose your action:
+1|||1
+ATAQUE|||ATTACK
+Você atacou!|||You attacked!
+2|||2
+Você está se defendendo no próximo turno.|||You're defending yourself in the next round.
+3|||3
+Inventário:|||Inventory:
+4|||4
+FUGA|||ESCAPE
+Você fugiu da batalha.|||You ran away from the battle.
+Ação inválida.|||Invalid action.
+Você venceu a batalha!|||You won the battle!
+Você foi derrotado.|||You have been defeated.
+poção|||potion
+Cura 20 HP|||Heals 20 HP
+espada|||sword
+Dano +10|||Damage +10
+escudo|||shield
+Defesa +5|||Defense +5
+Notificação de Amigo|||Friend Notification
+MSG:|||MSG:
+TRADE:|||TRADE:
+MSG:|||MSG:
+TRADE:|||TRADE:
+Amigo se desconectou.|||My friend disconnected.
+/enviaritem|||/senditem
+Você não tem esse item.|||You don't have that item.
+Uso: /enviaritem nome_do_item|||Usage: /senditem item_name
+/itens|||/items
+Seus itens:|||Your items:
+, |||,
+=== Sistema de Trade Online ===|||=== Online Trading System ===
+Digite seu nome: |||Enter your name:
+1 - Criar host|||1 - Create host
+2 - Conectar como cliente|||2 - Connect as a customer
+Escolha: |||Choice:
+poção|||potion
+espada|||sword
+1|||1
+Esperando amigo se conectar...|||Waiting for friend to connect...
+2|||2
+Digite o IP do host: |||Enter the host's IP address:
+Conectado ao host!|||Connected to the host!
+Opção inválida.|||Invalid option.
+nome|||name
+senha|||password
+dono|||owner
+membros|||members
+conexoes|||connections
+mensagens|||messages
+convidados|||guests
+guilda_ativa|||active_guild
+atividades|||activities
+membros_detectados|||members_detected
+patentes|||patents
+historico_guilda.txt|||guild_history.txt
+a|||the
+guilda.json|||guild.json
+w|||w
+guilda.json|||guild.json
+guilda.json|||guild.json
+r|||r
+\nMenu da Guilda Online:|||Online Guild Menu:
+1. Criar guilda|||1. Create a guild
+2. Entrar na guilda existente|||2. Join the existing guild
+Escolha: |||Choice:
+nome|||name
+1. Ver atividade dos membros|||1. View member activity
+2. Adicionar membro (por IP)|||2. Add member (by IP)
+3. Expulsar membro|||3. Expel member
+4. Enviar broadcast|||4. Send broadcast
+5. PvP|||5. PvP
+6. Trade|||6. Trade
+7. Chat|||7. Chat
+8. Enviar script para membros|||8. Send script to members
+9. Definir patente|||9. Define patent
+10. Sair|||10. Exit
+\n[Chat da Guilda]|||[Guild Chat]
+mensagens|||messages
+Digite a mensagem (ou 'exit()' para sair): |||Enter your message (or 'exit()' to exit):
+exit()|||exit()
+conexoes|||connections
+mensagens|||messages
+Host|||Host
+Nome do arquivo .py para enviar: |||Name of the .py file to send:
+Arquivo não encontrado.|||File not found.
+r|||r
+conexoes|||connections
+Script enviado para todos os membros.|||Script sent to all members.
+b"1. Atacar 2. Defender 3. Fugir: "|||b"1. Attack 2. Defend 3. Flee: "
+1|||1
+2|||2
+1|||1
+2|||2
+3|||3
+3|||3
+b"Um dos jogadores fugiu!\n"|||One of the players escaped!
+b"Um dos jogadores fugiu!\n"|||One of the players escaped!
+Um jogador fugiu do PvP.|||A player fled from PvP.
+PvP finalizado.|||PvP finished.
+b"Digite item para enviar: "|||b"Enter item to send: "
+b"Digite item para enviar: "|||b"Enter item to send: "
+b"Recebeu: "|||b"Received: "
+b"Recebeu: "|||b"Received: "
+IP do membro: |||Member's IP address:
+Patente a atribuir: |||Patent to be assigned:
+patentes|||patents
+Servidor iniciado.|||Server started.
+guilda_ativa|||active_guild
+Digite a senha da guilda: |||Enter the guild password:
+senha|||password
+Senha incorreta. Conexão encerrada.|||Incorrect password. Connection terminated.
+conexoes|||connections
+membros|||members
+atividades|||activities
+mensagens|||messages
+atividades|||activities
+conexoes|||connections
+membros|||members
+membros|||members
+1|||1
+Seu IP (ou 127.0.0.1 para local): |||Your IP address (or 127.0.0.1 for local):
+Nome da guilda: |||Guild name:
+Defina a senha da guilda: |||Set the guild password:
+dono|||owner
+nome|||name
+senha|||password
+Guilda existente carregada.|||Existing guild loaded.
+Escolha: |||Choice:
+1|||1
+atividades|||activities
+patentes|||patents
+Sem patente|||No patent
+2|||2
+IP do novo membro: |||New member's IP address:
+convidados|||guests
+3|||3
+IP a remover: |||IP address to remove:
+membros|||members
+membros|||members
+4|||4
+Mensagem de broadcast: |||Broadcast message:
+conexoes|||connections
+5|||5
+IP jogador 1: |||IP player 1:
+IP jogador 2: |||IP player 2:
+membros|||members
+membros|||members
+6|||6
+IP jogador 1: |||IP player 1:
+IP jogador 2: |||IP player 2:
+membros|||members
+membros|||members
+7|||7
+8|||8
+9|||9
+10|||10
+Fechando guilda.|||Closing guild.
+guilda_ativa|||active_guild
+Guilda encerrada pelo dono.|||Guild shut down by the owner.
+2|||2
+Digite o IP do host para entrar: |||Enter the host's IP address to log in:
+[*] Conectado à guilda.|||[*] Connected to the guild.
+Digite a senha da guilda: |||Enter the guild password:
+\n[Menu Membro]|||[Member Menu]
+1 - Chat|||1 - Chat
+2 - PvP|||2 - PvP
+3 - Trade|||3 - Trade
+4 - Sair|||4 - Exit
+Escolha: |||Choice:
+1|||1
+Mensagem (ou 'exit()'): |||Message (or 'exit()'):
+exit()|||exit()
+2|||2
+Solicito PvP com o host.|||I request PvP with the host.
+3|||3
+Solicito trade com o host.|||I request a trade with the host.
+4|||4
+hp_max|||hp_max
+mana_max|||mana_max
+dano_max|||maximum_damage
+golem de ferro|||iron golem
+golem de cobre|||copper golem
+golem de ouro|||golden golem
+golem de pedra|||stone golem
+golem de obsidiana|||obsidian golem
+golem de rubi|||ruby golem
+golem de esmeralda|||emerald golem
+golem de diamante|||diamond golem
+slot1_cheio|||slot1_full
+slot2_cheio|||slot2_full
+slot3_cheio|||slot3_full
+slot4_cheio|||slot4_full
+slot1_golem|||slot1_golem
+slot2_golem|||slot2_golem
+slot3_golem|||slot3_golem
+slot4_golem|||slot4_golem
+golem de pedra|||stone golem
+golem de madeira|||wooden golem
+golem de rubi|||ruby golem
+golem de esmeralda|||emerald golem
+golem de obsidiana|||obsidian golem
+golem de diamante|||diamond golem
+golem de ouro|||golden golem
+golem de ferro|||iron golem
+ ■\n■■■\n ■|||■\n■■■\n ■
+[1]equipar itens|||[1]equip items
+[2]ver status do golem|||[2]see golem status
+[0]sair|||[0]exit
+qual opção você escolhe?|||Which option do you choose?
+0|||0
+\n--- Slots de Golem ---|||Golem Slots
+slot1_golem|||slot1_golem
+slot2_golem|||slot2_golem
+slot3_golem|||slot3_golem
+slot4_golem|||slot4_golem
+\n[1] Habilitar/Desabilitar Golem|||[1] Enable/Disable Golem
+[2] Gerenciar Golems|||[2] Manage Golems
+[0] Sair|||[0] Exit
+Escolha uma opção: |||Choose an option:
+1|||1
+qual golem deseja habilitar/desabilitar?|||Which golem do you want to enable/disable?
+slot1_golem|||slot1_golem
+slot2_golem|||slot2_golem
+slot3_golem|||slot3_golem
+slot4_golem|||slot4_golem
+em qual slot deseja adicionar/remover um golem?|||In which slot do you want to add/remove a golem?
+1|||1
+slot1_golem|||slot1_golem
+qual golem deseja adicionar?|||Which golem do you want to add?
+slot1_golem|||slot1_golem
+slot1|||slot1
+[S] OU [N]|||[Y] OR [N]
+s|||s
+slot1|||slot1
+2|||2
+slot2_golem|||slot2_golem
+qual golem deseja adicionar?|||Which golem do you want to add?
+slot2_golem|||slot2_golem
+slot1|||slot1
+[S] OU [N]|||[Y] OR [N]
+s|||s
+slot2|||slot2
+3|||3
+slot3_golem|||slot3_golem
+qual golem deseja adicionar?|||Which golem do you want to add?
+slot3_golem|||slot3_golem
+slot3|||slot3
+[S] OU [N]|||[Y] OR [N]
+s|||s
+slot3|||slot3
+4|||4
+slot4_golem|||slot4_golem
+qual golem deseja adicionar?|||Which golem do you want to add?
+slot4_golem|||slot4_golem
+slot4|||slot4
+[S] OU [N]|||[Y] OR [N]
+s|||s
+slot4|||slot4
+2|||2
+\n--- Seus Golems ---|||--- Your Golems ---
+slot1_golem|||slot1_golem
+slot2_golem|||slot2_golem
+slot3_golem|||slot3_golem
+slot4_golem|||slot4_golem
+\nDigite o nome do golem que deseja gerenciar (ou 'voltar'): |||Enter the name of the golem you wish to manage (or 'go back'):
+voltar|||to go back
+Esse Golem não foi encontrado|||This Golem was not found.
+0|||0
+picareta de pedra|||stone pickaxe
+picareta de ferro|||iron pickaxe
+picareta de madeira|||wooden pickaxe
+pedra|||stone
+carvão|||coal
+cobre bruto|||raw copper
+consiga carvão|||get charcoal
+pegue seu primeiro carvão|||Grab your first piece of coal!
+consiga pedra|||get stone
+minere sua primeira pedra|||mine your first stone
+consiga ferro|||get iron
+minere seu primeiro ferro|||Mine your first iron.
+venda seu minerio|||sell your ore
+venda um minerio para o mineiro|||sell an ore to the miner
+consiga ouro|||get gold
+minere seu prineiro ouro|||Mine your first gold.
+consiga lava|||get clean
+pegue um balde de lava|||grab a bucket of lava
+consiga diamante|||get diamond
+minere um diamante|||mine a diamond
+consiga obsidiana|||obtain obsidian
+vá no ferreiro e misture um balde de água com um balde de lava para fazer uma barra de obsidiana|||Go to the blacksmith and mix a bucket of water with a bucket of lava to make an obsidian bar.
+dinheiro|||money
+missões concluidas|||missions completed
+dificuldade das missoes|||difficulty of the missions
+facil|||easy
+recrutado guilda|||recruited guild
+itens vendidos|||items sold
+afinidade|||affinity
+dificuldade das missoes|||difficulty of the missions
+facil|||easy
+===missões===|||===missions===
+dificuldade das missoes|||difficulty of the missions
+aperte 0 para sair|||Press 0 to exit.
+0|||0
+[1]minerar|||[1]mine
+[2]abrir inventario|||[2]open inventory
+[3]usar equipamento|||[3]use equipment
+[0]sair|||[0]exit
+o que vai fazer?|||What are you going to do?
+teste de procedural|||procedural test
+1|||1
+[1]minerar pra frente|||[1]mine forward
+[2]minerar pra baixo|||[2]mine downwards
+[0]sair da mina|||[0]get out of the mine
+o que deseja fazer?|||What do you want to do?
+1|||1
+...\num...um diamante|||...a diamond
+diamante|||diamond
+o meu deus....uma esmeralda!|||Oh my god...an emerald!
+esmeralda|||emerald
+nossa..essa pedra tá muito brilante e vermelha..pera um pouco....é um rubi!|||Wow...that stone is so shiny and red...wait a minute...it's a ruby!
+rubi|||ruby
+você minerou uma pedra...!|||You mined a rock...!
+pedra|||stone
+você minerou um cobre bruto...!|||You mined some raw copper...!
+cobre bruto|||raw copper
+você minerou um ouro bruto...!|||You mined some raw gold...!
+ouro bruto|||raw gold
+você minerou um carvão...!|||You mined some coal...!
+carvão|||coal
+nome|||name
+será que eu pego um pouco?|||Do you think I can catch some?
+[s]sim\n[n]não|||[y]yes\n[n]no
+o que deseja fazer?|||What do you want to do?
+s|||s
+mao esquerda|||left hand
+balde|||bucket
+você coletou um balde de lava...!|||You collected a bucket of lava...!
+balde de lava|||bucket of lava
+mao esquerda|||left hand
+n|||n
+0|||0
+saindo da mina...|||Leaving the mine...
+0|||0
+2|||2
+escolha um item para usar|||choose an item to use
+mina de eldora|||Eldora mine
+[1]entrar na mina(picareta requirida)|||[1]enter the mine (pickaxe required)
+[2]falar com o mineiro|||[2] talk to the miner
+[0]sair da mina|||[0]get out of the mine
+qual opção ira escolher|||Which option will you choose?
+1|||1
+mao direita|||right hand
+picareta|||pick
+0|||0
+você sai da mina...|||You leave the mine...
+2|||2
+o que tu queiras meu jovem?|||What do you want, my young friend?
+[1]fazer missões|||[1]do missions
+[2]comprar itens|||[2]buy items
+[3]vender itens e minerios|||[3] sell items and ores
+[0]sair|||[0]exit
+qual opção selecionara?|||Which option did you select?
+0|||0
+adeus...boa sorte na sua mineiração!|||Goodbye...good luck with your mining!
+1|||1
+2|||2
+qual item deseja comprar?digite [0] para sair|||Which item do you want to buy? Type [0] to exit.
+0|||0
+nome|||name
+picareta de pedra|||stone pickaxe
+quantos itens?|||How many items?
+picareta de pedra|||stone pickaxe
+tome aqui sua picareta!|||Here, take your pickaxe!
+moedas|||coins
+picareta de pedra|||stone pickaxe
+0|||0
+volte sempre...|||Come back anytime...
+picareta de ferro|||iron pickaxe
+quantos itens?|||How many items?
+picareta de ferro|||iron pickaxe
+tome aqui sua picareta!|||Here, take your pickaxe!
+moedas|||coins
+picareta de ferro|||iron pickaxe
+picareta de madeira|||wooden pickaxe
+quantos itens?|||How many items?
+picareta de madeira|||wooden pickaxe
+tome aqui sua picareta!|||Here, take your pickaxe!
+moedas|||coins
+picareta de madeira|||wooden pickaxe
+cobre|||copper
+quantos itens|||how many items
+cobre|||copper
+tome aqui seu cobre|||Here's your copper.
+moedas|||coins
+cobre|||copper
+carvão|||coal
+quantos itens?|||How many items?
+carvão|||coal
+tome aqui seu carvão!|||Here's your charcoal!
+moedas|||coins
+carvão|||coal
+guilda|||guild
+artefato da luz|||artifact of light
+artefato do fogo|||fire artifact
+artefato da agua|||water artifact
+artefato da lava|||lava artifact
+artefato do diamante|||diamond artifact
+artefato da força|||artifact of force
+artefato da defesa|||defense artifact
+artefato do ouro|||gold artifact
+artefato da sorte|||lucky artifact
+artefato da magia|||artifact of magic
+cerveja|||beer
+pinga|||pinga
+choro de dragao|||dragon cry
+skull soul|||skull soul
+dead soul|||dead soul
+alma negra|||black soul
+capacete|||helmet
+peitoral|||chest
+calcas|||pants
+botas|||boots
+escudo|||shield
+espadas|||swords
+adaga|||dagger
+adaga envenenada|||poisoned dagger
+espada de cobre|||copper sword
+espada de obsidiana|||obsidian sword
+espada de madeira|||wooden sword
+espada de pedra|||stone sword
+espada de obsidiana|||obsidian sword
+picareta de ferro|||iron pickaxe
+picareta de madeira|||wooden pickaxe
+picareta de pedra|||stone pickaxe
+picareta de cobre|||copper pickaxe
+picareta de obsidiana|||obsidian pickaxe
+balde|||bucket
+balde de agua|||bucket of water
+balde de lava|||bucket of lava
+capacete|||helmet
+peitoral|||chest
+calcas|||pants
+botas|||boots
+adaga|||dagger
+espada|||sword
+adaga_envenenada|||poisoned_dagger
+espada de cobre|||copper sword
+espada de obsidiana|||obsidian sword
+espada de madeira|||wooden sword
+espada de pedra|||stone sword
+espada de obsidiana|||obsidian sword
+picareta de ferro|||iron pickaxe
+picareta de madeira|||wooden pickaxe
+picareta de pedra|||stone pickaxe
+picareta de cobre|||copper pickaxe
+picareta de obsidiana|||obsidian pickaxe
+balde|||bucket
+balde de agua|||bucket of water
+balde de lava|||bucket of lava
+taxa_durabilidade_comum|||common_durability_rate
+taxa_durabilidade_incomum|||unusual_durability_rate
+taxa_durabilidade_raro|||rare_durability_rate
+taxa_durabilidade_legendario|||legendary_durability_rate
+capacete|||helmet
+peitoral|||chest
+calca|||pants
+botas|||boots
+espada|||sword
+adaga|||dagger
+adaga_envenenada|||poisoned_dagger
+capacete|||helmet
+peitoral|||chest
+calca|||pants
+botas|||boots
+espada de ferro|||iron sword
+adaga|||dagger
+adaga_envenenada|||poisoned_dagger
+espada de cobre|||copper sword
+espada de obsidiana|||obsidian sword
+espada de madeira|||wooden sword
+espada de pedra|||stone sword
+espada de obsidiana|||obsidian sword
+picareta de ferro|||iron pickaxe
+picareta de madeira|||wooden pickaxe
+picareta de pedra|||stone pickaxe
+picareta de cobre|||copper pickaxe
+picareta de obsidiana|||obsidian pickaxe
+balde|||bucket
+balde de agua|||bucket of water
+balde de lava|||bucket of lava
+vida|||life
+vida|||life
+vida|||life
+VOCÊ MORREU|||YOU DIED
+exp|||exp
+nome|||name
+não desista você ainda tem um caminho pela frente|||Don't give up, you still have a way to go.
+exp|||exp
+vida|||life
+deseja continuar? [S] ou [N]: |||Do you wish to continue? [Y] or [N]:
+n|||n
+salvando o progresso...|||saving progress...
+vida|||life
+picareta de pedra|||stone pickaxe
+picareta de pedra|||stone pickaxe
+picareta de madeira|||wooden pickaxe
+picareta de madeira|||wooden pickaxe
+picareta de ferro|||iron pickaxe
+picareta de ferro|||iron pickaxe
+picareta de cobre|||copper pickaxe
+picareta de cobre|||copper pickaxe
+picareta de obsidiana|||obsidian pickaxe
+picareta de obsidiana|||obsidian pickaxe
+espada de madeira|||wooden sword
+espada de madeira|||wooden sword
+espada de pedra|||stone sword
+espada de pedra|||stone sword
+espada de ferro|||iron sword
+espada de ferro|||iron sword
+espada de cobre|||copper sword
+espada de cobre|||copper sword
+espada de obsidiana|||obsidian sword
+espada de obsidiana|||obsidian sword
+balde|||bucket
+balde|||bucket
+balde de lava|||bucket of lava
+balde de lava|||bucket of lava
+balde de agua|||bucket of water
+balde de agua|||bucket of water
+capacete|||helmet
+capacete|||helmet
+capacete|||helmet
+capacete|||helmet
+peitoral|||chest
+peitoral|||chest
+peitoral|||chest
+peitoral|||chest
+calcas|||pants
+calcas|||pants
+calcas|||pants
+calcas|||pants
+botas|||boots
+botas|||boots
+botas|||boots
+botas|||boots
+adaga|||dagger
+adaga|||dagger
+adaga|||dagger
+adaga|||dagger
+adaga_envenenada|||poisoned_dagger
+adaga_envenenada|||poisoned_dagger
+adaga envenenada|||poisoned dagger
+adaga_envenenada|||poisoned_dagger
+goblin|||goblin
+aranha|||spider
+slime|||slime
+caracol maligno|||evil snail
+gorthak o tirano da pedra|||Gorthak the Tyrant of Stone
+moedas|||coins
+espada de pedra|||stone sword
+adaga|||dagger
+picareta de madeira|||wooden pickaxe
+machado de madeira|||wooden axe
+capacete|||helmet
+peitoral|||chest
+calças|||pants
+botas|||boots
+poção exp|||potion exp
+pão|||bread
+carne|||meat
+batata|||potato
+poção de stamina|||stamina potion
+diamantes|||diamonds
+bruxo|||wizard
+cavaleiro|||knight
+goblin|||goblin
+monstro|||monster
+mercador|||merchant
+======itens equipados======|||======Equipped items======
+cabeca|||head
+cabeca|||head
+Nenhum|||None
+tronco|||stem
+tronco|||stem
+Nenhum|||None
+pernas|||legs
+pernas|||legs
+Nenhum|||None
+pes|||feet
+pes|||feet
+Nenhum|||None
+mao direita|||right hand
+mao direita|||right hand
+Nenhum|||None
+mao esquerda|||left hand
+mao esquerda|||left hand
+Nenhum|||None
+	cabeça ------|||	head ------
+cabeca|||head
+	tronco ------|||	stem ------
+tronco|||stem
+	pernas ------|||	legs ------
+pernas|||legs
+	pés	------|||	feet ------
+pes|||feet
+missao aceitada|||Mission accepted.
+missoes dorian|||Dorian Missions
+missoes ferreiro|||blacksmith missions
+missoes mineiro|||mining missions
+dorian|||Dorian
+missoes dorian|||Dorian Missions
+compre uma espada de pedra para dorian\nRECOMPENSAS:\n515 moedas\n100 EXP|||Buy a stone sword for Dorian. REWARDS: 515 coins, 100 EXP
+[S]sim\n[N]não|||[Y]yes\n[N]no
+s|||s
+nome|||name
+missao aceitada|||Mission accepted.
+vá para a loja comprar uma espada de pedra|||Go to the shop and buy a stone sword.
+ok...sem problema,tente voltar aqui depois por favor!....|||Okay...no problem, please try to come back here later!
+nome|||name
+[1]conversar|||[1]talk
+[2]trocar itens|||[2]exchange items
+[3]fazer missões|||[3]do missions
+ruinas de eldora|||ruins of Eldora
+[4]pedir para o acompanhar as ruinas|||[4] ask to accompany him to the ruins
+[0]sair|||[0]exit
+o que deseja fazer?|||What do you want to do?
+4|||4
+ruinas de eldora|||ruins of Eldora
+ok..eu te acompanho até lá..|||Okay, I'll walk you there.
+dorian|||Dorian
+0|||0
+adeus....|||goodbye....
+1|||1
+dorian|||Dorian
+3|||3
+nome|||name
+missoes dorian|||Dorian Missions
+como estou ainda muito cansado eu queria pedir um favor para você,na verdade seria uma missão,o que me diz?|||Since I'm still very tired, I wanted to ask you a favor, actually it would be a mission, what do you say?
+dorian|||Dorian
+vida|||life
+vida|||life
+[1]Atacar|||[1]Attack
+[2]Defender|||[2]Defender
+[3]Usar habilidade|||[3]Use skill
+[4]Trocar com aliados|||[4]Trade with allies
+[5]Usar o inventário|||[5]Use the inventory
+[6]Gerenciar golens|||[6]Manage golems
+[7]Ver status|||[7]View status
+[0]Sair da batalha|||[0]Leave the battle
+Qual opção deseja usar?|||Which option would you like to use?
+0|||0
+você sai da batalha silenciosamente|||You leave the battle silently.
+1|||1
+vida|||life
+dano|||damage
+dano|||damage
+vida|||life
+dano|||damage
+dano|||damage
+dinheiro_barman|||bartender_money
+dinheiro_barman|||bartender_money
+esse segredo doi até o osso...|||This secret hurts to the bone...
+neverland\nstudio|||neverland studio
+small|||small
+_|||_
+the legends of eldora|||The Legends of Eldora
+small|||small
+pressione enter para continuar|||Press enter to continue.
+areas|||areas
+npcs|||npcs
+enemies|||enemies
+items|||items
+		Carrega um mod de qualquer caminho (.py) e integra ao jogo.|||		Load a mod from any path (.py) and integrate it into the game.
+		game: dicionário que representa o estado do jogo|||		game: dictionary that represents the state of the game
+		|||		
+mod_module|||mod_module
+get_mod_info|||get_mod_info
+name|||name
+Sem nome|||No name
+author|||author
+Desconhecido|||Unknown
+add_content|||add_content
+name|||name
+Sem nome|||No name
+escreva o nome do mod com a extensão .py no nome|||Write the mod name with the .py extension in the name.
+algum erro foi ocorrido...|||Some error has occurred...
+dados_jogador|||player_data
+salvamento_dados|||data_saving
+upgrades|||upgrades
+aliados|||allies
+valor_habilidade|||value_skill
+dados_evolucao_nivel|||data_evolution_level
+amigos_conectados|||connected_friends
+salvamento_dados2|||data_saving2
+dados_itens_equipados|||data_equipped_items
+dados_taverna|||tavern data
+memoria_ferreiro|||blacksmith_memory
+dados_mineiro|||miner_data
+horario|||time
+dados_vilas|||village_data
+dados_jogador_server|||player_server_data
+primeira_vez_ruina|||first_time_ruin
+dados_jogador_golem|||player_data_golem
+slots|||slots
+tloe_save.json|||tloe_save.json
+w|||w
+ Jogo salvo com sucesso!|||Game saved successfully!
+Picos Congelados de NorthHills|||NorthHills Frozen Peaks
+em uma longa escalada para chegar ao topo dos picos congelados.....|||on a long climb to reach the top of the frozen peaks.....
+você.....você finalmente chegou ao topo,foi gratificante ter realizado esse grande marco...mas eu olho pro outro lado do pico....|||You...you finally reached the top, it was gratifying to have achieved this great milestone...but I look at the other side of the peak....
+ELDORA???????|||ELDORA???????
+era tudo verdade então....|||It was all true then....
+você encontrou o reino de uma historia que tanto marcou sua infancia|||You have found the kingdom of a story that so marked your childhood.
+você depois dessa longa expedição você decide ficar por lá|||After this long expedition, you decide to stay there.
+[Dorian]eu estou muito exausto....vou passar essa noite numa cabana|||[Dorian] I'm very exhausted....I'm going to spend the night in a cabin.
+deseja gerenciar a Guilda?[S]Sim ou [N]Não|||Do you wish to manage the Guild? [Y]Yes or [N]No
+n|||n
+s|||s
+O que deseja fazer?|||What do you want to do?
+[1]Remover aliados|||[1]Remove allies
+[2]Ver status dos aliados|||[2]View allies' status
+[3]equipar itens em aliados|||[3] equip items on allies
+[0]sair do menu|||[0]Exit menu
+0|||0
+1|||1
+qual aliado deseja remover?|||Which ally do you want to remove?
+esse aliado não existe na sua guilda|||This ally does not exist in your guild.
+tloe_save.json|||tloe_save.json
+tloe_save.json|||tloe_save.json
+r|||r
+dados_jogador|||player_data
+salvamento_dados|||data_saving
+upgrades|||upgrades
+aliados|||allies
+valor_habilidade|||value_skill
+salvamento_dados2|||data_saving2
+dados_jogador2|||player_data2
+dados_jogador3|||player_data3
+dados_jogador4|||player_data4
+amigos_conectados|||connected_friends
+dados_itens_equipados|||data_equipped_items
+dados_taverna|||tavern data
+memoria_ferreiro|||blacksmith_memory
+dados_mineiro|||miner_data
+dados_vilas|||village_data
+horario|||time
+dados_jogador_server|||player_server_data
+slots|||slots
+dados_jogador_golem|||player_data_golem
+Progresso carregado com sucesso!|||Progress uploaded successfully!
+desculpe....mas você não tem nenhum save disponivel o que resultara no fechamento do jogo|||Sorry... but you don't have any save files available, which will result in the game closing.
+The Legends Of Eldora, todos os direitos reservados a Luiz Gustavo luizsgustavo76@gmail.com|||The Legends of Eldora, all rights reserved to Luiz Gustavo luizsgustavo76@gmail.com
+Bem-vindo ao reino de Eldora|||Welcome to the kingdom of Eldora.
+Seu objetivo em Eldora é pegar os 10 artefatos para reinstaurar a paz no reino.|||His goal in Eldora is to retrieve the 10 artifacts to restore peace to the kingdom.
+O que deseja fazer?\n[1]novo jogo\n[2]carregar um jogo salvo\n[3]carregar um mod\n[4]creditos\n[5]sair: |||What do you want to do?\n[1]new game\n[2]load a saved game\n[3]load a mod\n[4]credits\n[5]exit:
+2|||2
+nome|||name
+4|||4
+jogo somente feito por Luiz Gustavo|||game only made by Luiz Gustavo
+começo do desenvolvimento do projeto em fevereiro de 2025|||Project development begins in February 2025.
+instagram:luizsgustavo75|||Instagram: luizsgustavo75
+Email:luizsgustavo76@gmail.com|||Email: luizsgustavo76@gmail.com
+site oficial:thelegendsofeldora.wordpress.com|||Official website: thelegendsofeldora.wordpress.com
+aperte enter ou 0 para sair|||Press enter or 0 to exit.
+0|||0
+3|||3
+5|||5
+até mais...|||until later...
+1|||1
+nome|||name
+Por favor, escolha seu nome: |||Please choose your name:
+nome|||name
+motherfucker|||motherfucker
+Cheat ativado,menu de trapaças|||Cheat activated, cheat menu
+quantos de moedas?|||How many coins?
+qual nivel?|||What level?
+quantos diamantes?|||How many diamonds?
+moedas|||coins
+nivel|||level
+diamantes|||diamonds
+Bem-vindo ao reino de Eldora, por favor escolha sua classe:|||Welcome to the kingdom of Eldora, please choose your class:
+(1) Bruxo,\n(2) Cavaleiro,\n(3) Goblin,\n(4) Monstro\n(5) Mercador: |||(1) Wizard,\n(2) Knight,\n(3) Goblin,\n(4) Monster,\n(5) Merchant:
+1|||1
+2|||2
+3|||3
+4|||4
+5|||5
+classe|||class
+Opção inválida|||Invalid option
+nome|||name
+classe|||class
+exp|||exp
+exp para evoluir|||exp to evolve
+nivel|||level
+nivel|||level
+exp para evoluir|||exp to evolve
+exp|||exp
+exp para evoluir|||exp to evolve
+exp|||exp
+exp|||exp
+horas|||hours
+minutos|||minutes
+Você chegou ao centro de Eldora. O que deseja fazer?|||You've arrived at the center of Eldora. What do you want to do?
+centro|||center
+dados_taverna|||tavern data
+reputacao_por_upgrades_taverna|||reputation_for_tavern_upgrades
+registro_acoes|||actions_record
+upgrades_taverna|||upgrades_tavern
+[1] Ir à taverna|||[1] Go to the tavern
+[2] Ver seus status|||[2] View your status
+[3] Ir para sua casa|||[3] Go to your house
+[4] Sair do jogo|||[4] Quit the game
+[5] Ir à loja|||[5] Go to the store
+[6] Ir no inventário|||[6] Go to inventory
+[7] Enciclopédia|||[7] Encyclopedia
+[8] Ver conquistas|||[8] View achievements
+[9] Salvar jogo|||[9] Save game
+[10] Carregar jogo|||[10] Load game
+[11] upgrades|||[11] upgrades
+[12] guilda|||[12] guild
+[13] arena infinita|||[13] infinite arena
+[14] centro mercantil de eldora|||[14] eldora mercantile center
+[15] abrir o mapa|||[15] open map
+[16] ferreiro|||[16] blacksmith
+O que vai fazer? |||What are you going to do?
+teste_novo_motor_actionsmoves_ia 1.0|||test_new_actionsmoves_ia_motor 1.0
+19|||19
+17|||17
+teste_server|||test_server
+teste_chat_multiplayer|||test_chat_multiplayer
+teste bau|||test chest
+16|||16
+ferreiro|||blacksmith
+=====ferreiro=====|||=====blacksmith=====
+olá,bem vindo ao ferreiro,aqui você pode forjar seus equipamentos e golens|||Hello, welcome to the blacksmith, here you can forge your equipment and golems.
+cobre|||copper
+carvão|||coal
+ferro|||iron
+ouro|||gold
+diamante|||diamond
+obsidiana|||obsidian
+lava|||lava
+espada|||sword
+picareta|||pick
+enxada|||hoe
+pa|||shovel
+rubi|||ruby
+esmeralda|||emerald
+The Legends Of Eldora|||The Legends of Eldora
+nome|||name
+=====ferreiro=====|||=====blacksmith=====
+[1]forjar equipamento|||[1]forging equipment
+[2]encantar itens|||[2]enchant items
+[3]concertar itens|||[3]fix items
+[4]forjar golem|||[4]forge golem
+[5]conversar|||[5]talk
+[6]vender itens|||[6] sell items
+[7]fazer missões|||[7]do missions
+[0]sair|||[0]exit
+qual opção tu queres|||Which option do you want?
+4|||4
+um golem para ter dar uma força..bela escolha meu jovem|||A golem to give you strength... excellent choice, my young friend.
+horas|||hours
+cobre|||copper
+amuleto das almas|||amulet of souls
+golem de cobre|||copper golem
+ferro|||iron
+amuleto das almas|||amulet of souls
+golem de cobre|||copper golem
+pedra|||stone
+amuleto das almas|||amulet of souls
+golem de pedra|||stone golem
+obsidiana|||obsidian
+amuleto das almas|||amulet of souls
+golem de obsidiana|||obsidian golem
+madeira|||wood
+amuleto das almas|||amulet of souls
+golem de madeira|||wooden golem
+rubi|||ruby
+amuleto das almas|||amulet of souls
+golem de rubi|||ruby golem
+esmeralda|||emerald
+amuleto das almas|||amulet of souls
+golem de esmeralda|||emerald golem
+diamante|||diamond
+amuleto das almas|||amulet of souls
+golem de diamante|||diamond golem
+ouro|||gold
+amuleto das almas|||amulet of souls
+golem de ouro|||golden golem
+com seus itens você consegue fazer os seguintes golens|||With your items you can create the following golems.
+qual golem deseja criar?digite [0] para sair|||Which golem do you want to create? Type [0] to exit.
+0|||0
+moedas|||coins
+moedas|||coins
+amuleto das almas|||amulet of souls
+itens|||items
+itens|||items
+6|||6
+[ferreiro]vejamos que você quer vender seus itens,aqui é uma boa escolha!|||[Blacksmith] Let's see, you want to sell your items, this is a good choice!
+itens suportados|||supported items
+====minerios====|||====minerals====
+Carvão|||Coal
+Cobre|||Copper
+Ferro|||Iron
+pedra|||stone
+Ouro|||Gold
+Diamante|||Diamond
+Obsidiana|||Obsidian
+Rubi|||Ruby
+Esmeralda|||Emerald
+equipamentos e ferramentas|||equipment and tools
+armaduras de madeira,cobre,diamante,ferro,ouro e obsidiana\n espada de diamante,pedra,madeira,ouro,obsidiana,cobre,ferro\nmachado de diamante,pedra,madeira,ouro,obsidiana,cobre,ferro\nenxada de diamante,pedra,madeira,ouro,obsidiana,cobre,ferro,pá de diamante,pedra,madeira,ouro,obsidiana,cobre,ferro\npicareta de diamante,pedra,madeira,ouro,obsidiana,cobre,ferro\n|||Armor made of wood, copper, diamond, iron, gold, and obsidian; sword made of diamond, stone, wood, gold, obsidian, copper, and iron; axe made of diamond, stone, wood, gold, obsidian, copper, and iron; hoe made of diamond, stone, wood, gold, obsidian, copper, and iron; shovel made of diamond, stone, wood, gold, obsidian, copper, and iron; pick made of diamond, stone, wood, gold, obsidian, copper, and iron.
+qual item deseja vender?|||Which item do you want to sell?
+[S] OU [N]|||[Y] OR [N]
+s|||s
+dinheiro|||money
+moedas|||coins
+[ferreiro]desculpe mas eu não compro esse tipo de item|||[Blacksmith] Sorry, but I don't buy that kind of item.
+0|||0
+classe|||class
+5|||5
+Conversa com o ferreiro:|||Conversation with the blacksmith:
+tipos de conversa|||types of conversation
+[1]modo livre|||[1]free mode
+[2]perguntas predefinidas|||[2]predefined questions
+*modo livre-escreva qualquer coisa|||*Free mode - write anything
+qual modo deseja conversar|||Which mode of conversation would you like?
+2|||2
+=====FERREIRO=====|||=====BLACKSMITH=====
+qual assunto deseja conversar?|||What topic would you like to discuss?
+[1]economia|||[1]economy
+[2]ajuda|||[2]help
+[3]batalha|||[3]battle
+[4]elogiar|||[4] praise
+[5]locais|||[5]locations
+[6]climas|||[6]climates
+[0]sair|||[0]exit
+0|||0
+classe|||class
+1|||1
+[1]seus preços são muito altos|||[1]their prices are very high
+[2]seus preços são muito baixos|||[2] their prices are very low
+[3]a economia de eldora é muito ruim|||[3] Eldora's economy is very bad
+[4]a economia de eldora é muito boa|||[4] Eldora's economy is very good
+1|||1
+olha...\ndesculpa,a economia de eldora não está muito boa hoje em dia|||Look... I'm sorry, Eldora's economy isn't doing very well these days.
+2|||2
+que bom saber disso por que hoje em dia em eldora está tudo mais dificil de comprar|||That's good to know, because nowadays everything is much harder to buy in Eldora.
+3|||3
+isso é verdade pois a 5 anos atras aquele rei prometia voltar a epoca de ouro de eldora mas aconteceu o contrario agora passamos pela essa idade das trevas|||That's true, because 5 years ago that king promised to return Eldora to its golden age, but the opposite happened; now we are going through this dark age.
+4|||4
+.....\nvocê não sabe o que eu e as outras pessoas passamos,você chegou agora nesse reino ...|||.....\nYou don't know what I and other people have been through, you just arrived in this kingdom...
+2|||2
+o que eu poderia lhe ajudar?|||How can I help you?
+1|||1
+DIALOGO>>>|||DIALOGUE>>>
+vezes_perguntas|||times_questions
+12|||12
+guilda|||guild
+====guilda====|||====guild====
+VOCÊ NÃO TEM NENHUM ALIADO|||YOU HAVE NO ALLIES
+15|||15
+mapa|||map
+=====MAPA=====|||=====MAP=====
+====ELDORA====|||====ELDORA====
+######VILAS#####|||######VILLAGES#####
+[1]Rimvark|||[1]Rimvark
+[2]Ebrenthal|||[2]Ebrenthal
+[3]Vangurd|||[3]Avant-garde
+[4]Nocten|||[4]Nocten
+######AREAS ABERTAS#####|||######OPEN AREAS#####
+[5]Floresta das almas|||[5]Forest of souls
+[6]Deserto da morte|||[6]Desert of death
+[7]Mina de Eldora|||[7]Eldora Mine
+[8]Ruinas de Eldora|||[8]Ruins of Eldora
+areas|||areas
+####AREAS ADICIONADAS POR MODS#####|||Areas added by mods.
+[0]sair|||[0]exit
+qual area deseja ir?|||Which area do you want to go to?
+8|||8
+ruinas de eldora|||ruins of Eldora
+dorian|||Dorian
+esse lugar....é totalmente desconhecido e hostíl é melhor eu chamar meu companheiro Dorian pra tentar me ajudar...|||This place... is completely unknown and hostile. I'd better call my companion Dorian to try and help me...
+1|||1
+rimvark|||rimvark
+0|||0
+2|||2
+ebranthal|||ebranthal
+3|||3
+vangurd|||vanguard
+4|||4
+nocten|||nocten
+7|||7
+mina|||mine
+6|||6
+inventario|||inventory
+[1]abrir o inventário|||[1]open inventory
+[2]usar equipamentos|||[2]use equipment
+[3]gerenciar golens|||[3]manage golems
+[0]sair|||[0]exit
+qual função deseja usar|||Which function do you want to use?
+3|||3
+0|||0
+1|||1
+Escolha um item para usar\nou aperte [0] para sair|||Choose an item to use\no press [0] to exit
+2|||2
+espada|||sword
+capacete|||helmet
+peitoral|||chest
+calcas|||pants
+botas|||boots
+adaga|||dagger
+adaga_envenenada|||poisoned_dagger
+armadura_sombria|||dark_armor
+_|||_
+ ||| 
+ ||| 
+capacete|||helmet
+peitoral|||chest
+calcas|||pants
+espada|||sword
+adaga|||dagger
+adaga_envenenada|||poisoned_dagger
+adaga_envenenada|||poisoned_dagger
+botas|||boots
+cabeca|||head
+capacete|||helmet
+defesa|||defense
+capacete|||helmet
+tronco|||stem
+peitoral|||chest
+defesa|||defense
+peitoral|||chest
+pernas|||legs
+calças|||pants
+defesa|||defense
+calcas|||pants
+pes|||feet
+botas|||boots
+esquivar|||dodge
+botas|||boots
+mao direita|||right hand
+espada|||sword
+dano|||damage
+espada|||sword
+qual item deseja\nequipar?|||Which item do you want to equip?
+picareta de pedra|||stone pickaxe
+picareta de pedra|||stone pickaxe
+picareta de pedra|||stone pickaxe
+o item 'picareta de pedra' foi equipado|||The 'stone pickaxe' item was equipped.
+mao direita|||right hand
+botas|||boots
+você não tem esse item no inventário |||You don't have that item in your inventory.
+picareta de madeira|||wooden pickaxe
+picareta de madeira|||wooden pickaxe
+picareta de madeira|||wooden pickaxe
+o item 'picareta de madeira' foi equipado|||the 'wooden pickaxe' item was equipped
+mao direita|||right hand
+botas|||boots
+você não tem esse item no inventário |||You don't have that item in your inventory.
+picareta de ferro|||iron pickaxe
+botas|||boots
+picareta de ferro|||iron pickaxe
+o item 'picareta de ferro' foi equipado|||The 'iron pickaxe' item was equipped.
+mao direita|||right hand
+picareta de ferro|||iron pickaxe
+você não tem esse item no inventário |||You don't have that item in your inventory.
+picareta de cobre|||copper pickaxe
+picareta de cobre|||copper pickaxe
+picareta de cobre|||copper pickaxe
+o item 'picareta de cobre' foi equipado|||the item 'copper pickaxe' was equipped
+mao direita|||right hand
+botas|||boots
+você não tem esse item no inventário |||You don't have that item in your inventory.
+picareta de obsidiana|||obsidian pickaxe
+picareta de obsidiana|||obsidian pickaxe
+picareta de obsidiana|||obsidian pickaxe
+o item 'picareta de obsidiana' foi equipado|||The 'obsidian pickaxe' item was equipped.
+mao direita|||right hand
+picareta de obsidiana|||obsidian pickaxe
+você não tem esse item no inventário |||You don't have that item in your inventory.
+espada de pedra|||stone sword
+espada de pedro|||Peter's sword
+picareta de obsidiana|||obsidian pickaxe
+o item 'espada de pedra' foi equipado|||the 'stone sword' item was equipped
+mao direita|||right hand
+espada de pedra|||stone sword
+você não tem esse item no inventário |||You don't have that item in your inventory.
+espada de madeira|||wooden sword
+espada de madeira|||wooden sword
+espada de madeira|||wooden sword
+o item 'espada de madeira' foi equipado|||the 'wooden sword' item was equipped
+mao direita|||right hand
+espada de madeira|||wooden sword
+você não tem esse item no inventário |||You don't have that item in your inventory.
+espada de ferro|||iron sword
+espada de ferro|||iron sword
+espada de ferrl|||iron sword
+o item 'espada de ferro' foi equipado|||the 'iron sword' item was equipped
+mao direita|||right hand
+espada de ferro|||iron sword
+você não tem esse item no inventário |||You don't have that item in your inventory.
+espada de cobre|||copper sword
+espada de cobrw|||copper sword
+espada de cobre|||copper sword
+o item 'espada de cobre' foi equipado|||the 'copper sword' item was equipped
+mao direita|||right hand
+espada de cobre|||copper sword
+você não tem esse item no inventário |||You don't have that item in your inventory.
+espada de obsidiana|||obsidian sword
+espada de obsidiana|||obsidian sword
+espada de obsidiana|||obsidian sword
+o item 'espada de obsidiana' foi equipado|||The item 'obsidian sword' was equipped.
+mao direita|||right hand
+espada de obsidiana|||obsidian sword
+você não tem esse item no inventário |||You don't have that item in your inventory.
+balde|||bucket
+balde|||bucket
+balde|||bucket
+o item 'balde' foi equipado|||the 'bucket' item was equipped
+mao esquerda|||left hand
+balde|||bucket
+você não tem esse item no inventário |||You don't have that item in your inventory.
+capacete|||helmet
+capacete|||helmet
+capacete|||helmet
+o item 'capacete' foi equipado|||the 'helmet' item was fitted
+cabeca|||head
+capacete|||helmet
+você não tem esse item no inventário |||You don't have that item in your inventory.
+peitoral|||chest
+peitoral|||chest
+peitoral|||chest
+o item 'peitoral' foi equipado|||the 'chestplate' item was equipped
+tronco|||stem
+peitoral|||chest
+você não tem esse item no inventário |||You don't have that item in your inventory.
+calças|||pants
+calcas|||pants
+calcas|||pants
+calcas|||pants
+o item 'calças' foi equipado|||the item 'pants' was equipped
+pernas|||legs
+calças|||pants
+você não tem esse item no inventário |||You don't have that item in your inventory.
+botas|||boots
+botas|||boots
+botas|||boots
+o item 'botas' foi equipado|||the 'boots' item was equipped
+pes|||feet
+botas|||boots
+você não tem esse item no inventário |||You don't have that item in your inventory.
+teste_barra_vida|||test_barra_vida
+teste_batalha|||test_battle
+14|||14
+teste_golem|||test_golem
+aviso isso é um comando de testes internos!|||Warning: This is an internal test command!
+13|||13
+arena infinita|||Infinite Arena
+BEM VINDO A ARENA INFINITA|||WELCOME TO THE INFINITE ARENA
+qual modo deseja jogar|||Which mode do you want to play?
+[1]facil|||[1]easy
+[2]medio|||[2]medium
+[3]dificil|||[3]difficult
+[4]INFERNO|||[4]HELL
+1|||1
+2|||2
+3|||3
+4|||4
+vida|||life
+UM MONSTRO APARECEU|||A monster appeared.
+VIDA:|||LIFE:
+vida|||life
+VIDA MONSTRO:|||MONSTER LIFE:
+onda:|||wave:
+[1]atacar|||[1]attack
+[2]defender|||[2]defender
+[3]habilidade|||[3]ability
+[4]trocar aliado|||[4]switch ally
+[5]inventario|||[5]inventory
+[6]fugir|||[6]run away
+escolha uma opçao|||Choose an option.
+3|||3
+5|||5
+você abre seu inventario|||You open your inventory.
+=======INVENTARIO=======|||=======INVENTORY=======
+escolha um item para usar:|||Choose an item to use:
+1|||1
+dano|||damage
+mao esquerda|||left hand
+mao direita|||right hand
+adaga|||dagger
+VOCÊ DEU ATAQUE CRITICO!!!!!|||YOU LANDED A CRITICAL HIT!!!!!
+dano|||damage
+você esta com o efeito do ataque selvagem|||You are under the effect of the wild attack.
+hp:|||hp:
+vida|||life
+[1]atacar|||[1]attack
+1|||1
+dano|||damage
+hp:|||hp:
+vida|||life
+[1]atacar|||[1]attack
+você atacou o monstro|||You attacked the monster.
+dano|||damage
+vida|||life
+4|||4
+aliados de|||allies of
+nome|||name
+[0]sair|||[0]exit
+antigo_guerreiro|||ancient_warrior
+[1]antigo guerreiro|||[1]ancient warrior
+bebado|||drunk
+[2]bebado|||[2]drunk
+qual aliado deseja trocar|||Which ally do you want to switch?
+2|||2
+bebbado|||drunk
+[1]trocar|||[1]exchange
+[2]ver status|||[2]view status
+escolha uma opção|||choose an option
+1|||1
+vida|||life
+vida|||life
+nivel|||level
+nivel|||level
+dano|||damage
+dano|||damage
+defesa|||defense
+defesa|||defense
+vida|||life
+vida|||life
+nivel|||level
+nivel|||level
+dano|||damage
+dano|||damage
+defesa|||defense
+defesa|||defense
+você trocou com o bebado|||You switched with the drunk.
+2|||2
+========STATUS=======|||========STATUS=======
+vida|||life
+vida|||life
+dano|||damage
+dano|||damage
+defesa|||defense
+defesa|||defense
+nivel|||level
+nivel|||level
+para sair aperte [0]|||To exit, press [0]
+0|||0
+tente novamente|||Try again.
+1|||1
+antigo_guerreiro|||ancient_warrior
+[1]trocar|||[1]exchange
+[2]ver status|||[2]view status
+escolha uma opção|||choose an option
+2|||2
+=========STATUS==========|||=========STATUS==========
+vida|||life
+vida|||life
+dano|||damage
+dano|||damage
+defesa|||defense
+defesa|||defense
+nivel|||level
+nivel|||level
+para sair coloque [0]|||to exit, dial [0]
+0|||0
+resposta invalida|||invalid answer
+1|||1
+você trocou com o antigo guerreiro|||You traded with the ancient warrior.
+vida|||life
+vida|||life
+defesa|||defense
+defesa|||defense
+dano|||damage
+dano|||damage
+vida|||life
+vida|||life
+dano|||damage
+dano|||damage
+defesa|||defense
+defesa|||defense
+2|||2
+mana|||manna
+voce consegue se defender|||Can you defend yourself?
+o ataque volta para o inimigo|||The attack is rebounded towards the enemy.
+defesa|||defense
+mana|||manna
+você não tem mana o suficiente!|||You don't have enough mana!
+6|||6
+você conseguiu escapar da batalha|||You managed to escape the battle.
+você não conseguiu escapar da batalha|||You couldn't escape the battle.
+vida|||life
+o lucro maximo está ativado|||Maximum profit is enabled.
+moedas|||coins
+moedas|||coins
+moedas|||coins
+moedas|||coins
+moedas|||coins
+você ganhou placa de madeira|||you won a wooden plaque
+placa_madeira|||wooden_plate
+você ganhou placa de ferro|||you won an iron plate
+placa_ferro|||iron_plate
+você ganhou espada de madeira|||You won a wooden sword.
+espada_madeira|||wooden_sword
+você ganhou escudo de madeira|||You won a wooden shield.
+escudo_madeira|||wood_shield
+você ganhou capacete de madeira|||You won a wooden helmet.
+capacete_madeira|||helmet_wood
+você ganhou uma barra de cobre|||You won a copper bar.
+barra_cobre|||copper_bar
+você ganhou espada de ferro|||You won the iron sword.
+espada_ferro|||iron_sword
+você ganhou escudo de ferro|||You won an iron shield.
+escudo_ferro|||iron_shield
+você ganhou capacete de ferro|||You won the iron helmet.
+capacete_ferro|||iron_helmet
+pipeta_cobre|||copper pipette
+você ganhou|||You won.
+você ganhou pepita de ouro|||You won a gold nugget.
+pipeta_ouro|||gold_pipette
+você ganhou uma barra de ferro|||You won an iron bar.
+barra_ferro|||iron_bar
+você ganhou uma barra de prata|||You won a silver bar.
+barra_prata|||silver_bar
+você ganhou barra de ouro|||You won a gold bar.
+barra_ouro|||gold_bar
+exp|||exp
+11|||11
+upgrades|||upgrades
+======upgrades======|||======upgrades======
+pontos_upgrades|||upgrade_points
+hp_max|||hp_max
+mana_max|||mana_max
+dano_max|||maximum_damage
+escolha o upgrade ou\n[0]pra sair|||Choose the upgrade or to exit.
+0|||0
+2|||2
+status|||status
+\n==== SEUS STATUS ====|||\n==== YOUR STATUS ====
+\nDigite (0) para voltar ao menu principal: |||\nType (0) to return to the main menu:
+0|||0
+7|||7
+Você abriu sua enciclopédia|||You opened your encyclopedia.
+Aperte 0 para sair|||Press 0 to exit.
+0|||0
+Você saiu da enciclopédia|||You left the encyclopedia.
+8|||8
+Suas conquistas|||Your achievements
+Conquista da espada: Obtenha a espada|||Sword Conquest: Obtain the sword
+Conquista do pão: Você comprou um pão|||Conquest of bread: You bought a loaf of bread.
+Conquista do bêbado: Fale com o bêbado|||Winning over the drunkard: Talk to the drunkard
+aperte 0 para sair|||Press 0 to exit.
+1|||1
+taverna|||tavern
+Barman: Bem-vindo à taverna! Aqui você pode conversar, beber e lutar por dinheiro.|||Bartender: Welcome to the tavern! Here you can chat, drink, and fight for money.
+[1] Conversar com um bêbado|||[1] Talking to a drunk
+[2] Conversar com o barman|||[2] Talk to the bartender
+[3] ir para o canto da taverna|||[3] go to the corner of the tavern
+O que deseja fazer? |||What do you want to do?
+1|||1
+Você vai conversar com o bêbado.|||You're going to talk to the drunk.
+Bêbado: O que tu quer?|||Drunkard: What do you want?
+[1]conversar|||[1]talk
+[2]sair|||[2]exit
+escolha uma das opçoes|||Choose one of the options.
+1|||1
+você escolheu conversar com o bebado,o que queres falar?|||You chose to talk to the drunk, what do you want to talk about?
+[1].porque você sempre esta aqui?|||[1] Why are you always here?
+[2].você não se cansa de sempre ficar aqui.porque não visitar a sua familia.|||[2].You don't get tired of always being here.Why not visit your family?
+[3]porque você tem sempre uma cara de depressivo?|||[3]Why do you always have a depressed look on your face?
+1|||1
+bebado:porque não tenho mais lugares para esconder minha depressão|||Drunk: Because I have nowhere left to hide my depression.
+depois de ouvir isso vc fica comovido e vai embora|||After hearing this, you'll be moved and leave.
+2|||2
+depois dos eventos que destruiram o reino,perdi a minha razão de viver e agora estou aqui bebe do para esquecer do meu passado|||After the events that destroyed the kingdom, I lost my reason for living and now I'm here drinking to forget my past.
+você reflete com a fala dele e vai embora questionando a sua propia vida|||You reflect on what he says and leave questioning your own life.
+3|||3
+por que nesse mundo não adianta o que você faça  sempre tentarão te desanimar e desistir de seus sonhos,isso que a inveja faz com as pessoas,se elas ve que você tem uma vida bem prospera vão tentar tirar de ti em vez de correr atras.|||Because in this world, no matter what you do, they will always try to discourage you and make you give up on your dreams. That's what envy does to people; if they see that you have a prosperous life, they will try to take it from you instead of striving for it themselves.
+você reflete com a fala dele e vai embora questionando a sua propria vida|||You reflect on what he says and leave questioning your own life.
+3|||3
+você foi para o canto da taverna e vê um baú, uma mesa e um antigo cavaleiro|||You went to the corner of the tavern and saw a chest, a table, and an old knight.
+o que fazer?|||What to do?
+[1]conversar com um antigo heroi|||[1]talking to an old hero
+[2]conversar com um comerciante sombrio|||[2] talk to a shady merchant
+[3]checar o baú|||[3]check the chest
+[4]sentar-se numa mesa|||[4]sit at a table
+4|||4
+frequentadores|||regulars
+você chega lentamente numa mesa...há muitas pessoas ali,vou chegar mais perto|||You slowly approach a table... there are many people there, I'll get closer.
+você chega naquela mesa...mas o percebe que niguem está sentado nela|||You arrive at that table... but you realize that nobody is sitting there.
+[1] pedir alguma bebida|||[1] order a drink
+[2] pedir alguma comida|||[2] order some food
+[3] abrir seu inventario|||[3] open your inventory
+frequentadores|||regulars
+[4] puxar assunto com alguem do seu lado|||[4] start a conversation with someone next to you
+[0] se levantar da mesa|||[0] to get up from the table
+o que deseja fazer?|||What do you want to do?
+0|||0
+você levanta lentamente da mesa|||you slowly get up from the table
+3|||3
+2|||2
+olá meu caro aprendiz...eu tenho coisas que os outros não vendem...vem cá e se acomoda-se|||Hello my dear apprentice...I have things that others don't sell...come here and make yourself comfortable.
+lembrando que meus itens são vendidos por diamantes...|||Just a reminder that my items are sold for diamonds...
+[1]ver estoque|||[1]see stock
+[2]vender itens|||[2] sell items
+[3]liquidar itens|||[3]liquidate items
+[4]negociar e trocar|||[4] negotiate and exchange
+[5]conversar|||[5]talk
+[0]sair|||[0]exit
+o que deseja fazer?|||What do you want to do?
+0|||0
+adeus....ande pelas sombras por que quem brilha muito atrai a escuridão...|||Farewell... walk in the shadows, for those who shine too brightly attract darkness...
+1|||1
+voce chega no heroi e comprimenta ele|||You approach the hero and greet him.
+ele te comprimenta devolta e pergunta em que ele poderia ajudar|||He greets you back and asks how he can help.
+[1]o que aconteceu com esse reino?|||[1] What happened to this kingdom?
+[2]quem governava eldora antes?|||[2]who ruled Eldora before?
+[3]o que tem naquela masmorra|||[3]what is in that dungeon
+[4]quer se juntar ao meu bando?|||[4]Want to join my gang?
+o que quer perguntar?|||What do you want to ask?
+1|||1
+a 5 anos atrás,monstros,bestas e maldiçoes começaram a atacar o reino e ai só sobriviveu os cavaleiros,herois e destemidos|||Five years ago, monsters, beasts, and curses began attacking the kingdom, and only the knights, heroes, and fearless survived.
+(1)porque o bebado sobreviveu?|||(1) Why did the drunkard survive?
+(2)sabe se o porque todo mundo morreu?|||(2) Do you know why everyone died?
+(3)sair|||(3) exit
+1|||1
+então né,nem sei como esse pinguço foi parar aqui|||Well, I don't even know how that drunkard ended up here.
+2|||2
+sei sim depois de tudo que aconteceu os monstros pegaram os 10 artefatos,eles sustentavam tudo que existia em eldora|||Yes, I know. After everything that happened, the monsters took the 10 artifacts; they sustained everything that existed in Eldora.
+3|||3
+muito obrigado por informar meu caro heroi|||Thank you very much for informing me, my dear hero.
+2|||2
+era o rei Dargan,ele causao a queda do reino pois na ligava para a segurança do povo e fez um pacto com o diabo|||It was King Dargan; he caused the downfall of the kingdom because he didn't care about the safety of the people and made a pact with the devil.
+3|||3
+niguem se sabe pois o que entraram nunca mais voltaram|||No one knows, because those who entered never returned.
+4|||4
+eu aceitaria essa proposta mas com um porem,de todos os ganhos que tiver na batalha, 20% sera meu.|||I would accept that proposal, but with one condition: of all the winnings from the battle, 20% will be mine.
+voce aceita essa proposta?(s) ou (n)|||Do you accept this proposal? (yes) or (no)
+s|||s
+antigo_guerreiro|||ancient_warrior
+então está bom|||Okay then.
+no menu tera a opção de guilda,la voce pode gerenciar seus aliados|||In the menu you will find the guild option, where you can manage your allies.
+2|||2
+Barman: O que deseja fazer?|||Bartender: What would you like to order?
+[1] Conversar|||[1] Talk
+[2] Pedir para entrar na luta|||[2] Ask to join the fight
+[3] upgrades da taverna|||[3] tavern upgrades
+[4] comprar bebidas|||[4] buy drinks
+O que você quer fazer? |||What do you want to do?
+4|||4
+então vejo que está\ninteressado na minha mercadoria,vejamos que só tenho um estoque\nhumilde e pequeno|||So I see you're interested in my merchandise, but let's just say I only have a small, humble inventory.
+BARMAN:|||BARTENDER:
+dinheiro_barman|||bartender_money
+======BEBIDAS=======|||======DRINKS=======
+[0]sair|||[0]exit
+classe|||class
+0|||0
+ao sair o barman fica contente que você comprou algo|||As you leave, the bartender is pleased that you bought something.
+-barman:eu entendo sei que meu estoque ainda não está atraente|||-Bartender: I understand, I know my stock isn't very appealing yet.
+-barman:volte sempre|||-Bartender: Come back soon!
+velho barreiro|||old clay pit
+velho barreiro|||old clay pit
+velhos barreiros|||old clay pits
+quantas velhos barreiros o senhor queiras comprar?|||How many old clay pits would you like to buy?
+velho barreiro|||old clay pit
+velho barreiro|||old clay pit
+velho barreiro|||old clay pit
+moedas|||coins
+moedas|||coins
+estoque_velho_barreiro|||old_barrel_stock
+moedas|||coins
+[S/N]|||[Y/N]
+s|||s
+sim|||Yes
+velho_barreiro|||old_clay
+moedas|||coins
+dinheiro_barman|||bartender_money
+estoque_velho_barreiro|||old_barrel_stock
+estoque_velho_barreiro|||old_barrel_stock
+vodka|||vodka
+vodka|||vodka
+vodkas|||vodkas
+quantas vodkas o senhor queiras comprar?|||How many vodkas would you like to buy, sir?
+vodka|||vodka
+vodka|||vodka
+vodka|||vodka
+moedas|||coins
+moedas|||coins
+estoque_vodka|||vodka_stock
+moedas|||coins
+[S/N]|||[Y/N]
+s|||s
+sim|||Yes
+vodka|||vodka
+moedas|||coins
+dinheiro_barman|||bartender_money
+estoque_vodka|||vodka_stock
+estoque_vodka|||vodka_stock
+cerveja|||beer
+cerveja|||beer
+cervejas|||beers
+quantas cervejas o senhor queiras comprar?|||How many beers would you like to buy?
+cerveja|||beer
+cerveja|||beer
+cerveja|||beer
+moedas|||coins
+moedas|||coins
+estoque_cerveja|||beer stock
+moedas|||coins
+[S/N]|||[Y/N]
+s|||s
+sim|||Yes
+cerveja|||beer
+moedas|||coins
+dinheiro_barman|||bartender_money
+estoque_cerveja|||beer stock
+estoque_cerveja|||beer stock
+cachaça mineira|||cachaça from Minas Gerais
+cachaça mineira|||cachaça from Minas Gerais
+cachaças mineiras|||cachaças from Minas Gerais
+quantas cachaças mineiras o senhor queiras comprar?|||How many bottles of cachaça from Minas Gerais would you like to buy?
+cachaça mineira|||cachaça from Minas Gerais
+cachaça mineira|||cachaça from Minas Gerais
+cachaça mineira|||cachaça from Minas Gerais
+moedas|||coins
+moedas|||coins
+estoque_cachaça_mineira|||stock_cachaça_mineira
+moedas|||coins
+[S/N]|||[Y/N]
+s|||s
+sim|||Yes
+cachaça_mineira|||cachaça_mineira
+moedas|||coins
+dinheiro_barman|||bartender_money
+estoque_cachaça_mineira|||stock_cachaça_mineira
+estoque_cachaça_mineira|||stock_cachaça_mineira
+pinga de mel|||honey drop
+pinga de mel|||honey drop
+pingas de mel|||drops of honey
+quantas pingas de mel o senhor queiras comprar?|||How many drops of honey would you like to buy?
+pinga de mel|||honey drop
+pinga de mel|||honey drop
+pinga de mel|||honey drop
+moedas|||coins
+moedas|||coins
+estoque_pinga_de_mel|||honey_pinga_stock
+moedas|||coins
+[S/N]|||[Y/N]
+s|||s
+sim|||Yes
+pinga_de_mel|||honey drop
+moedas|||coins
+dinheiro_barman|||bartender_money
+estoque_pinga_de_mel|||honey_pinga_stock
+estoque_cachaça_mineira|||stock_cachaça_mineira
+3|||3
+vejo que está querendo dar uma melhorada por aqui....|||I see you're looking to make some improvements around here....
+qual upgrade deseja fazer?[0] para sair: |||Which upgrade do you want to make?[0] To exit:
+0|||0
+[barman] muito obrigado meu jovem...|||[Bartender] Thank you very much, young man...
+melhorias_taverna|||tavern improvements
+moedas|||coins
+moedas|||coins
+a taverna ficou mais bonita... e mais cara.|||The tavern became more beautiful... and more expensive.
+moedas insuficientes, meu jovem...|||Not enough coins, my young friend...
+esse upgrade ainda não existe nos pergaminhos...|||This upgrade doesn't exist in the scrolls yet...
+não conheço esse tipo de melhoria...|||I'm not familiar with that type of improvement...
+1|||1
+barman|||bartender
+2|||2
+Barman: Que bom que quer entrar na luta!|||Bartender: It's great that you want to join the fight!
+Bêbado: Quanto quer apostar?|||Drunkard: How much do you want to bet?
+moedas|||coins
+Digite a quantia: |||Enter the amount:
+moedas|||coins
+Você não tem moedas suficientes para essa aposta!|||You don't have enough coins for that bet!
+Aposta aceita! Vamos lutar!|||Bet accepted! Let's fight!
+vida|||life
+vida|||life
+(1) Atacar|||(1) Attack
+(2) Fugir|||(2) To flee
+O que vai fazer? |||What are you going to do?
+1|||1
+Você atacou! O bêbado perdeu 5 HP.|||You attacked! The drunkard lost 5 HP.
+moedas|||coins
+vida|||life
+O bêbado contra-atacou! Você perdeu 2 HP.|||The drunkard counterattacked! You lost 2 HP.
+vida|||life
+Você perdeu a luta!|||You lost the fight!
+moedas|||coins
+2|||2
+Você fugiu da luta!|||You ran away from the fight!
+3|||3
+casa|||home
+você entrou na sua casa|||you entered your house
+[1]descansar(recuperar hp)|||[1]rest(recover hp)
+[2]conversar com Dorian|||[2]talk to Dorian
+[3]sair de casa|||[3]leave home
+o que queres fazer|||what do you want to do
+2|||2
+1|||1
+vida|||life
+2|||2
+você saiu de casa|||you left home
+escolha invalida|||invalid choice
+4|||4
+Obrigado por jogar! Até a próxima.|||Thanks for playing! See you next time.
+5|||5
+loja|||store
+\nMercador: Você entra na loja e o vendedor te apresenta a mercadoria:|||Merchant: You enter the store and the salesperson shows you the merchandise.
+moedas|||coins
+selecione a categoria do item|||Select the item category.
+[1]itens de ataque|||[1]attack items
+[2]itens de defesa|||[2]defense items
+[3]itens consumíveis|||[3]consumable items
+[4]outros itens...|||[4]other items...
+[5]vender itens|||[5] sell items
+[6]liquidar itens|||[6]liquidate items
+[7]conversar|||[7]talk
+[0]sair da loja|||[0]leave the store
+4|||4
+[0] Retornar|||[0] Return
+Qual item deseja comprar? |||Which item would you like to buy?
+0|||0
+diamantes|||diamonds
+o item diamante foi adicionado|||The diamond item was added.
+diamantes|||diamonds
+7|||7
+comerciante de eldora|||merchant of Eldora
+0|||0
+[comerciante de eldora] até mais meu viajante!|||[Merchant from Eldora] Goodbye, my traveler!
+2|||2
+[0] Retornar|||[0] Return
+Qual item deseja comprar? |||Which item would you like to buy?
+0|||0
+capacete|||helmet
+o item capacete de ferro foi adicionado ao inventário |||The iron helmet item has been added to the inventory.
+capacete|||helmet
+peitoral|||chest
+o item peitoral de ferro foi adicionado ao inventário |||The iron breastplate item has been added to the inventory.
+peitoral|||chest
+calças|||pants
+o item calças de ferro foi adicionado ao inventário |||The item "iron pants" has been added to the inventory.
+calcas|||pants
+botas|||boots
+o item botas de ferro foi adicionado ao inventário |||The item "iron boots" has been added to the inventory.
+botas|||boots
+5|||5
+1|||1
+[0]retornar|||[0]return
+escolha um item para comprar|||Choose an item to buy.
+0|||0
+espada de pedra|||stone sword
+espada|||sword
+adaga|||dagger
+adaga|||dagger
+moedas|||coins
+moedas|||coins
+3|||3
+[0]retornar|||[0]return
+escolha um item para comprar|||Choose an item to buy.
+0|||0
+carne|||meat
+o item carne foi adicionado ao inventário |||The item "meat" has been added to the inventory.
+carne2|||meat2
+pão|||bread
+o item pão foi adicionado ao inventário |||The item "bread" was added to the inventory.
+pao2|||pao2
+batata|||potato
+o item carne foi adicionado ao inventário |||The item "meat" has been added to the inventory.
+carne2|||meat2
+poção exp|||potion exp
+o item poção exp foi adicionado ao inventário |||The EXP potion item has been added to the inventory.
+pocao_exp2|||pocao_exp2
+moedas|||coins
+moedas|||coins
+moedas|||coins
+moedas|||coins
+9|||9
+10|||10
+__main__|||__main__

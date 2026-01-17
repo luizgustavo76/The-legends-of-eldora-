@@ -1,0 +1,4910 @@
+
+
+hp
+resistance
+damage
+year
+day
+month
+hours
+0
+minutes
+00
+day
+month
+hours
+minutes
+easy
+average
+difficult
+hell
+
+name
+
+class
+
+level
+life
+swordsmanship
+magic skill
+patent level
+exp
+coins
+diamonds
+defense
+damage
+exp to evolve
+dodge
+chat
+
+area
+
+name
+
+class
+
+level
+xp
+local
+
+friends
+
+ID online
+000000000
+...can I join your guild?
+1
+Thank you so much... I swear I won't let you down, my friend!
+blacksmith
+So that's a no, I understand.
+greeting
+hey
+hello
+and there
+hey
+how are you
+you
+you
+Your Grace
+battle
+battle
+confrontation
+Infinite Arena
+dungeon
+monster
+guild
+guild
+group
+gang
+to bring together
+insult
+son of a bitch
+mother's son
+damn
+fuck
+Go fuck yourself.
+horn
+fag
+holy shit
+blacksmith
+sword
+helmet
+chest
+pants
+boot
+dagger
+golem
+repair
+fix
+equipment
+high price
+low price
+store
+seller
+competition
+friends
+store
+tavern
+bartender
+drunk
+tavern
+alcohol
+beer
+honey drop
+cachaça from Minas Gerais
+vodka
+old clay pit
+villages
+rimvark
+ebrenthal
+vanguard
+nocten
+village
+climate
+rain
+cold
+heat
+sunny
+cloudy
+storm
+help
+help, doubt
+classes
+class
+wizard
+goblin
+knight
+monster
+merchant
+economy
+money
+economy
+npcs
+blacksmith
+seller
+bartender
+drunk
+ancient warrior
+golem
+compliments
+good
+excellent
+excellent
+very good
+perfect
+state question
+boring
+sad
+anger
+happy
+fear
+anxious
+farewell
+goodbye
+goodbye
+until later
+Until next time.
+player_name
+
+class
+name
+player_name
+name
+player_name
+greeting
+battle
+Let's see, you like to battle... good to know.
+So you like to battle... I feel lonely sometimes after all this... could I join your guild?
+Hey...let's battle?
+guild
+insult
+Why this...?
+blacksmith
+name
+blacksmith_price
+That's great to know my prices are affordable for you.
+Uh... I'm sorry if the prices are high... my life isn't the best right now, especially financially.
+store
+It doesn't bother me because we are both essential to this kingdom, as we are the only ones.
+tavern
+How wonderful it was to go to the tavern in the old days, with joy reigning and drinking without a care in the world.
+I could go to the tavern, it's been years since I've been there.
+villages
+I've only heard about this village and the others... I don't know how I feel... an obligation to stay in this blacksmith shop... as if every day were the same.
+I don't know it, but I'll go there someday.
+help
+Hey... how can I help you?
+You're interested in the merchandise but need help, right?
+classes
+No offense intended, but in that kingdom there were few of your kind; you were the most fearless of them all.
+economy
+something difficult to obtain easily in Eldora
+npcs
+my friend... actually, a very good person.
+compliments
+I'm glad you liked my service, because if you hadn't, you wouldn't have had anywhere else to buy from...
+farewell
+until later
+goodbye
+May God guide your hand.
+goodbye
+class
+Are you going to speak properly or not?
+Sorry, but I didn't understand what you said.
+I think I'm going deaf! Could you repeat that?
+class
+bartender
+drunk
+blacksmith
+miner
+merchant
+nocten merchant
+merchant vangurd
+merchant ebranthal
+rimvark merchant
+shady seller
+ancient warrior
+
+You...you came here with the promise to save those who suffered so much just by being there...but you killed them...you killed those in whom the hope of a happy kingdom like before lingered...you had that power...and that's why they were there....
+If hope is the last thing to die...you should already be dead.
+final genocide...
+final genocide
+class
+wizard
+Reaching level 50 isn't just an achievement...it's proof that you truly survived the chaos...
+Now you can choose a path to follow.
+Do you want to become a:
+[1]water wizard
+[2]fire wizard
+[3]wind wizard
+[4]leaf wizard
+Which subclass will you choose? Choose wisely, to have information on each subclass write [i]
+i
+Which subclass would you like information on?
+[1]water wizard
+[2]fire wizard
+[3]wind wizard
+[4]leaf wizard
+
+1
+Water Wizard: Possesses aquatic powers for their own benefit... has attacks such as sending a wave at the enemy; this subclass is quite powerful against fire-type enemies.
+Press Enter to continue.
+
+2
+Fire wizard, has fire attacks like burn and has more advantages against grass-type enemies.
+Press Enter to continue.
+
+=====your skills=====
+your class:
+class
+manna
+subclass
+water wizard
+level
+water cut
+level
+class
+knight
+level
+class
+knight
+knight_skill
+level
+class
+knight
+knight_skill2
+level
+class
+knight
+knight_skill3
+level
+class
+knight
+knight_skill4
+class
+wizard
+level
+wizard_skill
+level
+wizard_skill2
+level
+wizard_skill3
+level
+wizard_skill4
+class
+goblin
+level
+goblin_skill
+level
+goblin_skill2
+level
+goblin_skill3
+level
+goblin_skill4
+class
+monster
+level
+monster_ability
+level
+monster_ability2
+level
+monster_ability3
+level
+monster_ability4
+class
+merchant
+level
+merchant_skill
+level
+merchant_skill2
+level
+merchant_skill3
+level
+merchant_skill4
+Which skill do you want to use?
+class
+knight
+knight_skill
+manna
+you used
+knight_skill
+manna
+You took 10 life points from the monster.
+life
+You don't have enough mana.
+knight_skill4
+manna
+You have received the blessing of the vote of honor.
+Your attacks and defenses will be multiplied by 3, but you will not be able to escape and will receive a critical hit twice as strong.
+damage
+defense
+damage
+defense
+manna
+you don't have enough mana
+knight_skill3
+You attacked the monster using a brutal charge.
+-15 mana
+damage
+manna
+life
+knight_skill2
+you used sacred shield
+You have received the sacred blessing.
+class
+wizard
+wizard_skill
+manna
+You unleashed a fireball.
+life
+manna
+you don't have enough mana
+wizard_skill2
+manna
+You unleash an arcane explosion.
+The arcane explosion caused burns on the enemy.
+life
+The arcane explosion caused damage but did not inflict burns.
+manna
+You don't have enough mana.
+wizard_skill3
+manna
+You used a dark curse on the enemy.
+manna
+You don't have enough mana.
+wizard_skill4
+manna
+life
+manna
+You don't have enough mana.
+class
+monster
+monster_ability
+manna
+manna
+you let out a terrifying roar
+The roar made the monster flee.
+The roar did nothing.
+The monster attacked you furiously.
+life
+monster_ability2
+manna
+manna
+With the bite, its damage doubled in this special attack.
+damage
+monster_ability3
+manna
+manna
+In its wild rage, it can launch two attacks at once.
+monster_ability4
+manna
+You are regenerating in a supernatural way.
+life
+manna
+class
+merchant
+merchant_skill4
+manna
+You use the maximum profit skill.
+merchant_skill3
+manna
+You use the persuasion attack.
+The monster is trying to attack you.
+The monster missed its attack.
+The monster landed the attack.
+life
+merchant_skill2
+manna
+manna
+cure 20 coins
+defense 15 coins
+damage 10 coins
+select an item to buy
+cure
+coins
+You have been healed.
+coins
+coins
+coins
+life
+You don't have enough coins.
+defense
+coins
+coins
+coins
+coins
+defense
+His defense increased by 5.
+You don't have enough money...
+damage
+coins
+its damage increased by 5.
+coins
+coins
+coins
+damage
+You don't have enough coins.
+merchant_skill
+manna
+coins
+You're bribing the monster.
+manna
+coins
+The monster accepted the proposal.
+The monster is gone.
+The monster did not accept the proposal.
+The monster returned the money.
+coins
+The monster stole your money.
+class
+goblin
+goblin_skill4
+manna
+You planted a bomb.
+BOMB EXPLODING IN
+3
+2
+1
+The bomb exploded, causing 10 damage.
+life
+goblin_skill3
+manna
+You used the mockery attack.
+goblin_skill2
+manna
+This ability allows for instant escape. Do you wish to use this ability? [y] or [n]
+s
+You escaped the battle.
+manna
+n
+Your mana will not be spent.
+invalid answer
+goblin_skill
+manna
+The monster can't reach you because it's too far away.
+manna
+copper golem
+coins
+items
+copper bar
+amulet of souls
+wooden golem
+coins
+items
+wood
+amulet of souls
+iron golem
+coins
+items
+iron bar
+amulet of souls
+stone golem
+coins
+items
+stone
+amulet of souls
+obsidian golem
+coins
+items
+obsidian
+amulet of souls
+ruby golem
+coins
+items
+ruby
+amulet of souls
+emerald golem
+coins
+items
+emerald
+amulet of souls
+golden golem
+coins
+items
+gold bar
+amulet of souls
+diamond golem
+coins
+items
+diamond
+amulet of souls
+https://luizsgustavo76.pythonanywhere.com/get
+You are currently without internet or the server is down...please try again later if the problem persists...
+https://luizsgustavo76.pythonanywhere.com/update
+chat
+Your message\ or type reload to reload the chat.
+reload
+r
+utf-8
+w
+utf-8
+name
+Friend
+life
+life_max
+area
+unknown
+items
+gold
+chat
+friend_world.json
+[SERVER] Friend disconnected
+[SERVER] Connection closed
+[CLIENT] Could not connect to host
+friend_world.json
+[CLIENT] Connection lost with host
+[CLIENT] Connection closed
+8.8.8.8
+127.0.0.1
+name
+Friend
+life
+life_max
+area
+unknown
+ˆ
+Unable to display friend's status.
+items
+gold
+[1] Send item\n[2] Send gold\nChoose:
+1
+Which item would you like to send?
+items
+items
+items
+You don't have that item.
+2
+How much gold do you want to send?
+Invalid value.
+gold
+gold
+gold
+You don't have enough gold.
+Invalid choice.
+tloe_save.json
+friend_world.json
+=== MULTIPLAYER CHAT ===
+chat
+[1] open chat
+[2] Exit chat
+Choice:
+1
+[0] to exit
+Type your message:
+name
+You
+chat
+tloe_save.json
+0
+2
+Leaving the chat.
+Invalid command.
+\n=== MULTIPLAYER MENU ===
+[1] Open world (server)
+[2] Entering the friend's (customer's) world
+Choice:
+1
+Server started! You can continue playing normally.
+2
+Enter your friend's IP address (server):
+Connected to your friend's world! You can continue playing normally.
+Invalid choice.
+tloe_save.json
+cls
+nt
+clear
+first_time_resistance
+first_time_trunk_cabin
+bau_cabana
+The limit for items in the chest is 30 items.
+[1] deposit items
+[2] remove items
+[0] exit
+What do you want to do?
+1
+bau_cabana
+The chest is full!
+Choose the items you wish to deposit.
+item:
+bau_cabana
+It is not possible to deposit items with a value of 0 or less.
+Item deposited successfully!
+[1] to do missions
+[2] talk to a member
+[3] check chest
+[4] open inventory
+What do you want to do?
+3
+first_time_trunk_cabin
+[Maria] ...this is the chest here, you can store your items there as much as you like.
+first_time_resistance
+You approach that cabin; it still appears to be inhabited.
+...
+[Unknown person 1] Who...who are you???
+You see several people inside that cabin; they seem insecure after your arrival.
+[Unknown person 2] The boy is going to introduce himself, right???
+name
+[Unknown person 2] It seems you're not a threat...my name is Joshua
+[Unknown person 1] a... my name is Maria
+first_time_resistance
+Gortak the tyrant of stone
+level
+difficulty
+easy
+attacks
+stoning
+damage
+colossus of shadows
+level
+difficulty
+average
+special attacks
+darkness
+dark poisoning
+damage
+shadow dead
+level
+difficulty
+difficult
+attacks
+empty soul
+double attack
+damage
+hell dragon
+difficulty
+hell
+attacks
+hellish burning
+duplicate
+shield of flames
+damage
+manna
+level_evolution_value
+upgrade_points
+name
+ancient warrior
+life
+defense
+damage
+level
+name
+drunk
+life
+defense
+damage
+level
+name
+name
+life
+defense
+damage
+level
+level
+head
+
+stem
+
+legs
+
+feet
+
+right hand
+
+left hand
+
+player_name
+
+objective_eldora
+
+times_questions
+additional_memory
+
+affinity
+current village
+
+reputation in Vangurd
+reputation in Nocten
+reputation in Ebranthal
+reputation in Rimvark
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+[Dorian] So this is where you wanted to take me?
+name
+Why is everything destroyed?
+[Dorian] I was talking to some locals here and they said they were survivors of some incident in this kingdom...but what incident could that be...
+name
+[Dorian] I'm going back to my room then...
+You arrived at the ruins.
+[1]walk forward
+[2] turn right
+[3] turn left
+[4]walk backwards
+[5]clear debris
+[6]open inventory
+[7]see map
+[0] return to the center of Eldora
+what will you do
+0
+7
+Press [0~] to return to the menu.
+0
+current village
+Rimvark Village:
+[1]store
+[2]church
+[3]market
+[4]house
+[5]see map
+[6]player menu
+What do you want to do?
+1
+Welcome to my weapons store...
+[1]see stock
+[2] sell items
+[3]talk
+[0]exit
+What do you want to do?
+0
+As you leave, you realize the shopkeeper was happy because you bought something...
+Okay...come back anytime!
+3
+Free mode...write anything and he will reply...DreamCore technology, say words like goodbye to exit the chat.
+rimvark merchant
+2
+You enter the church but realize it's still under construction after the destruction that occurred in Rimvark.
+Rimvark Catholic Church
+[1] to sit on the benches
+[2]go to the altar
+[3]go talk to the Father
+[0]exit
+What do you want to do?
+0
+You leave the church...
+5
+You are traveling back to the center of Eldora.
+...
+Vangurd Village:
+[1]store
+[2]church
+[3]market
+[4]house
+[5] return to Eldora
+[6]open inventory
+[7]open status
+What do you want to do?
+5
+You are traveling back to the center of Eldora.
+...
+1
+[Merchant from Vangurd]: Welcome to my humble shop.
+[1]see stock
+[2] sell items
+[3]talk
+[0]exit
+What do you want to do?
+0
+As you leave, you realize the shopkeeper was happy because you bought something...
+Okay...come back anytime!
+3
+Free mode...write anything and he will reply...DreamCore technology, say words like goodbye to exit the chat.
+merchant of vangurd
+2
+You enter the church but realize it's still under construction...\nright ahead, the priest is celebrating mass.....
+Nocten Village:
+[1]store
+[2]church
+[3]market
+[4]house
+[5]see map
+[6]player menu
+What do you want to do?
+5
+You are traveling back to the center of Eldora.
+...
+1
+[Nocten merchant]: Welcome to my shop of potions and cursed items.
+[1]see stock
+[2] sell items
+[3]talk
+[0]exit
+What do you want to do?
+0
+As you leave, you realize the shopkeeper was happy because you bought something...
+Okay...come back anytime!
+3
+Free mode...write anything and he will reply...DreamCore technology, say words like goodbye to exit the chat.
+nocten merchant
+2
+You enter the church but realize it's still under construction.
+money
+stock
+Ebranthal village:
+[1]store
+[2]church
+[3]market
+[4]house
+[5]see map
+[6]player menu
+What do you want to do?
+5
+You are traveling back to the center of Eldora.
+...
+1
+[Merchant from Ebranthal]: Welcome to my shop.
+[1]see stock
+[2] sell items
+[3]talk
+[0]exit
+What do you want to do?
+0
+As you leave, you realize the shopkeeper was happy because you bought something...
+Okay...come back anytime!
+3
+Free mode...write anything and he will reply...DreamCore technology, say words like goodbye to exit the chat.
+merchant of Ebranthal
+2
+You enter the church but realize it's still under construction.
+
+You're drunk...
+You enter this forest, but this place definitely doesn't comfort you.
+The sky seems to darken and become night.
+trees
+enemies
+walking mushroom
+life
+attack
+special skill
+poisoning
+evil goblin
+life
+attack
+special skill
+dagger throw
+dark assassin
+life
+attack
+special skill
+none
+night demon
+life
+attack
+special skill
+demonic poisoning
+trees
+[1]break a tree
+[2]walking through the forest
+[0]leave the forest
+What do you want to do?
+Hi! Before we start the game, could we ask if you'd like to create an account for online content?
+It's free and allows you to enjoy interactive multiplayer modes!
+[Y]yes, I would like to.\n[N]no, thank you.
+s
+http://luizsgustavo76.pythonanywhere.com
+/create-id
+nickname
+e-mail
+password
+Choose a nickname; it's unique and unchangeable, and is essentially used...
+For chats, trades, and online resources!
+What will your nickname be? Be creative! ^^
+[Y]yes [N]no
+s
+nickname
+Do you want to enter an email address? If you forget your password, we can help.
+Send a password reset email! And you'll also receive news about...
+First-hand information sent directly to your email.
+Note: We will send a confirmation email to your inbox.
+[S] yes, [N] no
+s
+What is your email address?
+You can change your recovery email at any time.
+in the settings
+e-mail
+Now... please set a password.
+Your password:
+Your password is too short... but you have the option to stay but face it.
+security risks: according to the license
+[S] Yes, I am aware of the risk,
+[N] No, I want to reset my password.
+s
+The warning was given...
+confirm your password
+Your passwords don't match.
+password
+Sending data to the server...:[in progress]
+Sending data to the server...:
+[completed]
+Sending data to the server...:
+[FAILURE]
+An error occurred during communication with the servers.
+Please try again later. If the error persists, contact us at [phone number/contact information].
+email: luizsgustavo76@gmail.com
+The response is not JSON:
+generating ID
+id
+Finishing account creation
+https://luizsgustavo76.pythonanywhere.com
+time
+name
+message
+Error receiving messages:
+>
+/to go out
+Leaving the chat...
+name
+message
+time
+%H:%M:%S
+Error sending message:
+exp
+exp
+level
+level
+upgrade_points
+you leveled up to level
+level
+
+#
+[
+]
+
+easy
+Gorthak, tyrant of the stone ["damage"]
+gorthak tyrant of the stone ["attacks"]
+Gorthak, tyrant of the stone ["life"]
+What a beautiful day... perfect for throwing a bottle at your head. Boys like you shouldn't be in this bar, especially being defeated by me. So, is that it? You're going to leave me behind to die? Every cause has a consequence.
+
+bartender
+bartender
+[1]attack
+[2]defender
+[3]ability
+[4]switch ally
+[5]inventory
+[6] flee from battle
+choose an option
+1
+====== CHEST ======
+[1] View items in the chest
+[2] Store item in chest
+[3] Remove item from chest
+[0] Exit
+Choose an option:
+1
+Items in the chest:
+_
+ 
+The chest is empty.
+Press Enter to continue...
+2
+Name of the item to store:
+ 
+_
+Quantity to store:
+_
+ 
+You don't have that amount.
+Item not found in inventory.
+Press Enter to continue...
+3
+Name of the item to be removed:
+ 
+_
+Quantity to withdraw:
+_
+ 
+You don't have that amount in the chest.
+Item not found in the chest.
+Press Enter to continue...
+0
+Invalid option.
+creator_trade
+members
+items
+in_duration
+limit_people
+How many participants will there be? *Limit 10 participants
+
+Enter a valid number!
+It's not possible to create a trade; the limit has been exceeded. The maximum number of members is 10.
+It is not possible to create a trading table with fewer than 2 people.
+creator_trade
+name
+limit_people
+in_duration
+True
+members
+name
+https://luizsgustavo76.pythonanywhere.com
+creator_trade
+creator_trade
+members
+members
+items
+items
+in_duration
+in_duration
+limit_people
+limit_people
+Error connecting to the server:
+\nELDORA MERCANTIL CENTER\n
+No booths available.
+-
+stand_name
+name
+-
+items
+Invalid or corrupted items.
+No items for sale.
+item
+Unknown
+price
+N/A
+-
+\n
+https://luizsgustavo76.pythonanywhere.com
+name
+name
+items
+value_paid
+stand_name
+What will the title of the booth be?
+Title:
+stand_name
+To have your own booth, you rent it by the hour (real time) or by the minute! Only 1000 coins per hour or 16 coins per minute!
+[1] per hour
+[2] per minute
+Which option would you like to choose?
+1
+How many hours do you want to rent?
+time:
+Do you wish to continue? [Y] Yes [N] No
+n
+s
+coins
+value_paid
+2
+How many minutes do you want to rent?
+time:
+Do you wish to continue? [Y] Yes [N] No
+n
+s
+coins
+value_paid
+Which items will be for sale...type /finish to finalize the item selection.
+
+/finish
+Item added!
+What will be the unit price of this item?
+Price:
+items
+item
+price
+Enter a number, NOT A WORD!!!
+Item not found in your inventory.
+In conclusion...
+/s-stands
+https://luizsgustavo76.pythonanywhere.com
+[1] exchange items
+[2] internal chat
+[0] exit
+Which option would you like to choose?
+0
+1
+Which item do you want to exchange? If you want to exchange coins, type 'coins {value}'.
+/add-items
+trade_id
+item
+https://luizsgustavo76.pythonanywhere.com/r-trade
+No trades open at the moment.
+Open trades:
+members
+members
+items
+items
+creator_trade
+limit_people
+Enter the trade number you wish to enter (or 0 to cancel):
+creator_trade
+https://luizsgustavo76.pythonanywhere.com/entrar-trade
+trade_id
+id
+name
+name
+status
+OK
+members
+id
+message
+Invalid number. Please try again.
+Enter a valid number!
+=====ELDORA MARKET CENTER=====
+[1] trades
+[2] go to the sales stands
+[3] open the chat
+[0]exit
+What do you want to do?
+0
+you leave the center...
+3
+1
+[1]create a trading table
+[2]see open trading tables
+[0] exit
+What do you want to do?
+1
+2
+which trade do you want?
+0
+2
+[1] Create a Booth
+[2] See Stands
+[0] exit
+Which option would you like to choose?
+1
+2
+https://luizsgustavo76.pythonanywhere.com
+0
+invalid option
+pocao_exp2
+sword2
+pao2
+meat2
+potato2
+pocao_de_stamina2
+artifact_light2
+artifact_fire2
+artifact_water2
+artifact_lava2
+diamond_artifact2
+artifact_force2
+defense_artifact2
+gold_artifact2
+artifact_luck2
+artifact_magic2
+underworld_coin2
+contract_of_souls2
+necromancy_amulet2
+smoke_of_illusion2
+poisoned_dagger2
+dark_armor2
+_
+ 
+
+ 
+Your inventory is empty.
+ 
+
+
+ 
+_
+
+pao2
+potato2
+You regained 10 points of life.
+meat2
+You've regained 20 seconds of life.
+pocao_de_stamina2
+You've regained all your energy.
+pocao_exp2
+You gained 100 experience points!
+exp
+beer
+You drank a beer.
+beer
+honey drop
+You drank a shot of honey.
+honey drop
+cachaça from Minas Gerais
+You drank some cachaça from Minas Gerais.
+cachaça from Minas Gerais
+vodka
+You drank a vodka.
+vodka
+old clay pit
+You drank some old-fashioned rum.
+old clay pit
+1
+You examined the item. It might be useful for crafting.
+underworld_coin2
+You heard whispers from beyond...
+contract_of_souls2
+You made a dark pact.
+necromancy_amulet2
+The dead now recognize you as one of their own.
+smoke_of_illusion2
+You became invisible for a few seconds.
+poisoned_dagger2
+His next blade will be deadly.
+dark_armor2
+A dark armor envelops his body.
+sword2
+armor2
+You have equipped a new battle gear.
+You used the item, but nothing happened.
+Item not found in inventory.
+level_value
+bronze I
+bronze II
+bronze III
+silver I
+silver II
+silver III
+gold I
+gold II
+Gold III
+Platinum I
+Platinum II
+Platinum III
+Diamond I
+diamond II
+Diamond III
+Master I
+Master II
+Master III
+Master of Honor I
+Master of Honor II
+Master of Honor III
+elite I
+elite II
+elite III
+welcome
+name
+class
+Welcome to the tutorial.
+Do you want to do the tutorial? (y/n)
+n
+So let the adventure begin.
+The Legends of Eldora
+s
+Welcome to the world of Eldora.
+To begin with, let's buy a sword.
+<--------
+<-------
+  <------
+   <-----
+(1) go to the tavern
+(2)store
+(3)inventory
+(1) go to the tavern
+(2)store
+(3)inventory
+(1) go to the tavern
+(2)store
+(3)inventory
+(1) go to the tavern
+(2)store
+(3)inventory
+(1) go to the tavern
+(2)store
+(3)inventory
+(1) go to the tavern
+(2)store
+(3)inventory
+(1) go to the tavern
+(2)store
+(3)inventory
+easy
+average
+difficult
+hell
+easy_death
+Okay man, you need to train a little more.
+death_medium
+Don't give up, you can still do it.
+difficult_death
+That was a good battle!
+death_hell
+You tried, that was the hardest part.
+\033[1;31m
+\033[1;32m
+\033[1;34m
+\033[1;33m
+\033[0m
+\033[1;35m
+\033[1;36m
+\033[1;37m
+\033[33m
+\033[92m
+\033[1;37m
+discarded: aw000
+evil snail
+spider
+slime
+goblin
+Gorthak the Tyrant of Stone
+tavern
+store
+guild
+dungeon
+ancient_warrior
+drunk
+life_max
+life
+defense
+manna
+exp
+sword mastery
+magic
+ability
+exp_value
+upgrade points
+knight_skill
+divine strike
+wizard_skill
+fireball
+goblin_skill
+throw dagger
+monster_ability
+terrifying roar
+merchant_skill
+bribe
+knight_skill2
+sacred shield
+knight_skill3
+brutal attack
+knight_skill4
+vote of honor
+wizard_skill2
+arcane explosion
+wizard_skill3
+dark curse
+wizard_skill4
+drain soul
+goblin_skill2
+swift escape
+goblin_skill3
+mockery
+goblin_skill4
+improvised bomb
+merchant_skill2
+Flash Sale
+merchant_skill3
+persuasion
+merchant_skill4
+maximum profit
+monster_ability2
+voracious bite
+monster_ability3
+wild rage
+monster_ability4
+natural regeneration
+cold
+exposed_climate
+It's a somewhat sunny day.
+It's a rainy day.
+exposed_climate
+It's raining heavily, it looks like a storm is coming.
+exposed_climate
+There's a severe storm with lightning and strong winds, I'd better take shelter.
+exposed_climate
+It's a cloudy day, but it's actually nice to be here!
+It's a sunny day, take advantage of it to get your chores done.
+There's a snowstorm going on, I'd better take shelter.
+exposed_climate
+exposed_climate
+You are exposed to the elements, find shelter!
+exposed_climate
+You are too exposed to the elements; find shelter urgently.
+wood
+upgrade points
+achievements
+item sword chest
+drunk
+ancient_hero
+coal
+dagger
+copper_bar
+copper pipette
+helmet
+chest
+pants
+boots
+pocao_exp2
+sword2
+pao2
+meat2
+potato2
+pocao_de_stamina2
+beer2
+pinga2
+choro_dragao2
+skull_soul2
+dead_soul2
+black_soul2
+artifact_light2
+artifact_fire2
+artifact_water2
+artifact_lava2
+diamond_artifact2
+artifact_force2
+defense_artifact2
+gold_artifact2
+artifact_luck2
+artifact_magic2
+goblin_tooth1
+spider_eye1
+slime_ball1
+snail_shell1
+underworld_coin2
+contract_of_souls2
+necromancy_amulet2
+smoke_of_illusion2
+poisoned_dagger2
+dark_armor2
+beer
+honey drop
+cachaça_mineira
+vodka
+old_clay
+bucket
+obsidian
+bucket of water
+bucket of lava
+obsidian pickaxe
+copper pickaxe
+raw copper
+raw iron
+raw gold
+wooden axe
+iron axe
+stone axe
+iron axe
+copper axe
+obsidian axe
+diamond axe
+stone
+gallows scroll I
+gallows scroll II
+gallows parchment III
+gallows scroll IV
+parchment of defense I
+parchment of defense II
+parchment of defense III
+parchment of defense IV
+patching parchment
+parchment of more coins
+copper
+iron
+gold
+diamond
+ruby
+emerald
+amulet of souls
+ruby sword
+emerald sword
+iron sword
+copper sword
+golden sword
+diamond sword
+obsidian sword
+wooden helmet
+stone helmet
+copper helmet
+iron helmet
+golden helmet
+ruby helmet
+emerald helmet
+obsidian helmet
+wooden pickaxe
+stone pickaxe
+copper pickaxe
+iron pickaxe
+golden pickaxe
+emerald pickaxe
+ruby pickaxe
+diamond pickaxe
+obsidian pickaxe
+wooden breastplate
+stone breastplate
+copper breastplate
+Iron breastplate
+golden breastplate
+emerald breastplate
+ruby breastplate
+diamond breastplate
+obsidian breastplate
+wooden pants
+stone pants
+copper pants
+iron pants
+gold pants
+ruby pants
+emerald pants
+diamond pants
+obsidian pants
+wooden boots
+stone boots
+copper boots
+iron boots
+golden boots
+ruby boots
+emerald boots
+diamond boots
+boots of obidian
+wooden hoe
+stone hoe
+copper hoe
+iron hoe
+golden hoe
+ruby hoe
+emerald hoe
+diamond hoe
+obsidian hoe
+wood
+rarity
+resale price
+category
+coal
+rarity
+resale price
+category
+dagger
+rarity
+resale price
+category
+copper_bar
+rarity
+resale price
+category
+copper pipette
+rarity
+resale price
+category
+pocao_exp2
+rarity
+resale price
+category
+sword2
+rarity
+resale price
+category
+pao2
+rarity
+resale price
+category
+meat2
+rarity
+resale price
+category
+potato2
+rarity
+resale price
+category
+pocao_de_stamina2
+rarity
+resale price
+category
+beer2
+rarity
+resale price
+category
+pinga2
+rarity
+resale price
+category
+artifact_light2
+rarity
+resale price
+category
+artifact_fire2
+rarity
+resale price
+category
+artifact_water2
+rarity
+resale price
+category
+artifact_lava2
+rarity
+resale price
+category
+diamond_artifact2
+rarity
+resale price
+category
+artifact_force2
+rarity
+resale price
+category
+defense_artifact2
+rarity
+resale price
+category
+gold_artifact2
+rarity
+resale price
+category
+artifact_luck2
+rarity
+resale price
+category
+artifact_magic2
+rarity
+resale price
+category
+underworld_coin2
+rarity
+resale price
+category
+contract_of_souls2
+rarity
+resale price
+category
+necromancy_amulet2
+rarity
+resale price
+category
+smoke_of_illusion2
+rarity
+resale price
+category
+poisoned_dagger2
+rarity
+resale price
+category
+dark_armor2
+rarity
+resale price
+category
+beer
+rarity
+resale price
+category
+honey drop
+rarity
+resale price
+category
+cachaça_mineira
+rarity
+resale price
+category
+vodka
+rarity
+resale price
+category
+old_clay
+rarity
+resale price
+category
+bucket
+rarity
+resale price
+category
+obsidian
+rarity
+resale price
+category
+bucket of water
+rarity
+resale price
+category
+bucket of lava
+rarity
+resale price
+category
+obsidian pickaxe
+rarity
+resale price
+category
+copper pickaxe
+rarity
+resale price
+category
+raw copper
+rarity
+resale price
+category
+raw iron
+rarity
+resale price
+category
+raw gold
+rarity
+resale price
+category
+wooden axe
+rarity
+resale price
+category
+iron axe
+rarity
+resale price
+category
+stone axe
+rarity
+resale price
+category
+iron axe
+rarity
+resale price
+category
+copper axe
+rarity
+resale price
+category
+obsidian axe
+rarity
+resale price
+category
+diamond axe
+rarity
+resale price
+category
+stone
+rarity
+resale price
+category
+gallows scroll I
+rarity
+resale price
+category
+gallows scroll II
+rarity
+resale price
+category
+gallows parchment III
+rarity
+resale price
+category
+gallows scroll IV
+rarity
+resale price
+category
+parchment of defense I
+rarity
+resale price
+category
+parchment of defense II
+rarity
+resale price
+category
+parchment of defense III
+rarity
+resale price
+category
+parchment of defense IV
+rarity
+resale price
+category
+patching parchment
+rarity
+resale price
+category
+parchment of more coins
+rarity
+resale price
+category
+copper
+rarity
+resale price
+category
+iron
+rarity
+resale price
+category
+gold
+rarity
+resale price
+category
+diamond
+rarity
+resale price
+category
+ruby
+rarity
+resale price
+category
+emerald
+rarity
+resale price
+category
+amulet of souls
+rarity
+resale price
+category
+ruby sword
+rarity
+resale price
+category
+emerald sword
+rarity
+resale price
+category
+iron sword
+rarity
+resale price
+category
+copper sword
+rarity
+resale price
+category
+golden sword
+rarity
+resale price
+category
+diamond sword
+rarity
+resale price
+category
+obsidian sword
+rarity
+resale price
+category
+wooden helmet
+rarity
+resale price
+category
+stone helmet
+rarity
+resale price
+category
+copper helmet
+rarity
+resale price
+category
+iron helmet
+rarity
+resale price
+category
+golden helmet
+rarity
+resale price
+category
+ruby helmet
+rarity
+resale price
+category
+emerald helmet
+rarity
+resale price
+category
+obsidian helmet
+rarity
+resale price
+category
+wooden pickaxe
+rarity
+resale price
+category
+stone pickaxe
+rarity
+resale price
+category
+copper pickaxe
+rarity
+resale price
+category
+iron pickaxe
+rarity
+resale price
+category
+golden pickaxe
+rarity
+resale price
+category
+emerald pickaxe
+rarity
+resale price
+category
+ruby pickaxe
+rarity
+resale price
+category
+diamond pickaxe
+rarity
+resale price
+category
+obsidian pickaxe
+rarity
+resale price
+category
+wooden breastplate
+rarity
+resale price
+category
+stone breastplate
+rarity
+resale price
+category
+copper breastplate
+rarity
+resale price
+category
+Iron breastplate
+rarity
+resale price
+category
+golden breastplate
+rarity
+resale price
+category
+emerald breastplate
+rarity
+resale price
+category
+ruby breastplate
+rarity
+resale price
+category
+diamond breastplate
+rarity
+resale price
+category
+obsidian breastplate
+rarity
+resale price
+category
+wooden pants
+rarity
+resale price
+category
+stone pants
+rarity
+resale price
+category
+copper pants
+rarity
+resale price
+category
+iron pants
+rarity
+resale price
+category
+gold pants
+rarity
+resale price
+category
+ruby pants
+rarity
+resale price
+category
+emerald pants
+rarity
+resale price
+category
+diamond pants
+rarity
+resale price
+category
+obsidian pants
+rarity
+resale price
+category
+wooden boots
+rarity
+resale price
+category
+stone boots
+rarity
+resale price
+category
+copper boots
+rarity
+resale price
+category
+iron boots
+rarity
+resale price
+category
+golden boots
+rarity
+resale price
+category
+ruby boots
+rarity
+resale price
+category
+emerald boots
+rarity
+resale price
+category
+diamond boots
+rarity
+resale price
+category
+boots of obidian
+rarity
+resale price
+category
+wooden hoe
+rarity
+resale price
+category
+stone hoe
+rarity
+resale price
+category
+copper hoe
+rarity
+resale price
+category
+iron hoe
+rarity
+resale price
+category
+golden hoe
+rarity
+resale price
+category
+ruby hoe
+rarity
+resale price
+category
+emerald hoe
+rarity
+resale price
+category
+diamond hoe
+rarity
+resale price
+category
+obsidian hoe
+rarity
+resale price
+category
+You find a wooden chest during your journey; your curiosity gets the better of you and you decide to open it.
+You obtained a Level I Strength Scroll.....!
+gallows scroll I
+You obtained a Level I Defense Scroll...!
+parchment of defense I
+1
+You find a stone chest during your journey; your curiosity gets the better of you and you decide to open it.
+You obtained a Level II Strength Scroll...!
+gallows scroll II
+You obtained a level II defense scroll...!
+parchment of defense II
+You find a chest of gold during your journey; your curiosity gets the better of you and you decide to open it.
+You obtained a level III strength scroll.
+gallows scroll iii
+You obtained a level IV strength scroll.
+gallows scroll iv
+You obtained a Defense Scroll III.
+parchment of defense iii
+You obtained a level IV defense scroll.
+parchment of defense iv
+You got a patching parchment.
+patching parchment
+You earned a scroll that grants you more coins.
+parchment of more coins
+wooden_sword
+wood_shield
+helmet_wood
+wooden_plate
+iron_plate
+iron_sword
+iron_shield
+iron_helmet
+gold_bar
+iron_bar
+silver_bar
+gold_pipette
+silver pipette
+beer
+honey drop
+cachaça from Minas Gerais
+vodka
+old clay pit
+bartender_money
+beer stock
+honey_pinga_stock
+stock_cachaça_mineira
+vodka_stock
+old_barrel_stock
+wine stock
+whiskey_stock
+tequila stock
+mead_stock
+rum_stock
+tavern reputation
+regulars
+drunk
+tavern improvements
+banks
+tables
+appearance
+drinks
+lighting
+kitchen
+beer
+cachaça from Minas Gerais
+honey drop
+vodka
+old clay pit
+stock_
+ 
+_
+helmet
+ancient_warrior
+drunk
+ancient_warrior_hp
+drunk_hp
+warrior_attack
+drunk_attack
+warrior_defense
+drunk_defense
+tables
+level 1
+level 2
+level 3
+level 4
+level 5
+banks
+level 1
+level 2
+level 3
+level 4
+level 5
+appearance
+level 1
+level 2
+level 3
+level 4
+level 5
+kitchen
+level 1
+level 2
+level 3
+level 4
+level 5
+dark shop
+level 1
+level 2
+level 3
+level 4
+level 5
+drinks
+level 1
+level 2
+level 3
+level 4
+level 5
+lighting
+level 1
+level 2
+level 3
+level 4
+level 5
+tables
+banks
+appearance
+kitchen
+dark shop
+drinks
+lighting
+name
+=== List of friends available for PvP ===
+Choose your friend's number to start PvP:
+Invalid choice.
+We were unable to connect to our friend.
+ATTACK
+ESCAPE
+The enemy has fled!
+Your turn ===
+1 - Attack
+2 - Defender
+3 - Inventory
+4 - Escape
+Choose your action:
+1
+ATTACK
+You attacked!
+2
+You're defending yourself in the next round.
+3
+Inventory:
+4
+ESCAPE
+You ran away from the battle.
+Invalid action.
+You won the battle!
+You have been defeated.
+potion
+Heals 20 HP
+sword
+Damage +10
+shield
+Defense +5
+Friend Notification
+MSG:
+TRADE:
+MSG:
+TRADE:
+My friend disconnected.
+/senditem
+You don't have that item.
+Usage: /senditem item_name
+/items
+Your items:
+,
+=== Online Trading System ===
+Enter your name:
+1 - Create host
+2 - Connect as a customer
+Choice:
+potion
+sword
+1
+
+Waiting for friend to connect...
+2
+Enter the host's IP address:
+Connected to the host!
+Invalid option.
+name
+password
+owner
+members
+connections
+messages
+guests
+active_guild
+activities
+members_detected
+patents
+guild_history.txt
+the
+guild.json
+w
+guild.json
+guild.json
+r
+Online Guild Menu:
+1. Create a guild
+2. Join the existing guild
+Choice:
+name
+1. View member activity
+2. Add member (by IP)
+3. Expel member
+4. Send broadcast
+5. PvP
+6. Trade
+7. Chat
+8. Send script to members
+9. Define patent
+10. Exit
+[Guild Chat]
+messages
+Enter your message (or 'exit()' to exit):
+exit()
+connections
+messages
+Host
+Name of the .py file to send:
+File not found.
+r
+connections
+Script sent to all members.
+b"1. Attack 2. Defend 3. Flee: "
+1
+2
+1
+2
+3
+3
+One of the players escaped!
+One of the players escaped!
+A player fled from PvP.
+PvP finished.
+b"Enter item to send: "
+b"Enter item to send: "
+b"Received: "
+b"Received: "
+Member's IP address:
+Patent to be assigned:
+patents
+Server started.
+active_guild
+Enter the guild password:
+password
+Incorrect password. Connection terminated.
+connections
+members
+activities
+messages
+activities
+connections
+members
+members
+1
+Your IP address (or 127.0.0.1 for local):
+Guild name:
+Set the guild password:
+owner
+name
+password
+Existing guild loaded.
+Choice:
+1
+activities
+patents
+No patent
+2
+New member's IP address:
+guests
+3
+IP address to remove:
+members
+members
+4
+Broadcast message:
+connections
+5
+IP player 1:
+IP player 2:
+members
+members
+6
+IP player 1:
+IP player 2:
+members
+members
+7
+8
+9
+10
+Closing guild.
+active_guild
+Guild shut down by the owner.
+2
+Enter the host's IP address to log in:
+[*] Connected to the guild.
+Enter the guild password:
+[Member Menu]
+1 - Chat
+2 - PvP
+3 - Trade
+4 - Exit
+Choice:
+1
+Message (or 'exit()'):
+exit()
+2
+I request PvP with the host.
+3
+I request a trade with the host.
+4
+hp_max
+mana_max
+maximum_damage
+iron golem
+copper golem
+golden golem
+stone golem
+obsidian golem
+ruby golem
+emerald golem
+diamond golem
+slot1_full
+slot2_full
+slot3_full
+slot4_full
+slot1_golem
+slot2_golem
+slot3_golem
+slot4_golem
+stone golem
+wooden golem
+ruby golem
+emerald golem
+obsidian golem
+diamond golem
+golden golem
+iron golem
+■\n■■■\n ■
+[1]equip items
+[2]see golem status
+[0]exit
+Which option do you choose?
+0
+Golem Slots
+slot1_golem
+slot2_golem
+slot3_golem
+slot4_golem
+[1] Enable/Disable Golem
+[2] Manage Golems
+[0] Exit
+Choose an option:
+1
+Which golem do you want to enable/disable?
+
+slot1_golem
+slot2_golem
+slot3_golem
+slot4_golem
+In which slot do you want to add/remove a golem?
+
+1
+slot1_golem
+Which golem do you want to add?
+slot1_golem
+slot1
+[Y] OR [N]
+s
+slot1
+2
+slot2_golem
+Which golem do you want to add?
+slot2_golem
+slot1
+[Y] OR [N]
+s
+slot2
+3
+slot3_golem
+Which golem do you want to add?
+slot3_golem
+slot3
+[Y] OR [N]
+s
+slot3
+4
+slot4_golem
+Which golem do you want to add?
+slot4_golem
+slot4
+[Y] OR [N]
+s
+slot4
+2
+--- Your Golems ---
+slot1_golem
+slot2_golem
+slot3_golem
+slot4_golem
+Enter the name of the golem you wish to manage (or 'go back'):
+to go back
+This Golem was not found.
+0
+stone pickaxe
+iron pickaxe
+wooden pickaxe
+stone
+coal
+raw copper
+get charcoal
+Grab your first piece of coal!
+get stone
+mine your first stone
+get iron
+Mine your first iron.
+sell your ore
+sell an ore to the miner
+get gold
+Mine your first gold.
+get clean
+grab a bucket of lava
+get diamond
+mine a diamond
+obtain obsidian
+Go to the blacksmith and mix a bucket of water with a bucket of lava to make an obsidian bar.
+money
+missions completed
+difficulty of the missions
+easy
+recruited guild
+items sold
+affinity
+
+
+difficulty of the missions
+easy
+===missions===
+difficulty of the missions
+Press 0 to exit.
+0
+[1]mine
+[2]open inventory
+[3]use equipment
+[0]exit
+What are you going to do?
+procedural test
+1
+[1]mine forward
+[2]mine downwards
+[0]get out of the mine
+What do you want to do?
+1
+...a diamond
+diamond
+Oh my god...an emerald!
+emerald
+Wow...that stone is so shiny and red...wait a minute...it's a ruby!
+ruby
+You mined a rock...!
+stone
+You mined some raw copper...!
+raw copper
+You mined some raw gold...!
+raw gold
+You mined some coal...!
+coal
+name
+Do you think I can catch some?
+[y]yes\n[n]no
+What do you want to do?
+s
+left hand
+bucket
+You collected a bucket of lava...!
+bucket of lava
+left hand
+
+n
+0
+Leaving the mine...
+0
+2
+choose an item to use
+Eldora mine
+[1]enter the mine (pickaxe required)
+[2] talk to the miner
+[0]get out of the mine
+Which option will you choose?
+1
+right hand
+pick
+0
+You leave the mine...
+2
+What do you want, my young friend?
+[1]do missions
+[2]buy items
+[3] sell items and ores
+[0]exit
+Which option did you select?
+0
+Goodbye...good luck with your mining!
+1
+2
+Which item do you want to buy? Type [0] to exit.
+0
+name
+stone pickaxe
+How many items?
+stone pickaxe
+Here, take your pickaxe!
+coins
+stone pickaxe
+0
+Come back anytime...
+iron pickaxe
+How many items?
+iron pickaxe
+Here, take your pickaxe!
+coins
+iron pickaxe
+wooden pickaxe
+How many items?
+wooden pickaxe
+Here, take your pickaxe!
+coins
+wooden pickaxe
+copper
+how many items
+copper
+Here's your copper.
+coins
+copper
+coal
+How many items?
+coal
+Here's your charcoal!
+coins
+coal
+guild
+artifact of light
+fire artifact
+water artifact
+lava artifact
+diamond artifact
+artifact of force
+defense artifact
+gold artifact
+lucky artifact
+artifact of magic
+beer
+pinga
+dragon cry
+skull soul
+dead soul
+black soul
+helmet
+chest
+pants
+boots
+shield
+swords
+dagger
+poisoned dagger
+copper sword
+obsidian sword
+wooden sword
+stone sword
+obsidian sword
+iron pickaxe
+wooden pickaxe
+stone pickaxe
+copper pickaxe
+obsidian pickaxe
+bucket
+bucket of water
+bucket of lava
+helmet
+chest
+pants
+boots
+dagger
+sword
+poisoned_dagger
+copper sword
+obsidian sword
+wooden sword
+stone sword
+obsidian sword
+iron pickaxe
+wooden pickaxe
+stone pickaxe
+copper pickaxe
+obsidian pickaxe
+bucket
+bucket of water
+bucket of lava
+common_durability_rate
+unusual_durability_rate
+rare_durability_rate
+legendary_durability_rate
+helmet
+chest
+pants
+boots
+sword
+dagger
+poisoned_dagger
+helmet
+chest
+pants
+boots
+iron sword
+dagger
+poisoned_dagger
+copper sword
+obsidian sword
+wooden sword
+stone sword
+obsidian sword
+iron pickaxe
+wooden pickaxe
+stone pickaxe
+copper pickaxe
+obsidian pickaxe
+bucket
+bucket of water
+bucket of lava
+life
+life
+life
+YOU DIED
+exp
+name
+Don't give up, you still have a way to go.
+exp
+life
+Do you wish to continue? [Y] or [N]:
+n
+saving progress...
+life
+stone pickaxe
+stone pickaxe
+wooden pickaxe
+wooden pickaxe
+iron pickaxe
+iron pickaxe
+copper pickaxe
+copper pickaxe
+obsidian pickaxe
+obsidian pickaxe
+wooden sword
+wooden sword
+stone sword
+stone sword
+iron sword
+iron sword
+copper sword
+copper sword
+obsidian sword
+obsidian sword
+bucket
+bucket
+bucket of lava
+bucket of lava
+bucket of water
+bucket of water
+helmet
+helmet
+helmet
+helmet
+chest
+chest
+chest
+chest
+pants
+pants
+pants
+pants
+boots
+boots
+boots
+boots
+dagger
+dagger
+dagger
+dagger
+poisoned_dagger
+poisoned_dagger
+poisoned dagger
+poisoned_dagger
+goblin
+spider
+slime
+evil snail
+Gorthak the Tyrant of Stone
+coins
+stone sword
+dagger
+wooden pickaxe
+wooden axe
+helmet
+chest
+pants
+boots
+potion exp
+bread
+meat
+potato
+stamina potion
+diamonds
+wizard
+knight
+goblin
+monster
+merchant
+======Equipped items======
+head
+
+head
+None
+stem
+
+stem
+None
+legs
+
+legs
+None
+feet
+
+feet
+None
+right hand
+
+right hand
+None
+left hand
+
+left hand
+None
+	head ------
+head
+	stem ------
+stem
+	legs ------
+legs
+	feet ------
+feet
+
+Mission accepted.
+Dorian Missions
+blacksmith missions
+mining missions
+
+Dorian
+Dorian Missions
+Buy a stone sword for Dorian. REWARDS: 515 coins, 100 EXP
+[Y]yes\n[N]no
+s
+name
+Mission accepted.
+Go to the shop and buy a stone sword.
+Okay...no problem, please try to come back here later!
+name
+[1]talk
+[2]exchange items
+[3]do missions
+ruins of Eldora
+[4] ask to accompany him to the ruins
+[0]exit
+What do you want to do?
+4
+ruins of Eldora
+Okay, I'll walk you there.
+Dorian
+0
+goodbye....
+1
+Dorian
+3
+name
+Dorian Missions
+Since I'm still very tired, I wanted to ask you a favor, actually it would be a mission, what do you say?
+Dorian
+life
+life
+[1]Attack
+[2]Defender
+[3]Use skill
+[4]Trade with allies
+[5]Use the inventory
+[6]Manage golems
+[7]View status
+[0]Leave the battle
+Which option would you like to use?
+0
+You leave the battle silently.
+1
+life
+damage
+damage
+life
+damage
+damage
+bartender_money
+bartender_money
+This secret hurts to the bone...
+neverland studio
+small
+
+_
+The Legends of Eldora
+small
+Press enter to continue.
+
+areas
+npcs
+enemies
+items
+
+		Load a mod from any path (.py) and integrate it into the game.
+		game: dictionary that represents the state of the game
+		
+mod_module
+get_mod_info
+name
+No name
+author
+Unknown
+add_content
+name
+No name
+Write the mod name with the .py extension in the name.
+
+Some error has occurred...
+player_data
+data_saving
+upgrades
+allies
+value_skill
+data_evolution_level
+connected_friends
+data_saving2
+data_equipped_items
+tavern data
+blacksmith_memory
+miner_data
+time
+village_data
+player_server_data
+first_time_ruin
+player_data_golem
+slots
+tloe_save.json
+w
+Game saved successfully!
+NorthHills Frozen Peaks
+on a long climb to reach the top of the frozen peaks.....
+You...you finally reached the top, it was gratifying to have achieved this great milestone...but I look at the other side of the peak....
+ELDORA???????
+It was all true then....
+You have found the kingdom of a story that so marked your childhood.
+After this long expedition, you decide to stay there.
+[Dorian] I'm very exhausted....I'm going to spend the night in a cabin.
+Do you wish to manage the Guild? [Y]Yes or [N]No
+n
+s
+What do you want to do?
+[1]Remove allies
+[2]View allies' status
+[3] equip items on allies
+[0]Exit menu
+
+0
+1
+Which ally do you want to remove?
+This ally does not exist in your guild.
+tloe_save.json
+tloe_save.json
+r
+player_data
+data_saving
+upgrades
+allies
+value_skill
+data_saving2
+player_data2
+player_data3
+player_data4
+connected_friends
+data_equipped_items
+tavern data
+blacksmith_memory
+miner_data
+village_data
+time
+player_server_data
+slots
+player_data_golem
+Progress uploaded successfully!
+Sorry... but you don't have any save files available, which will result in the game closing.
+The Legends of Eldora, all rights reserved to Luiz Gustavo luizsgustavo76@gmail.com
+Welcome to the kingdom of Eldora.
+His goal in Eldora is to retrieve the 10 artifacts to restore peace to the kingdom.
+What do you want to do?\n[1]new game\n[2]load a saved game\n[3]load a mod\n[4]credits\n[5]exit:
+2
+name
+4
+game only made by Luiz Gustavo
+Project development begins in February 2025.
+Instagram: luizsgustavo75
+Email: luizsgustavo76@gmail.com
+Official website: thelegendsofeldora.wordpress.com
+Press enter or 0 to exit.
+0
+
+3
+5
+until later...
+1
+name
+Please choose your name:
+name
+motherfucker
+Cheat activated, cheat menu
+How many coins?
+What level?
+How many diamonds?
+coins
+level
+diamonds
+Welcome to the kingdom of Eldora, please choose your class:
+(1) Wizard,\n(2) Knight,\n(3) Goblin,\n(4) Monster,\n(5) Merchant:
+1
+2
+3
+4
+5
+class
+Invalid option
+name
+class
+exp
+exp to evolve
+level
+level
+exp to evolve
+exp
+exp to evolve
+exp
+exp
+hours
+minutes
+You've arrived at the center of Eldora. What do you want to do?
+center
+
+tavern data
+reputation_for_tavern_upgrades
+actions_record
+upgrades_tavern
+[1] Go to the tavern
+[2] View your status
+[3] Go to your house
+[4] Quit the game
+[5] Go to the store
+[6] Go to inventory
+[7] Encyclopedia
+[8] View achievements
+[9] Save game
+[10] Load game
+[11] upgrades
+[12] guild
+[13] infinite arena
+[14] eldora mercantile center
+[15] open map
+[16] blacksmith
+What are you going to do?
+test_new_actionsmoves_ia_motor 1.0
+19
+17
+test_server
+test_chat_multiplayer
+test chest
+16
+blacksmith
+=====blacksmith=====
+Hello, welcome to the blacksmith, here you can forge your equipment and golems.
+copper
+coal
+iron
+gold
+diamond
+obsidian
+lava
+sword
+pick
+hoe
+shovel
+ruby
+emerald
+The Legends of Eldora
+name
+=====blacksmith=====
+[1]forging equipment
+[2]enchant items
+[3]fix items
+[4]forge golem
+[5]talk
+[6] sell items
+[7]do missions
+[0]exit
+Which option do you want?
+4
+A golem to give you strength... excellent choice, my young friend.
+hours
+copper
+amulet of souls
+copper golem
+iron
+amulet of souls
+copper golem
+stone
+amulet of souls
+stone golem
+obsidian
+amulet of souls
+obsidian golem
+wood
+amulet of souls
+wooden golem
+ruby
+amulet of souls
+ruby golem
+emerald
+amulet of souls
+emerald golem
+diamond
+amulet of souls
+diamond golem
+gold
+amulet of souls
+golden golem
+With your items you can create the following golems.
+Which golem do you want to create? Type [0] to exit.
+0
+coins
+coins
+amulet of souls
+items
+items
+6
+[Blacksmith] Let's see, you want to sell your items, this is a good choice!
+supported items
+====minerals====
+Coal
+Copper
+Iron
+stone
+Gold
+Diamond
+Obsidian
+Ruby
+Emerald
+equipment and tools
+Armor made of wood, copper, diamond, iron, gold, and obsidian; sword made of diamond, stone, wood, gold, obsidian, copper, and iron; axe made of diamond, stone, wood, gold, obsidian, copper, and iron; hoe made of diamond, stone, wood, gold, obsidian, copper, and iron; shovel made of diamond, stone, wood, gold, obsidian, copper, and iron; pick made of diamond, stone, wood, gold, obsidian, copper, and iron.
+Which item do you want to sell?
+[Y] OR [N]
+s
+money
+coins
+[Blacksmith] Sorry, but I don't buy that kind of item.
+0
+class
+5
+Conversation with the blacksmith:
+types of conversation
+[1]free mode
+[2]predefined questions
+*Free mode - write anything
+Which mode of conversation would you like?
+2
+=====BLACKSMITH=====
+What topic would you like to discuss?
+[1]economy
+[2]help
+[3]battle
+[4] praise
+[5]locations
+[6]climates
+[0]exit
+
+0
+class
+1
+[1]their prices are very high
+[2] their prices are very low
+[3] Eldora's economy is very bad
+[4] Eldora's economy is very good
+
+1
+Look... I'm sorry, Eldora's economy isn't doing very well these days.
+2
+That's good to know, because nowadays everything is much harder to buy in Eldora.
+3
+That's true, because 5 years ago that king promised to return Eldora to its golden age, but the opposite happened; now we are going through this dark age.
+4
+.....\nYou don't know what I and other people have been through, you just arrived in this kingdom...
+2
+How can I help you?
+1
+DIALOGUE>>>
+times_questions
+12
+guild
+====guild====
+
+YOU HAVE NO ALLIES
+15
+map
+=====MAP=====
+====ELDORA====
+
+
+######VILLAGES#####
+[1]Rimvark
+[2]Ebrenthal
+[3]Avant-garde
+[4]Nocten
+######OPEN AREAS#####
+[5]Forest of souls
+[6]Desert of death
+[7]Eldora Mine
+[8]Ruins of Eldora
+areas
+Areas added by mods.
+[0]exit
+Which area do you want to go to?
+8
+ruins of Eldora
+Dorian
+This place... is completely unknown and hostile. I'd better call my companion Dorian to try and help me...
+1
+rimvark
+0
+2
+ebranthal
+3
+vanguard
+4
+nocten
+7
+mine
+6
+inventory
+[1]open inventory
+[2]use equipment
+[3]manage golems
+[0]exit
+Which function do you want to use?
+3
+0
+1
+Choose an item to use\no press [0] to exit
+2
+sword
+helmet
+chest
+pants
+boots
+dagger
+poisoned_dagger
+dark_armor
+_
+ 
+
+ 
+helmet
+chest
+pants
+sword
+dagger
+poisoned_dagger
+poisoned_dagger
+boots
+head
+helmet
+defense
+helmet
+stem
+chest
+defense
+chest
+legs
+pants
+defense
+pants
+feet
+boots
+dodge
+boots
+right hand
+sword
+damage
+sword
+Which item do you want to equip?
+stone pickaxe
+stone pickaxe
+stone pickaxe
+The 'stone pickaxe' item was equipped.
+right hand
+boots
+You don't have that item in your inventory.
+wooden pickaxe
+wooden pickaxe
+wooden pickaxe
+the 'wooden pickaxe' item was equipped
+right hand
+boots
+You don't have that item in your inventory.
+iron pickaxe
+boots
+iron pickaxe
+The 'iron pickaxe' item was equipped.
+right hand
+iron pickaxe
+You don't have that item in your inventory.
+copper pickaxe
+copper pickaxe
+copper pickaxe
+the item 'copper pickaxe' was equipped
+right hand
+boots
+You don't have that item in your inventory.
+obsidian pickaxe
+obsidian pickaxe
+obsidian pickaxe
+The 'obsidian pickaxe' item was equipped.
+right hand
+obsidian pickaxe
+You don't have that item in your inventory.
+stone sword
+Peter's sword
+obsidian pickaxe
+the 'stone sword' item was equipped
+right hand
+stone sword
+You don't have that item in your inventory.
+wooden sword
+wooden sword
+wooden sword
+the 'wooden sword' item was equipped
+right hand
+wooden sword
+You don't have that item in your inventory.
+iron sword
+iron sword
+iron sword
+the 'iron sword' item was equipped
+right hand
+iron sword
+You don't have that item in your inventory.
+copper sword
+copper sword
+copper sword
+the 'copper sword' item was equipped
+right hand
+copper sword
+You don't have that item in your inventory.
+obsidian sword
+obsidian sword
+obsidian sword
+The item 'obsidian sword' was equipped.
+right hand
+obsidian sword
+You don't have that item in your inventory.
+bucket
+bucket
+bucket
+the 'bucket' item was equipped
+left hand
+bucket
+You don't have that item in your inventory.
+helmet
+helmet
+helmet
+the 'helmet' item was fitted
+head
+helmet
+You don't have that item in your inventory.
+chest
+chest
+chest
+the 'chestplate' item was equipped
+stem
+chest
+You don't have that item in your inventory.
+pants
+pants
+pants
+pants
+the item 'pants' was equipped
+legs
+pants
+You don't have that item in your inventory.
+boots
+boots
+boots
+the 'boots' item was equipped
+feet
+boots
+You don't have that item in your inventory.
+test_barra_vida
+test_battle
+14
+test_golem
+Warning: This is an internal test command!
+13
+Infinite Arena
+WELCOME TO THE INFINITE ARENA
+Which mode do you want to play?
+[1]easy
+[2]medium
+[3]difficult
+[4]HELL
+
+1
+2
+3
+4
+life
+A monster appeared.
+LIFE:
+life
+MONSTER LIFE:
+wave:
+
+[1]attack
+[2]defender
+[3]ability
+[4]switch ally
+[5]inventory
+[6]run away
+Choose an option.
+3
+5
+You open your inventory.
+=======INVENTORY=======
+Choose an item to use:
+1
+damage
+left hand
+right hand
+dagger
+YOU LANDED A CRITICAL HIT!!!!!
+damage
+You are under the effect of the wild attack.
+hp:
+life
+[1]attack
+1
+damage
+hp:
+life
+[1]attack
+You attacked the monster.
+damage
+life
+4
+allies of
+name
+[0]exit
+ancient_warrior
+[1]ancient warrior
+drunk
+[2]drunk
+Which ally do you want to switch?
+2
+drunk
+[1]exchange
+[2]view status
+choose an option
+1
+life
+life
+level
+level
+damage
+damage
+defense
+defense
+life
+life
+level
+level
+damage
+damage
+defense
+defense
+You switched with the drunk.
+2
+========STATUS=======
+life
+life
+damage
+damage
+defense
+defense
+level
+level
+To exit, press [0]
+0
+Try again.
+1
+ancient_warrior
+[1]exchange
+[2]view status
+choose an option
+2
+=========STATUS==========
+life
+life
+damage
+damage
+defense
+defense
+level
+level
+to exit, dial [0]
+0
+invalid answer
+1
+You traded with the ancient warrior.
+life
+life
+defense
+defense
+damage
+damage
+life
+life
+damage
+damage
+defense
+defense
+2
+manna
+Can you defend yourself?
+The attack is rebounded towards the enemy.
+defense
+manna
+You don't have enough mana!
+6
+You managed to escape the battle.
+You couldn't escape the battle.
+life
+Maximum profit is enabled.
+coins
+coins
+coins
+coins
+coins
+you won a wooden plaque
+wooden_plate
+you won an iron plate
+iron_plate
+You won a wooden sword.
+wooden_sword
+You won a wooden shield.
+wood_shield
+You won a wooden helmet.
+helmet_wood
+You won a copper bar.
+copper_bar
+You won the iron sword.
+iron_sword
+You won an iron shield.
+iron_shield
+You won the iron helmet.
+iron_helmet
+copper pipette
+You won.
+
+You won a gold nugget.
+gold_pipette
+You won an iron bar.
+iron_bar
+You won a silver bar.
+silver_bar
+You won a gold bar.
+gold_bar
+exp
+11
+upgrades
+======upgrades======
+upgrade_points
+hp_max
+mana_max
+maximum_damage
+Choose the upgrade or to exit.
+0
+2
+status
+\n==== YOUR STATUS ====
+\nType (0) to return to the main menu:
+0
+7
+You opened your encyclopedia.
+Press 0 to exit.
+0
+You left the encyclopedia.
+8
+Your achievements
+Sword Conquest: Obtain the sword
+Conquest of bread: You bought a loaf of bread.
+Winning over the drunkard: Talk to the drunkard
+Press 0 to exit.
+1
+tavern
+Bartender: Welcome to the tavern! Here you can chat, drink, and fight for money.
+[1] Talking to a drunk
+[2] Talk to the bartender
+[3] go to the corner of the tavern
+What do you want to do?
+1
+You're going to talk to the drunk.
+Drunkard: What do you want?
+[1]talk
+[2]exit
+Choose one of the options.
+1
+You chose to talk to the drunk, what do you want to talk about?
+[1] Why are you always here?
+[2].You don't get tired of always being here.Why not visit your family?
+[3]Why do you always have a depressed look on your face?
+
+1
+Drunk: Because I have nowhere left to hide my depression.
+After hearing this, you'll be moved and leave.
+2
+After the events that destroyed the kingdom, I lost my reason for living and now I'm here drinking to forget my past.
+You reflect on what he says and leave questioning your own life.
+3
+Because in this world, no matter what you do, they will always try to discourage you and make you give up on your dreams. That's what envy does to people; if they see that you have a prosperous life, they will try to take it from you instead of striving for it themselves.
+You reflect on what he says and leave questioning your own life.
+3
+You went to the corner of the tavern and saw a chest, a table, and an old knight.
+What to do?
+[1]talking to an old hero
+[2] talk to a shady merchant
+[3]check the chest
+[4]sit at a table
+
+4
+regulars
+You slowly approach a table... there are many people there, I'll get closer.
+You arrive at that table... but you realize that nobody is sitting there.
+[1] order a drink
+[2] order some food
+[3] open your inventory
+regulars
+[4] start a conversation with someone next to you
+[0] to get up from the table
+What do you want to do?
+0
+you slowly get up from the table
+3
+2
+Hello my dear apprentice...I have things that others don't sell...come here and make yourself comfortable.
+Just a reminder that my items are sold for diamonds...
+[1]see stock
+[2] sell items
+[3]liquidate items
+[4] negotiate and exchange
+[5]talk
+[0]exit
+What do you want to do?
+0
+Farewell... walk in the shadows, for those who shine too brightly attract darkness...
+1
+You approach the hero and greet him.
+He greets you back and asks how he can help.
+[1] What happened to this kingdom?
+[2]who ruled Eldora before?
+[3]what is in that dungeon
+[4]Want to join my gang?
+What do you want to ask?
+1
+Five years ago, monsters, beasts, and curses began attacking the kingdom, and only the knights, heroes, and fearless survived.
+(1) Why did the drunkard survive?
+(2) Do you know why everyone died?
+(3) exit
+
+1
+Well, I don't even know how that drunkard ended up here.
+2
+Yes, I know. After everything that happened, the monsters took the 10 artifacts; they sustained everything that existed in Eldora.
+3
+Thank you very much for informing me, my dear hero.
+2
+It was King Dargan; he caused the downfall of the kingdom because he didn't care about the safety of the people and made a pact with the devil.
+3
+No one knows, because those who entered never returned.
+4
+I would accept that proposal, but with one condition: of all the winnings from the battle, 20% will be mine.
+Do you accept this proposal? (yes) or (no)
+s
+ancient_warrior
+Okay then.
+In the menu you will find the guild option, where you can manage your allies.
+2
+Bartender: What would you like to order?
+[1] Talk
+[2] Ask to join the fight
+[3] tavern upgrades
+[4] buy drinks
+What do you want to do?
+4
+So I see you're interested in my merchandise, but let's just say I only have a small, humble inventory.
+BARTENDER:
+bartender_money
+======DRINKS=======
+[0]exit
+class
+0
+As you leave, the bartender is pleased that you bought something.
+-Bartender: I understand, I know my stock isn't very appealing yet.
+-Bartender: Come back soon!
+old clay pit
+old clay pit
+old clay pits
+
+How many old clay pits would you like to buy?
+old clay pit
+old clay pit
+old clay pit
+coins
+coins
+old_barrel_stock
+coins
+[Y/N]
+s
+Yes
+old_clay
+coins
+bartender_money
+old_barrel_stock
+
+old_barrel_stock
+vodka
+vodka
+vodkas
+
+How many vodkas would you like to buy, sir?
+vodka
+vodka
+vodka
+coins
+coins
+vodka_stock
+coins
+[Y/N]
+s
+Yes
+vodka
+coins
+bartender_money
+vodka_stock
+
+vodka_stock
+beer
+beer
+beers
+
+How many beers would you like to buy?
+beer
+beer
+beer
+coins
+coins
+beer stock
+coins
+[Y/N]
+s
+Yes
+beer
+coins
+bartender_money
+beer stock
+
+beer stock
+cachaça from Minas Gerais
+cachaça from Minas Gerais
+cachaças from Minas Gerais
+
+How many bottles of cachaça from Minas Gerais would you like to buy?
+cachaça from Minas Gerais
+cachaça from Minas Gerais
+cachaça from Minas Gerais
+coins
+coins
+stock_cachaça_mineira
+coins
+[Y/N]
+s
+Yes
+cachaça_mineira
+coins
+bartender_money
+stock_cachaça_mineira
+
+stock_cachaça_mineira
+honey drop
+honey drop
+drops of honey
+
+How many drops of honey would you like to buy?
+honey drop
+honey drop
+honey drop
+coins
+coins
+honey_pinga_stock
+coins
+[Y/N]
+s
+Yes
+honey drop
+coins
+bartender_money
+honey_pinga_stock
+
+stock_cachaça_mineira
+3
+I see you're looking to make some improvements around here....
+Which upgrade do you want to make?[0] To exit:
+0
+[Bartender] Thank you very much, young man...
+tavern improvements
+coins
+coins
+The tavern became more beautiful... and more expensive.
+Not enough coins, my young friend...
+This upgrade doesn't exist in the scrolls yet...
+I'm not familiar with that type of improvement...
+1
+bartender
+2
+Bartender: It's great that you want to join the fight!
+Drunkard: How much do you want to bet?
+coins
+Enter the amount:
+coins
+You don't have enough coins for that bet!
+Bet accepted! Let's fight!
+life
+life
+(1) Attack
+(2) To flee
+What are you going to do?
+1
+You attacked! The drunkard lost 5 HP.
+coins
+life
+The drunkard counterattacked! You lost 2 HP.
+life
+You lost the fight!
+coins
+2
+You ran away from the fight!
+3
+home
+you entered your house
+[1]rest(recover hp)
+[2]talk to Dorian
+[3]leave home
+what do you want to do
+2
+1
+life
+2
+you left home
+invalid choice
+4
+Thanks for playing! See you next time.
+5
+store
+Merchant: You enter the store and the salesperson shows you the merchandise.
+coins
+Select the item category.
+[1]attack items
+[2]defense items
+[3]consumable items
+[4]other items...
+[5] sell items
+[6]liquidate items
+[7]talk
+[0]leave the store
+
+4
+[0] Return
+Which item would you like to buy?
+0
+diamonds
+The diamond item was added.
+diamonds
+7
+merchant of Eldora
+0
+[Merchant from Eldora] Goodbye, my traveler!
+2
+[0] Return
+Which item would you like to buy?
+0
+helmet
+The iron helmet item has been added to the inventory.
+helmet
+chest
+The iron breastplate item has been added to the inventory.
+chest
+pants
+The item "iron pants" has been added to the inventory.
+pants
+boots
+The item "iron boots" has been added to the inventory.
+boots
+5
+1
+[0]return
+Choose an item to buy.
+0
+stone sword
+sword
+dagger
+dagger
+coins
+coins
+3
+[0]return
+Choose an item to buy.
+0
+meat
+The item "meat" has been added to the inventory.
+meat2
+bread
+The item "bread" was added to the inventory.
+pao2
+potato
+The item "meat" has been added to the inventory.
+meat2
+potion exp
+The EXP potion item has been added to the inventory.
+pocao_exp2
+coins
+coins
+coins
+coins
+9
+10
+__main__

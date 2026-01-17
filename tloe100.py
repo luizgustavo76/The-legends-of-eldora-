@@ -892,7 +892,7 @@ def main():
 						if escolha_deposistar_item_bau_cabana in chave:
 							if salvamento_dados[escolha_deposistar_item_bau_cabana] >=1:
 								if salvamento_dados[escolha_deposistar_item_bau_cabana] == 1:
-									dados_resistencia{"bau_cabana"].append(escolha_deposistar_item_bau_cabana)
+									dados_resistencia["bau_cabana"].append(escolha_deposistar_item_bau_cabana)
 								else:
 									escolha_qtd_item = input(f"quantas unidades do item {escolha_deposistar_item_bau_cabana} deseja adicionar?")
 									if escolha_qtd_item <=0:

@@ -35,7 +35,11 @@ if __name__ == "__main__":
         if resultado:
             for s in resultado:
                 print(f"- {s}")
+                with open("strings_tloe.txt", "w", encoding="utf8") as f:
+                    for strings in resultado:
+                        f.write(strings + "\n")
         else:
             print("Nenhuma string encontrada.")
     except (FileNotFoundError, ValueError) as e:
         print(f"Erro: {e}")
+    

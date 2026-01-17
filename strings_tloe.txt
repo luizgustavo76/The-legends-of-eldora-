@@ -1,0 +1,4910 @@
+
+
+hp
+resistencia
+dano
+ano
+dia
+mes
+horas
+0
+minutos
+00
+dia
+mes
+horas
+minutos
+facil
+medio
+dificil
+inferno
+
+nome
+
+classe
+
+nivel
+vida
+habilidade espadas
+habilidade magia
+patente nivel
+exp
+moedas
+diamantes
+defesa
+dano
+exp para evoluir
+esquivar
+chat
+
+area
+
+nome
+
+classe
+
+nivel
+xp
+local
+
+amigos
+
+id online
+000000000
+...poderei me juntar a sua guilda?
+1
+muito obrigado...juro que não irei te decepcionar companheiro!
+ferreiro
+então isso é um não,eu te entendo
+saudacao
+oi
+ola
+eai
+eae
+como vai
+você
+vosmecê
+vossa mecê
+batalha
+batalhar
+confronto
+arena infinita
+masmorra
+monstro
+guilda
+guilda
+grupo
+bando
+juntar
+xingamento
+filho da puta
+filho da mãe
+porra
+caralho
+vai se fuder
+corno
+viado
+puta que pariu
+ferreiro
+espada
+capacete
+peitoral
+calça
+bota
+adaga
+golem
+reparar
+concertar
+equipamento
+preço alto
+preço baixo
+loja
+vendendor
+concorrencia
+amigos
+loja
+taverna
+barman
+bêbado
+taverna
+alcool
+cerveja
+pinga de mel
+cachaça mineira
+vodka
+velho barreiro
+vilas
+rimvark
+ebrenthal
+vangurd
+nocten
+vila
+clima
+chuva
+frio
+calor
+ensolarado
+nublado
+tempestade
+ajuda
+ajuda, duvida
+classes
+classe
+bruxo
+goblin
+cavaleiro
+monstro
+mercador
+economia
+dinheiro
+economia
+npcs
+ferreiro
+vendendor
+barman
+bebado
+antigo guerreiro
+golem
+elogios
+bom
+execelente
+otimo
+muito bom
+perfeito
+pergunta estado
+chato
+ triste
+raiva
+feliz
+medo
+ansioso
+despedida
+adeus
+tchau
+ até mais
+até a proxima
+nome_player
+
+classe
+nome
+nome_player
+nome
+nome_player
+saudacao
+batalha
+vejamos que você gosta de batalhar....bom saber disso
+você gosta de batalhar então...eu me sinto sozinho às vezes depois disso tudo...poderia me juntar a sua guilda?
+opa...vamos batalhar?
+guilda
+xingamento
+pra que isso......????
+ferreiro
+nome
+ferreiro_preço
+que bom saber que meus preços estão acessíveis para você
+eh....me desculpa se os preços são altos..minha vida não está nas melhores condições ainda mais na questão de dinheiro
+loja
+não me incomodo por que nós dois somos essências para esse reino, pois somos os únicos
+taverna
+coisa boa que era ir na taverna nos tempos antigos, a alegria reinando e bebendo sem preocupação
+poderia ir lá na taverna, fazem anos que não vou lá
+vilas
+só ouvi falar dessa e das outras vilas... eu não sei o que eu sinto.. uma obrigação de ficar nessa ferraria... como se todos os dias fossem iguais
+não conheço mas um dia irei lá
+ajuda
+opa... em que posso ajudá-lo?
+está interessado na mercadoria mas precisa de ajuda, certo?
+classes
+não vai a mal, mas nesse reino existiram poucos da sua classe, você eu que foi o mais destemido deles
+economia
+coisa difícil de conseguir facilmente em Eldora
+npcs
+meu amigo..... alias muito gente boa
+elogios
+fico feliz que tenha gostado do meu serviço, pois senão gostasse não teria outro lugar para comprar...
+despedida
+até mais
+adeus
+que Deus guia a sua mão
+adeus
+classe
+vai falar direito ou não?
+desculpa mas não entendi o que você falou
+acho que estou ficando surdo! poderia repetir?
+classe
+barman
+bebado
+ferreiro
+mineiro
+mercador
+mercador nocten
+mercador vangurd
+mercador ebranthal
+mercador rimvark
+vendedor sombrio
+antigo guerreiro
+
+você...você veio aqui com a promessa de salvar aqueles que sofreram tanto só de estarem ali...mas você os matou....matou aqueles em que a esperança de um reino feliz como antes...você tinha esse poder...e por isso que eles estavam ali....
+se a esperança é a ultima que morre...você já deveria estar morto. . . 
+final genocidia...
+final genocidia
+classe
+bruxo
+chegar ao nivel 50 não é so uma conquista...é uma prova que tu sobreviveu mesmo no caos...
+agora você pode escolher um caminho para seguir
+você deseja se tornar um:
+[1]bruxo das águas
+[2]bruxo do fogo
+[3]bruxo do vento
+[4]bruxo da folha
+qual sub-classe você escolhará?escolha sabiamente,para ter informação\ndecada sub-classe escreva [i]
+i
+qual sub-classe deseja se informar?
+[1]bruxo das águas
+[2]bruxo do fogo
+[3]bruxo do vento
+[4]bruxo da folha
+
+1
+bruxo das agua:tem poders áquaticos para seu bem...tem ataques como mandar uma onda para o inimigo,essa sub-classe é bastante\npoderosa contra inimigos do tipo fogo
+pressione Enter para continuar
+
+2
+bruxo do fogo,tem ataques de fogo como queimadura e tem mais vantagens contra inimigos do tipo folha
+pressione Enter para continuar
+
+=====suas habilidades=====
+sua classe:
+classe
+mana
+subclasse
+bruxo da agua
+nivel
+corte de água
+nivel
+classe
+cavaleiro
+nivel
+classe
+cavaleiro
+habilidade_cavaleiro
+nivel
+classe
+cavaleiro
+habilidade_cavaleiro2
+nivel
+classe
+cavaleiro
+habilidade_cavaleiro3
+nivel
+classe
+cavaleiro
+habilidade_cavaleiro4
+classe
+bruxo
+nivel
+habilidade_bruxo
+nivel
+habilidade_bruxo2
+nivel
+habilidade_bruxo3
+nivel
+habilidade_bruxo4
+classe
+goblin
+nivel
+habilidade_goblin
+nivel
+habilidade_goblin2
+nivel
+habilidade_goblin3
+nivel
+habilidade_goblin4
+classe
+monstro
+nivel
+habilidade_monstro
+nivel
+habilidade_monstro2
+nivel
+habilidade_monstro3
+nivel
+habilidade_monstro4
+classe
+mercador
+nivel
+habilidade_mercador
+nivel
+habilidade_mercador2
+nivel
+habilidade_mercador3
+nivel
+habilidade_mercador4
+qual habilidade deseja usar?
+classe
+cavaleiro
+habilidade_cavaleiro
+mana
+você usou
+habilidade_cavaleiro
+mana
+você tirou 10 de vida do monstro
+vida
+Você não tem mana suficiente
+habilidade_cavaleiro4
+mana
+você recebeu a benção do voto de honra
+seus ataques e defesas serão multiplicados por 3 mas não podera fugir e recebera o ataque critico duas vezes mais forte
+dano
+defesa
+dano
+defesa
+mana
+você não tem mana o suficiente
+habilidade_cavaleiro3
+você atacou o monstro usando investida brutal
+-15 mana
+dano
+mana
+vida
+habilidade_cavaleiro2
+você usou escudo sagrado
+você recebeu a benção sagrada 
+classe
+bruxo
+habilidade_bruxo
+mana
+você soltou uma bola de fogo
+vida
+mana
+você não tem mana o suficiente
+habilidade_bruxo2
+mana
+você solta uma explosão arcana
+a explosão arcana causou queimadura no inimigo
+vida
+a explosão arcana causou dano mas não deu queimadura
+mana
+Você não tem mana suficiente
+habilidade_bruxo3
+mana
+você usou maldição sombria no inimigo
+mana
+Você não tem mana suficiente
+habilidade_bruxo4
+mana
+vida
+mana
+Você não tem mana suficiente
+classe
+monstro
+habilidade_monstro
+mana
+mana
+você dá um rugido aterrorizante
+o rugido fez o monstro fugir
+o rugido fez nada
+monstro te atacou com furia
+vida
+habilidade_monstro2
+mana
+mana
+com a mordida seu dano duplicou nesse ataque especial
+dano
+habilidade_monstro3
+mana
+mana
+com a raiva selvagem pode dar dois ataques de uma vez só
+habilidade_monstro4
+mana
+você esta se regenerando de forma sobrenatural
+vida
+mana
+classe
+mercador
+habilidade_mercador4
+mana
+você usa a habilidade lucro maximo
+habilidade_mercador3
+mana
+você usa o ataque de persuação
+monstro tenta te atacar
+monstro errou o ataque
+monstro acertou o ataque
+vida
+habilidade_mercador2
+mana
+mana
+cura 20 moedas
+defesa 15 moedas
+dano 10 moedas
+selecione um item para comprar
+cura
+moedas
+você foi curado
+moedas
+moedas
+moedas
+vida
+você não tem moedas o suficiente
+defesa
+moedas
+moedas
+moedas
+moedas
+defesa
+sua defesa aumentou em 5
+voc~e não tem dinheiro suficiente...
+dano
+moedas
+seu dano aumentou em 5
+moedas
+moedas
+moedas
+dano
+você não tem moedas o suficiente
+habilidade_mercador
+mana
+moedas
+você esta fazendo suborno com o monstro
+mana
+moedas
+o monstro aceitou a proposta
+o monstro foi embora
+o monstro não aceitou a proposta
+o monstro devolveu o dinheiro
+moedas
+o monstro roubou o seu dinheiro
+classe
+goblin
+habilidade_goblin4
+mana
+você ARMOU UMA BOMBA
+BOMBA EXPLODINDO EM
+3
+2
+1
+a bomba explodiu causando 10 de dano
+vida
+habilidade_goblin3
+mana
+você usou o ataque zombaria
+habilidade_goblin2
+mana
+essa habilidade faz fuga instantanea,deseja usar essa habilidade? [s] ou [n]
+s
+você escapou da batalha
+mana
+n
+sua mana não será gastada
+resposta invalida
+habilidade_goblin
+mana
+o monstro não consegue te atingir porque esta longe demais
+mana
+golem de cobre
+moedas
+itens
+barra de cobre
+amuleto das almas
+golem de madeira
+moedas
+itens
+madeira
+amuleto das almas
+golem de ferro
+moedas
+itens
+barra de ferro
+amuleto das almas
+golem de pedra
+moedas
+itens
+pedra
+amuleto das almas
+golem de obsidiana
+moedas
+itens
+obsidiana
+amuleto das almas
+golem de rubi
+moedas
+itens
+rubi
+amuleto das almas
+golem de esmeralda
+moedas
+itens
+esmeralda
+amuleto das almas
+golem de ouro
+moedas
+itens
+barra de ouro
+amuleto das almas
+golem de diamante
+moedas
+itens
+diamante
+amuleto das almas
+https://luizsgustavo76.pythonanywhere.com/get
+atualmente você está sem internet ou o servidor está fora do ar...por favor retorne mais tarde se o problema persistir...
+https://luizsgustavo76.pythonanywhere.com/update
+chat
+sua mensagem\nou digite reload para recarregar o chat
+reload
+r
+utf-8
+w
+utf-8
+nome
+Amigo
+vida
+vida_max
+area
+desconhecida
+itens
+ouro
+chat
+amigo_mundo.json
+[SERVIDOR] Amigo desconectou
+[SERVIDOR] Conexão encerrada
+[CLIENTE] Não foi possível conectar ao host
+amigo_mundo.json
+[CLIENTE] Conexão perdida com host
+[CLIENTE] Conexão encerrada
+8.8.8.8
+127.0.0.1
+nome
+Amigo
+vida
+vida_max
+area
+desconhecida
+ˆ
+Não foi possível mostrar status do amigo
+itens
+ouro
+[1] Enviar item\n[2] Enviar ouro\nEscolha: 
+1
+Qual item deseja enviar? 
+itens
+itens
+itens
+Você não tem esse item.
+2
+Quanto ouro deseja enviar? 
+Valor inválido.
+ouro
+ouro
+ouro
+Você não tem ouro suficiente.
+Escolha inválida.
+tloe_save.json
+amigo_mundo.json
+\n=== CHAT MULTIPLAYER ===
+chat
+[1] abrir chat
+[2] Sair do chat
+Escolha: 
+1
+[0] para sair
+>>>Digite sua mensagem: 
+nome
+Você
+chat
+tloe_save.json
+0
+2
+Saindo do chat.
+Comando inválido.
+\n=== MENU MULTIPLAYER ===
+[1] Abrir mundo (servidor)
+[2] Entrar no mundo do amigo (cliente)
+Escolha: 
+1
+Servidor iniciado! Você pode continuar jogando normalmente.
+2
+Digite o IP do seu amigo (servidor): 
+Conectado ao mundo do amigo! Você pode continuar jogando normalmente.
+Escolha inválida.
+tloe_save.json
+cls
+nt
+clear
+primeira_vez_resistencia
+primeira_vez_bau_cabana
+bau_cabana
+limite itens báu é 30 itens
+[1] deposistar itens
+[2] retirar itens
+[0] sair
+o que deseja fazer?
+1
+bau_cabana
+o báu está cheio!
+escolha os itens que deseja depositar
+item:
+bau_cabana
+não é possivel depoistar itens com valor de 0 ou menos
+item depositado com sucesso!
+[1] fazer missões
+[2] conversar com algum integrante
+[3] checar báu
+[4] abrir inventário
+o que deseja fazer?
+3
+primeira_vez_bau_cabana
+[Maria] a...esse é o bau daqui, pode guardas seus itens aí a vontade
+primeira_vez_resistencia
+você aproxima-se daquela cabana, ela ainda parece ser habitada
+...
+[pessoa desconhecida 1] quem...quem é você???
+vocÊ varias pessoas dentro dessa cabana, elas parecem inseguras após a sua chegada
+[pessoa desconhecida 2] o garoto, vai se apresentar não???
+nome
+[pessoa desconhecida 2] pelo visto você não é uma ameaça...meu nome é Josué
+[pessoa desconhecida 1] a... meu nome é maria
+primeira_vez_resistencia
+Gortak o tirano da pedra
+nivel
+dificuldade
+facil
+ataques
+apredejamento
+dano
+colosso das sombras
+nivel
+dificuldade
+medio
+ataques especiais
+escuridao
+envenenamento sombrio
+dano
+shadow dead
+nivel
+dificuldade
+dificil
+ataques
+alma vazia
+ataque duplo
+dano
+dragão do inferno
+dificuldade
+inferno
+ataques
+ardencia do inferno
+duplicada
+escudo de chamas
+dano
+mana
+valor_evolucao_nivel
+pontos_upgrades
+nome
+antigo guerreiro
+vida
+defesa
+dano
+nivel
+nome
+bebado
+vida
+defesa
+dano
+nivel
+nome
+nome
+vida
+defesa
+dano
+nivel
+nivel
+cabeca
+
+tronco
+
+pernas
+
+pes
+
+mao direita
+
+mao esquerda
+
+nome_player
+
+objetivo_eldora
+
+vezes_perguntas
+memoria_adicional
+
+afinidade
+vila atual
+
+reputação em Vangurd
+reputação em Nocten
+reputação em Ebranthal
+reputação em Rimvark
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+[Dorian]então era aqui que você queria me levar?
+nome
+por que tá tudo destruido?
+[Dorian]eu estava conversando com uns habitantes locais daqui e eles disseram que era sobreviventes de algum incidente desse reino...mas qual seria esse incidente..
+nome
+[Dorian]eu estou voltando para meu aposento então..
+você chegou as ruinas
+[1]andar para frente
+[2]virar para direita
+[3]virar para esquerda
+[4]andar para trás
+[5]limpar destroço
+[6]abrir inventário
+[7]ver mapa
+[0]voltar para o centro de eldora
+o que irá fazer
+0
+7
+aperte [0~] para voltar para o menu
+0
+vila atual
+Vila de Rimvark:
+[1]loja
+[2]igreja
+[3]mercado
+[4]casa
+[5]ver mapa
+[6]menu jogador
+o queres fazer?
+1
+bem vindo á minha loja de armamentos...
+[1]ver estoque
+[2]vender itens
+[3]conversar
+[0]sair
+o que deseja fazer?
+0
+ao sair você percebe que o comerciante ficou feliz pois você comprou algo...
+ok....volte sempre!
+3
+modo livre...escreva qualquer coisa que ele te responderá...tecnologia DreamCore,fale palavras como tchau,adeus para sair do chat
+comerciante de rimvark
+2
+você entra na igreja mas percebe que ainda está em construção depois das destruições que ocorreram em Rimvark
+Igreja católica de Rimvark
+[1]se sentar nos bancos
+[2]ir para o altar
+[3]ir conversar com o Padre
+[0]sair
+o que deseja fazer?
+0
+você sai da igreja...
+5
+você esta viajando de volta para o centro de eldora
+...
+Vila de Vangurd:
+[1]loja
+[2]igreja
+[3]mercado
+[4]casa
+[5]voltar para eldora
+[6]abrir inventario
+[7]abrir status
+o queres fazer?
+5
+você esta viajando de volta para o centro de eldora
+...
+1
+[comerciante de Vangurd]:seja bem vindo a minha humilde loja
+[1]ver estoque
+[2]vender itens
+[3]conversar
+[0]sair
+o que deseja fazer?
+0
+ao sair você percebe que o comerciante ficou feliz pois você comprou algo...
+ok....volte sempre!
+3
+modo livre...escreva qualquer coisa que ele te responderá...tecnologia DreamCore,fale palavras como tchau,adeus para sair do chat
+comerciante de vangurd
+2
+você entra na igreja mas percebe que ainda está em construção...\nlogo á frente o padre celebrando uma missa.....
+Vila de Nocten:
+[1]loja
+[2]igreja
+[3]mercado
+[4]casa
+[5]ver mapa
+[6]menu jogador
+o queres fazer?
+5
+você esta viajando de volta para o centro de eldora
+...
+1
+[comerciante de nocten]:bem vindo a minha loja de poções e itens almadiçoados
+[1]ver estoque
+[2]vender itens
+[3]conversar
+[0]sair
+o que deseja fazer?
+0
+ao sair você percebe que o comerciante ficou feliz pois você comprou algo...
+ok....volte sempre!
+3
+modo livre...escreva qualquer coisa que ele te responderá...tecnologia DreamCore,fale palavras como tchau,adeus para sair do chat
+comerciante de nocten
+2
+você entra na igreja mas percebe que ainda está em construção
+dinheiro
+estoque
+vila de Ebranthal:
+[1]loja
+[2]igreja
+[3]mercado
+[4]casa
+[5]ver mapa
+[6]menu jogador
+o queres fazer?
+5
+você esta viajando de volta para o centro de eldora
+...
+1
+[comerciante de Ebranthal]:bem vindo á minha loja
+[1]ver estoque
+[2]vender itens
+[3]conversar
+[0]sair
+o que deseja fazer?
+0
+ao sair você percebe que o comerciante ficou feliz pois você comprou algo...
+ok....volte sempre!
+3
+modo livre...escreva qualquer coisa que ele te responderá...tecnologia DreamCore,fale palavras como tchau,adeus para sair do chat
+comerciante de ebranthal
+2
+você entra na igreja mas percebe que ainda está em construção
+
+você está bêbado...
+você entra nessa floresta mas esse lugar definitivamente não te conforta
+o ceu parece escurecer e ficar de noite
+arvores
+inimigos
+cogumelo ambulante
+vida
+ataque
+habilidade especial
+envenenamento
+goblin do mal
+vida
+ataque
+habilidade especial
+lançamento de adaga
+assasino das trevas
+vida
+ataque
+habilidade especial
+nenhuma
+demonio da noite
+vida
+ataque
+habilidade especial
+envenamento demoniaco
+arvores
+[1]quebrar uma arvore
+[2]caminhar pela floresta
+[0]sair da floresta
+o que deseha fazer?
+olá!antes de começar o jogo poderiamos perguntar se queira criar uma conta pra conteudos online? 
+é de graça e te permite \n desfrutar de modos interativos multiplayer!
+[S]sim, eu gostaria.\n[N]não, obrigado
+s
+http://luizsgustavo76.pythonanywhere.com
+/create-id
+nickname
+email
+senha
+escolha um nickname, ele é unico e inalterável, é usado essencialmente \n 
+para chats,trades e recursos online!
+qual será seu nickname?seja criativo ^^
+[S]sim [N]não
+s
+nickname
+deseja colocar um email?em caso de esquecimento de senha poderemos \n 
+enviar um email de redefinição de senha!e tambem terá noticias de \n 
+primeira mão direto no seu email
+obs:enviaremos um email de confirmação na sua caixa de entrada
+[S] sim, [N] não
+s
+qual é seu email?
+você poderá mudar seu email de recuperação á qualquer momento 
+nas configurações
+email
+agora...defina uma senha por favor
+sua senha:
+sua senha é muito curta...mas você tem a opção de ficar mas encarar 
+riscos de segurança:segundo a licença
+[S] sim,tenho consimento do risco, 
+[N] não,quero redefinir minha senha
+s
+o aviso foi dado...
+confirme sua senha
+suas senhas não se coicidem
+senha
+enviando dados pro servidor...:[andamento]
+enviando dados pro servidor...:
+[concluido]
+enviando dados pro servidor...:
+[FALHA]
+ um erro aconteceu durante a comunicação com os servidores,
+por favor tente mais tarde,se o erro persistir contacte no 
+email:luizsgustavo76@gmail.com
+Resposta não é JSON:
+gerando ID
+id
+finalizando criação da conta
+https://luizsgustavo76.pythonanywhere.com
+hora
+nome
+mensagem
+Erro ao receber mensagens:
+> 
+/sair
+Saindo do chat...
+nome
+mensagem
+hora
+%H:%M:%S
+Erro ao enviar mensagem:
+exp
+exp
+nivel
+nivel
+pontos_upgrades
+você subiu de nivel para o nivel
+nivel
+
+#
+[
+]
+
+facil
+gorthak tirano da pedra["dano"]
+gorthak tirano da pedra["ataques"]
+gorthak tirano da pedra["vida"]
+que belo dia....bom PRA TACAR UMA GARRAFA NA TUA CABEÇA,garotos como você não deveria estar nesse bar especialmente seno derrotado por mim,Então é isso?irá me deixar para trás para morrer??,toda causa haja uma consequencia
+
+barman
+barman
+[1]atacar
+[2]defender
+[3]habilidade
+[4]trocar aliado
+[5]inventario
+[6]fugir da batalha
+escolha uma opção
+1
+====== BAÚ ======
+[1] Ver itens no baú
+[2] Guardar item no baú
+[3] Retirar item do baú
+[0] Sair
+Escolha uma opção: 
+1
+Itens no baú:
+_
+ 
+O baú está vazio.
+Pressione Enter para continuar...
+2
+Nome do item para guardar: 
+ 
+_
+Quantidade para guardar: 
+_
+ 
+Você não tem essa quantidade.
+Item não encontrado no inventário.
+Pressione Enter para continuar...
+3
+Nome do item para retirar: 
+ 
+_
+Quantidade para retirar: 
+_
+ 
+Você não tem essa quantidade no baú.
+Item não encontrado no baú.
+Pressione Enter para continuar...
+0
+Opção inválida.
+criador_trade
+integrantes
+itens
+em_duracao
+limite_pessoas
+Quantos participantes terão?\n*Limite 10 integrantes
+
+Digite um número válido!
+Não é possível criar a trade, limite ultrapassado. Integrantes máximos são 10
+Não é possível criar uma mesa de trades com menos de 2 pessoas
+criador_trade
+nome
+limite_pessoas
+em_duracao
+True
+integrantes
+nome
+https://luizsgustavo76.pythonanywhere.com
+criador_trade
+criador_trade
+integrantes
+integrantes
+itens
+itens
+em_duracao
+em_duracao
+limite_pessoas
+limite_pessoas
+Erro ao conectar ao servidor:
+\nCENTRO MERCANTIL DE ELDORA\n
+Nenhum estande disponível.\n
+-
+nome_stand
+nome
+-
+itens
+Itens inválidos ou corrompidos.
+Sem itens à venda.
+item
+Desconhecido
+preco
+N/A
+-
+\n
+https://luizsgustavo76.pythonanywhere.com
+nome
+nome
+itens
+valor_pago
+nome_stand
+Qual será o titulo do estande?
+Titulo:
+nome_stand
+pra você ter seu estande você o aluga por hora(horario real) ou minutos!,somente 1000 moedas por hora ou 16 moedas por minuto!
+[1] por hora
+[2] por minuto
+qual opção deseja escolher?
+1
+quantas horas você deseja alugar?
+tempo:
+deseja continuar\n[S] sim\n[N] não
+n
+s
+moedas
+valor_pago
+2
+quantos minutos você deseja alugar?
+tempo:
+deseja continuar\n[S] sim\n[N] não
+n
+s
+moedas
+valor_pago
+quais serão o itens a venda...digite /finalizar pra finalizar a seleção de itens
+
+/finalizar
+item adicionado!
+qual será o valor da unidade desse item?
+Preço:
+itens
+item
+preco
+digite um numero NÃO UMA PALAVRA!!!
+item não encontrado no seu inventário
+finalizando...
+/s-stands
+https://luizsgustavo76.pythonanywhere.com
+[1] trocar itens
+[2] chat interno
+[0] sair
+o que opção deseja escolher?
+0
+1
+qual item deseja trocar?se quer trocar moedas digite 'moedas {valor}
+/adicionar-itens
+trade_id
+item
+https://luizsgustavo76.pythonanywhere.com/r-trade
+Nenhuma trade aberta no momento.
+Trades abertas:
+integrantes
+integrantes
+itens
+itens
+criador_trade
+limite_pessoas
+\nDigite o número da trade que deseja entrar (ou 0 para cancelar): 
+criador_trade
+https://luizsgustavo76.pythonanywhere.com/entrar-trade
+trade_id
+id
+nome
+nome
+status
+ok
+integrantes
+id
+mensagem
+Número inválido. Tente novamente.
+Digite um número válido!
+=====CENTRO MERCANTÍL DE ELDORA=====
+[1] trades
+[2] ir nos estandes de vendas
+[3] abrir o chat
+[0]sair
+o que deseja fazer?
+0
+você sai do centro...
+3
+1
+[1]criar uma mesa de trade
+[2]ver mesas de trades abertas
+[0] sair
+o que deseja fazer?
+1
+2
+em qual trade deseja
+0
+2
+[1] Criar um Estande
+[2] Ver Estandes
+[0] sair
+qual opção deseja escolher?
+1
+2
+https://luizsgustavo76.pythonanywhere.com
+0
+opção invalida
+pocao_exp2
+espada2
+pao2
+carne2
+batata2
+pocao_de_stamina2
+artefato_luz2
+artefato_fogo2
+artefato_agua2
+artefato_lava2
+artefato_diamante2
+artefato_força2
+artefato_defesa2
+artefato_ouro2
+artefato_sorte2
+artefato_magia2
+moeda_do_submundo2
+contrato_das_almas2
+amuleto_da_necromancia2
+fumaca_da_ilusao2
+adaga_envenenada2
+armadura_sombria2
+_
+ 
+
+ 
+Seu inventário está vazio.
+ 
+
+
+ 
+_
+
+pao2
+batata2
+Você recuperou 10 de vida.
+carne2
+Você recuperou 20 de vida.
+pocao_de_stamina2
+Você recuperou toda sua energia.
+pocao_exp2
+Você ganhou 100 de exp!
+exp
+cerveja
+Você bebeu uma cerveja.
+cerveja
+pinga de mel
+Você bebeu uma pinga de mel.
+pinga de mel
+cachaça mineira
+você bebeu uma cachaça mineira
+cachaça mineira
+vodka
+Você bebeu uma vodka
+vodka
+velho barreiro
+você bebeu um velho barreiro.
+velho barreiro
+1
+Você examinou o item. Pode ser útil em crafting.
+moeda_do_submundo2
+Você ouviu sussurros do além...
+contrato_das_almas2
+Você fez um pacto obscuro.
+amuleto_da_necromancia2
+Mortos agora te reconhecem como um dos deles.
+fumaca_da_ilusao2
+Você ficou invisível por alguns segundos.
+adaga_envenenada2
+Sua próxima lâmina será mortal.
+armadura_sombria2
+Uma armadura sombria envolve seu corpo.
+espada2
+armadura2
+Você equipou um novo equipamento de batalha.
+Você usou o item, mas nada aconteceu.
+Item não encontrado no inventário.
+valor_nivel
+bronze I
+bronze II
+bronze III
+prata I
+prata II
+prata III
+ouro I
+ouro II
+ouro III
+platina I
+platina II
+platina III
+diamante I
+diamante II
+diamante III
+mestre I
+mestre II
+mestre III
+mestre da honrra I
+mestre da honrra II
+mestre da honrra III
+elite I
+elite II
+elite III
+bem vindo 
+nome
+classe
+bem vindo ao tutorial
+você deseja fazer o tutorial? (s/n)
+n
+então que a aventura começe
+The Legends Of Eldora
+s
+bem vindo ao mundo de eldora
+pra começar vamos comprar uma espada
+<--------
+ <-------
+  <------
+   <-----
+(1)ir a taverna
+(2)loja
+(3)inventario
+(1)ir a taverna
+(2)loja
+(3)inventario
+(1)ir a taverna
+(2)loja
+(3)inventario
+(1)ir a taverna
+(2)loja
+(3)inventario
+(1)ir a taverna
+(2)loja
+(3)inventario
+(1)ir a taverna
+(2)loja
+(3)inventario
+(1)ir a taverna
+(2)loja
+(3)inventario
+facil
+medio
+dificil
+inferno
+morte_facil
+ok cara você tem que treinar mais um pouco
+morte_medio
+não desista você ainda consegue
+morte_dificil
+isso que foi uma batalha boa
+morte_inferno
+você tentou,isso que foi o mais dificil
+\033[1;31m
+\033[1;32m
+\033[1;34m
+\033[1;33m
+\033[0m
+\033[1;35m
+\033[1;36m
+\033[1;37m
+\033[33m
+\033[92m
+\033[1;37m
+descarted: aw000
+caracol maligno
+aranha
+slime
+goblin
+gorthak o tirano da pedra
+taverna
+loja
+guilda
+masmorra
+antigo_guerreiro
+bebado
+vida_max
+vida
+defesa
+mana
+exp
+maestria com espadas
+magia
+habilidade
+exp_valor
+pontos upgrades
+habilidade_cavaleiro
+golpe divino
+habilidade_bruxo
+bola de fogo
+habilidade_goblin
+lançar adaga
+habilidade_monstro
+rugido aterrorizante
+habilidade_mercador
+suborno
+habilidade_cavaleiro2
+escudo sagrado
+habilidade_cavaleiro3
+investida brutal
+habilidade_cavaleiro4
+voto de honra
+habilidade_bruxo2
+explosão arcana
+habilidade_bruxo3
+maldição sombria
+habilidade_bruxo4
+drenar alma
+habilidade_goblin2
+fuga agil
+habilidade_goblin3
+zombaria
+habilidade_goblin4
+bomba improvisada
+habilidade_mercador2
+oferta relampago
+habilidade_mercador3
+persuação
+habilidade_mercador4
+lucro maxímo
+habilidade_monstro2
+mordida voraz
+habilidade_monstro3
+raiva selvagem
+habilidade_monstro4
+regeneraçao natural
+resfriado
+exposto_clima
+o dia está com um pouco de sol
+o dia está chuvoso
+exposto_clima
+está com uma chuva forte,até parece que vai dar uma tempestade
+exposto_clima
+está uma tempestade intensa com raios e ventos fortes,e melhor eu me abrigar
+exposto_clima
+o dia está nublado,está até bom ficar aqui!
+o dia tá ensolarado,aproveite para fazer suas tarefas
+está tendo uma nevasca,e melhor eu me abrigar
+exposto_clima
+exposto_clima
+você está esposto ao clima arrume um abrigo! 
+exposto_clima
+você está muito exposto ao clima arrume um abrigo urgentemente
+madeira
+pontos de upgrade
+conquistas
+item espada bau
+bebado
+antigo_heroi
+carvão
+adaga
+barra_cobre
+pipeta_cobre
+capacete
+peitoral
+calças
+botas
+pocao_exp2
+espada2
+pao2
+carne2
+batata2
+pocao_de_stamina2
+cerveja2
+pinga2
+choro_dragao2
+skull_soul2
+dead_soul2
+alma_negra2
+artefato_luz2
+artefato_fogo2
+artefato_agua2
+artefato_lava2
+artefato_diamante2
+artefato_força2
+artefato_defesa2
+artefato_ouro2
+artefato_sorte2
+artefato_magia2
+dente_goblin1
+olho_aranha1
+bola_slime1
+casca_caracol1
+moeda_do_submundo2
+contrato_das_almas2
+amuleto_da_necromancia2
+fumaca_da_ilusao2
+adaga_envenenada2
+armadura_sombria2
+cerveja
+pinga_de_mel
+cachaça_mineira
+vodka
+velho_barreiro
+balde
+obsidiana
+balde de água
+balde de lava
+picareta de obsidiana
+picareta de cobre
+cobre bruto
+ferro bruto
+ouro bruto
+machado de madeira
+machado de ferro
+machado de pedra
+machado de ferro
+machado de cobre
+machado de obsidiana
+machado de diamante
+pedra
+pergaminho da forca I
+pergaminho da forca II
+pergaminho da forca III
+pergaminho da forca IV
+pergaminho da defesa I
+pergaminho da defesa II
+pergaminho da defesa III
+pergaminho da defesa IV
+pergaminho de remendo
+pergaminho de mais moedas
+cobre
+ferro
+ouro
+diamante
+rubi
+esmeralda
+amuleto das almas
+espada de rubi
+espada de esmeralda
+espada de ferro
+espada de cobre
+espada de ouro
+espada de diamante
+espada de obsidiana
+capacete de madeira
+capacete de pedra
+capacete de cobre
+capacete de ferro
+capacete de ouro
+capacete de rubi
+capacete de esmeralda
+capacete de obsidiana
+picareta de madeira
+picareta de pedra
+picareta de cobre
+picareta de ferro
+picareta de ouro
+picareta de esmeralda
+picareta de rubi
+picareta de diamante
+picareta de obsidiana
+peitoral de madeira
+peitoral de pedra
+peitoral de cobre
+peitoral de ferro
+peitoral de ouro
+peitoral de esmeralda
+peitoral de rubi
+peitoral de diamante
+peitoral de obsidiana
+calça de madeira
+calça de pedra
+calça de cobre
+calça de ferro
+calça de ouro
+calça de rubi
+calça de esmeralda
+calça de diamante
+calça de obsidiana
+botas de madeira
+botas de pedra
+botas de cobre
+botas de ferro
+botas de ouro
+botas de rubi
+botas de esmeralda
+botas de diamante
+botas de obidiana
+enxada de madeira
+enxada de pedra
+enxada de cobre
+enxada de ferro
+enxada de ouro
+enxada de rubi
+enxada de esmeralda
+enxada de diamante
+enxada de obsidiana
+madeira
+raridade
+preço revenda
+categoria
+carvão
+raridade
+preço revenda
+categoria
+adaga
+raridade
+preço revenda
+categoria
+barra_cobre
+raridade
+preço revenda
+categoria
+pipeta_cobre
+raridade
+preço revenda
+categoria
+pocao_exp2
+raridade
+preço revenda
+categoria
+espada2
+raridade
+preço revenda
+categoria
+pao2
+raridade
+preço revenda
+categoria
+carne2
+raridade
+preço revenda
+categoria
+batata2
+raridade
+preço revenda
+categoria
+pocao_de_stamina2
+raridade
+preço revenda
+categoria
+cerveja2
+raridade
+preço revenda
+categoria
+pinga2
+raridade
+preço revenda
+categoria
+artefato_luz2
+raridade
+preço revenda
+categoria
+artefato_fogo2
+raridade
+preço revenda
+categoria
+artefato_agua2
+raridade
+preço revenda
+categoria
+artefato_lava2
+raridade
+preço revenda
+categoria
+artefato_diamante2
+raridade
+preço revenda
+categoria
+artefato_força2
+raridade
+preço revenda
+categoria
+artefato_defesa2
+raridade
+preço revenda
+categoria
+artefato_ouro2
+raridade
+preço revenda
+categoria
+artefato_sorte2
+raridade
+preço revenda
+categoria
+artefato_magia2
+raridade
+preço revenda
+categoria
+moeda_do_submundo2
+raridade
+preço revenda
+categoria
+contrato_das_almas2
+raridade
+preço revenda
+categoria
+amuleto_da_necromancia2
+raridade
+preço revenda
+categoria
+fumaca_da_ilusao2
+raridade
+preço revenda
+categoria
+adaga_envenenada2
+raridade
+preço revenda
+categoria
+armadura_sombria2
+raridade
+preço revenda
+categoria
+cerveja
+raridade
+preço revenda
+categoria
+pinga_de_mel
+raridade
+preço revenda
+categoria
+cachaça_mineira
+raridade
+preço revenda
+categoria
+vodka
+raridade
+preço revenda
+categoria
+velho_barreiro
+raridade
+preço revenda
+categoria
+balde
+raridade
+preço revenda
+categoria
+obsidiana
+raridade
+preço revenda
+categoria
+balde de água
+raridade
+preço revenda
+categoria
+balde de lava
+raridade
+preço revenda
+categoria
+picareta de obsidiana
+raridade
+preço revenda
+categoria
+picareta de cobre
+raridade
+preço revenda
+categoria
+cobre bruto
+raridade
+preço revenda
+categoria
+ferro bruto
+raridade
+preço revenda
+categoria
+ouro bruto
+raridade
+preço revenda
+categoria
+machado de madeira
+raridade
+preço revenda
+categoria
+machado de ferro
+raridade
+preço revenda
+categoria
+machado de pedra
+raridade
+preço revenda
+categoria
+machado de ferro
+raridade
+preço revenda
+categoria
+machado de cobre
+raridade
+preço revenda
+categoria
+machado de obsidiana
+raridade
+preço revenda
+categoria
+machado de diamante
+raridade
+preço revenda
+categoria
+pedra
+raridade
+preço revenda
+categoria
+pergaminho da forca I
+raridade
+preço revenda
+categoria
+pergaminho da forca II
+raridade
+preço revenda
+categoria
+pergaminho da forca III
+raridade
+preço revenda
+categoria
+pergaminho da forca IV
+raridade
+preço revenda
+categoria
+pergaminho da defesa I
+raridade
+preço revenda
+categoria
+pergaminho da defesa II
+raridade
+preço revenda
+categoria
+pergaminho da defesa III
+raridade
+preço revenda
+categoria
+pergaminho da defesa IV
+raridade
+preço revenda
+categoria
+pergaminho de remendo
+raridade
+preço revenda
+categoria
+pergaminho de mais moedas
+raridade
+preço revenda
+categoria
+cobre
+raridade
+preço revenda
+categoria
+ferro
+raridade
+preço revenda
+categoria
+ouro
+raridade
+preço revenda
+categoria
+diamante
+raridade
+preço revenda
+categoria
+rubi
+raridade
+preço revenda
+categoria
+esmeralda
+raridade
+preço revenda
+categoria
+amuleto das almas
+raridade
+preço revenda
+categoria
+espada de rubi
+raridade
+preço revenda
+categoria
+espada de esmeralda
+raridade
+preço revenda
+categoria
+espada de ferro
+raridade
+preço revenda
+categoria
+espada de cobre
+raridade
+preço revenda
+categoria
+espada de ouro
+raridade
+preço revenda
+categoria
+espada de diamante
+raridade
+preço revenda
+categoria
+espada de obsidiana
+raridade
+preço revenda
+categoria
+capacete de madeira
+raridade
+preço revenda
+categoria
+capacete de pedra
+raridade
+preço revenda
+categoria
+capacete de cobre
+raridade
+preço revenda
+categoria
+capacete de ferro
+raridade
+preço revenda
+categoria
+capacete de ouro
+raridade
+preço revenda
+categoria
+capacete de rubi
+raridade
+preço revenda
+categoria
+capacete de esmeralda
+raridade
+preço revenda
+categoria
+capacete de obsidiana
+raridade
+preço revenda
+categoria
+picareta de madeira
+raridade
+preço revenda
+categoria
+picareta de pedra
+raridade
+preço revenda
+categoria
+picareta de cobre
+raridade
+preço revenda
+categoria
+picareta de ferro
+raridade
+preço revenda
+categoria
+picareta de ouro
+raridade
+preço revenda
+categoria
+picareta de esmeralda
+raridade
+preço revenda
+categoria
+picareta de rubi
+raridade
+preço revenda
+categoria
+picareta de diamante
+raridade
+preço revenda
+categoria
+picareta de obsidiana
+raridade
+preço revenda
+categoria
+peitoral de madeira
+raridade
+preço revenda
+categoria
+peitoral de pedra
+raridade
+preço revenda
+categoria
+peitoral de cobre
+raridade
+preço revenda
+categoria
+peitoral de ferro
+raridade
+preço revenda
+categoria
+peitoral de ouro
+raridade
+preço revenda
+categoria
+peitoral de esmeralda
+raridade
+preço revenda
+categoria
+peitoral de rubi
+raridade
+preço revenda
+categoria
+peitoral de diamante
+raridade
+preço revenda
+categoria
+peitoral de obsidiana
+raridade
+preço revenda
+categoria
+calça de madeira
+raridade
+preço revenda
+categoria
+calça de pedra
+raridade
+preço revenda
+categoria
+calça de cobre
+raridade
+preço revenda
+categoria
+calça de ferro
+raridade
+preço revenda
+categoria
+calça de ouro
+raridade
+preço revenda
+categoria
+calça de rubi
+raridade
+preço revenda
+categoria
+calça de esmeralda
+raridade
+preço revenda
+categoria
+calça de diamante
+raridade
+preço revenda
+categoria
+calça de obsidiana
+raridade
+preço revenda
+categoria
+botas de madeira
+raridade
+preço revenda
+categoria
+botas de pedra
+raridade
+preço revenda
+categoria
+botas de cobre
+raridade
+preço revenda
+categoria
+botas de ferro
+raridade
+preço revenda
+categoria
+botas de ouro
+raridade
+preço revenda
+categoria
+botas de rubi
+raridade
+preço revenda
+categoria
+botas de esmeralda
+raridade
+preço revenda
+categoria
+botas de diamante
+raridade
+preço revenda
+categoria
+botas de obidiana
+raridade
+preço revenda
+categoria
+enxada de madeira
+raridade
+preço revenda
+categoria
+enxada de pedra
+raridade
+preço revenda
+categoria
+enxada de cobre
+raridade
+preço revenda
+categoria
+enxada de ferro
+raridade
+preço revenda
+categoria
+enxada de ouro
+raridade
+preço revenda
+categoria
+enxada de rubi
+raridade
+preço revenda
+categoria
+enxada de esmeralda
+raridade
+preço revenda
+categoria
+enxada de diamante
+raridade
+preço revenda
+categoria
+enxada de obsidiana
+raridade
+preço revenda
+categoria
+você encontra um báu de madeira\ndurante sua jornada\nsua curiosidade foi mais forte e você decide abrir ele
+você conseguiu um pergaminho da força nivel I.....!
+pergaminho da forca I
+você conseguiu um pergaminho da defesa nivel I....!
+pergaminho da defesa I
+1
+você encontra um báu de pedra\ndurante sua jornada\nsua curiosidade foi mais forte e você decide abrir ele
+você conseguiu um pergaminho da força nivel II....!
+pergaminho da forca II
+você conseguiu um pergaminho da defesa nivel II....!
+pergaminho da defesa II
+você encontra um báu de ouro\ndurante sua jornada\nsua curiosidade foi mais forte e você decide abrir ele
+você conseguiu um pergaminho de força nivel iii
+pergaminho da forca iii
+você conseguiu um pergaminho de força nivel IV
+pergaminho da forca iv
+você conseguiu um pergaminho de defesa iii
+pergaminho da defesa iii
+você conseguiu um pergaminho da defesa nivel IV
+pergaminho da defesa iv
+você conseguiu um pergaminho de remendo
+pergaminho de remendo
+você ganhou um pergaminho de ganho de mais moedas
+pergaminho de mais moedas
+espada_madeira
+escudo_madeira
+capacete_madeira
+placa_madeira
+placa_ferro
+espada_ferro
+escudo_ferro
+capacete_ferro
+barra_ouro
+barra_ferro
+barra_prata
+pipeta_ouro
+pipeta prata
+cerveja
+pinga de mel
+cachaça mineira
+vodka
+velho barreiro
+dinheiro_barman
+estoque_cerveja
+estoque_pinga_de_mel
+estoque_cachaça_mineira
+estoque_vodka
+estoque_velho_barreiro
+estoque_vinho
+estoque_whiskey
+estoque_tequila
+estoque_hidromel
+estoque_rum
+reputação taverna
+frequentadores
+bebado
+melhorias_taverna
+bancos
+mesas
+aparencia
+bebidas
+iluminação
+cozinha
+cerveja
+cachaça mineira
+pinga de mel
+vodka
+velho barreiro
+estoque_
+ 
+_
+capacete
+antigo_guerreiro
+bebado
+antigo_guerreiro_hp
+bebado_hp
+ataque_guerreiro
+bebado_ataque
+guerreiro_defesa
+bebado_defesa
+mesas
+nivel 1
+nivel 2
+nivel 3
+nivel 4
+nivel 5
+bancos
+nivel 1
+nivel 2
+nivel 3
+nivel 4
+nivel 5
+aparencia
+nivel 1
+nivel 2
+nivel 3
+nivel 4
+nivel 5
+cozinha
+nivel 1
+nivel 2
+nivel 3
+nivel 4
+nivel 5
+loja sombria
+nivel 1
+nivel 2
+nivel 3
+nivel 4
+nivel 5
+bebidas
+nivel 1
+nivel 2
+nivel 3
+nivel 4
+nivel 5
+iluminação
+nivel 1
+nivel 2
+nivel 3
+nivel 4
+nivel 5
+mesas
+bancos
+aparencia
+cozinha
+loja sombria
+bebidas
+iluminação
+nome
+=== Lista de amigos disponíveis para PvP ===
+Escolha o número do amigo para iniciar o PvP: 
+Escolha inválida.
+Não foi possível conectar ao amigo.
+ATAQUE
+FUGA
+O inimigo fugiu!
+\n=== Seu turno ===
+1 - Atacar
+2 - Defender
+3 - Inventário
+4 - Fugir
+Escolha sua ação: 
+1
+ATAQUE
+Você atacou!
+2
+Você está se defendendo no próximo turno.
+3
+Inventário:
+4
+FUGA
+Você fugiu da batalha.
+Ação inválida.
+Você venceu a batalha!
+Você foi derrotado.
+poção
+Cura 20 HP
+espada
+Dano +10
+escudo
+Defesa +5
+Notificação de Amigo
+MSG:
+TRADE:
+MSG:
+TRADE:
+Amigo se desconectou.
+/enviaritem
+Você não tem esse item.
+Uso: /enviaritem nome_do_item
+/itens
+Seus itens:
+, 
+=== Sistema de Trade Online ===
+Digite seu nome: 
+1 - Criar host
+2 - Conectar como cliente
+Escolha: 
+poção
+espada
+1
+
+Esperando amigo se conectar...
+2
+Digite o IP do host: 
+Conectado ao host!
+Opção inválida.
+nome
+senha
+dono
+membros
+conexoes
+mensagens
+convidados
+guilda_ativa
+atividades
+membros_detectados
+patentes
+historico_guilda.txt
+a
+guilda.json
+w
+guilda.json
+guilda.json
+r
+\nMenu da Guilda Online:
+1. Criar guilda
+2. Entrar na guilda existente
+Escolha: 
+nome
+1. Ver atividade dos membros
+2. Adicionar membro (por IP)
+3. Expulsar membro
+4. Enviar broadcast
+5. PvP
+6. Trade
+7. Chat
+8. Enviar script para membros
+9. Definir patente
+10. Sair
+\n[Chat da Guilda]
+mensagens
+Digite a mensagem (ou 'exit()' para sair): 
+exit()
+conexoes
+mensagens
+Host
+Nome do arquivo .py para enviar: 
+Arquivo não encontrado.
+r
+conexoes
+Script enviado para todos os membros.
+b"1. Atacar 2. Defender 3. Fugir: "
+1
+2
+1
+2
+3
+3
+b"Um dos jogadores fugiu!\n"
+b"Um dos jogadores fugiu!\n"
+Um jogador fugiu do PvP.
+PvP finalizado.
+b"Digite item para enviar: "
+b"Digite item para enviar: "
+b"Recebeu: "
+b"Recebeu: "
+IP do membro: 
+Patente a atribuir: 
+patentes
+Servidor iniciado.
+guilda_ativa
+Digite a senha da guilda: 
+senha
+Senha incorreta. Conexão encerrada.
+conexoes
+membros
+atividades
+mensagens
+atividades
+conexoes
+membros
+membros
+1
+Seu IP (ou 127.0.0.1 para local): 
+Nome da guilda: 
+Defina a senha da guilda: 
+dono
+nome
+senha
+Guilda existente carregada.
+Escolha: 
+1
+atividades
+patentes
+Sem patente
+2
+IP do novo membro: 
+convidados
+3
+IP a remover: 
+membros
+membros
+4
+Mensagem de broadcast: 
+conexoes
+5
+IP jogador 1: 
+IP jogador 2: 
+membros
+membros
+6
+IP jogador 1: 
+IP jogador 2: 
+membros
+membros
+7
+8
+9
+10
+Fechando guilda.
+guilda_ativa
+Guilda encerrada pelo dono.
+2
+Digite o IP do host para entrar: 
+[*] Conectado à guilda.
+Digite a senha da guilda: 
+\n[Menu Membro]
+1 - Chat
+2 - PvP
+3 - Trade
+4 - Sair
+Escolha: 
+1
+Mensagem (ou 'exit()'): 
+exit()
+2
+Solicito PvP com o host.
+3
+Solicito trade com o host.
+4
+hp_max
+mana_max
+dano_max
+golem de ferro
+golem de cobre
+golem de ouro
+golem de pedra
+golem de obsidiana
+golem de rubi
+golem de esmeralda
+golem de diamante
+slot1_cheio
+slot2_cheio
+slot3_cheio
+slot4_cheio
+slot1_golem
+slot2_golem
+slot3_golem
+slot4_golem
+golem de pedra
+golem de madeira
+golem de rubi
+golem de esmeralda
+golem de obsidiana
+golem de diamante
+golem de ouro
+golem de ferro
+ ■\n■■■\n ■
+[1]equipar itens
+[2]ver status do golem
+[0]sair
+qual opção você escolhe?
+0
+\n--- Slots de Golem ---
+slot1_golem
+slot2_golem
+slot3_golem
+slot4_golem
+\n[1] Habilitar/Desabilitar Golem
+[2] Gerenciar Golems
+[0] Sair
+Escolha uma opção: 
+1
+qual golem deseja habilitar/desabilitar?
+
+slot1_golem
+slot2_golem
+slot3_golem
+slot4_golem
+em qual slot deseja adicionar/remover um golem?
+
+1
+slot1_golem
+qual golem deseja adicionar?
+slot1_golem
+slot1
+[S] OU [N]
+s
+slot1
+2
+slot2_golem
+qual golem deseja adicionar?
+slot2_golem
+slot1
+[S] OU [N]
+s
+slot2
+3
+slot3_golem
+qual golem deseja adicionar?
+slot3_golem
+slot3
+[S] OU [N]
+s
+slot3
+4
+slot4_golem
+qual golem deseja adicionar?
+slot4_golem
+slot4
+[S] OU [N]
+s
+slot4
+2
+\n--- Seus Golems ---
+slot1_golem
+slot2_golem
+slot3_golem
+slot4_golem
+\nDigite o nome do golem que deseja gerenciar (ou 'voltar'): 
+voltar
+Esse Golem não foi encontrado
+0
+picareta de pedra
+picareta de ferro
+picareta de madeira
+pedra
+carvão
+cobre bruto
+consiga carvão
+pegue seu primeiro carvão
+consiga pedra
+minere sua primeira pedra
+consiga ferro
+minere seu primeiro ferro
+venda seu minerio
+venda um minerio para o mineiro
+consiga ouro
+minere seu prineiro ouro
+consiga lava
+pegue um balde de lava
+consiga diamante
+minere um diamante
+consiga obsidiana
+vá no ferreiro e misture um balde de água com um balde de lava para fazer uma barra de obsidiana
+dinheiro
+missões concluidas
+dificuldade das missoes
+facil
+recrutado guilda
+itens vendidos
+afinidade
+
+
+dificuldade das missoes
+facil
+===missões===
+dificuldade das missoes
+aperte 0 para sair
+0
+[1]minerar
+[2]abrir inventario
+[3]usar equipamento
+[0]sair
+o que vai fazer?
+teste de procedural
+1
+[1]minerar pra frente
+[2]minerar pra baixo
+[0]sair da mina
+o que deseja fazer?
+1
+...\num...um diamante
+diamante
+o meu deus....uma esmeralda!
+esmeralda
+nossa..essa pedra tá muito brilante e vermelha..pera um pouco....é um rubi!
+rubi
+você minerou uma pedra...!
+pedra
+você minerou um cobre bruto...!
+cobre bruto
+você minerou um ouro bruto...!
+ouro bruto
+você minerou um carvão...!
+carvão
+nome
+será que eu pego um pouco?
+[s]sim\n[n]não
+o que deseja fazer?
+s
+mao esquerda
+balde
+você coletou um balde de lava...!
+balde de lava
+mao esquerda
+
+n
+0
+saindo da mina...
+0
+2
+escolha um item para usar
+mina de eldora
+[1]entrar na mina(picareta requirida)
+[2]falar com o mineiro
+[0]sair da mina
+qual opção ira escolher
+1
+mao direita
+picareta
+0
+você sai da mina...
+2
+o que tu queiras meu jovem?
+[1]fazer missões
+[2]comprar itens
+[3]vender itens e minerios
+[0]sair
+qual opção selecionara?
+0
+adeus...boa sorte na sua mineiração!
+1
+2
+qual item deseja comprar?digite [0] para sair
+0
+nome
+picareta de pedra
+quantos itens?
+picareta de pedra
+tome aqui sua picareta!
+moedas
+picareta de pedra
+0
+volte sempre...
+picareta de ferro
+quantos itens?
+picareta de ferro
+tome aqui sua picareta!
+moedas
+picareta de ferro
+picareta de madeira
+quantos itens?
+picareta de madeira
+tome aqui sua picareta!
+moedas
+picareta de madeira
+cobre
+quantos itens
+cobre
+tome aqui seu cobre
+moedas
+cobre
+carvão
+quantos itens?
+carvão
+tome aqui seu carvão!
+moedas
+carvão
+guilda
+artefato da luz
+artefato do fogo
+artefato da agua
+artefato da lava
+artefato do diamante
+artefato da força
+artefato da defesa
+artefato do ouro
+artefato da sorte
+artefato da magia
+cerveja
+pinga
+choro de dragao
+skull soul
+dead soul
+alma negra
+capacete
+peitoral
+calcas
+botas
+escudo
+espadas
+adaga
+adaga envenenada
+espada de cobre
+espada de obsidiana
+espada de madeira
+espada de pedra
+espada de obsidiana
+picareta de ferro
+picareta de madeira
+picareta de pedra
+picareta de cobre
+picareta de obsidiana
+balde
+balde de agua
+balde de lava
+capacete
+peitoral
+calcas
+botas
+adaga
+espada
+adaga_envenenada
+espada de cobre
+espada de obsidiana
+espada de madeira
+espada de pedra
+espada de obsidiana
+picareta de ferro
+picareta de madeira
+picareta de pedra
+picareta de cobre
+picareta de obsidiana
+balde
+balde de agua
+balde de lava
+taxa_durabilidade_comum
+taxa_durabilidade_incomum
+taxa_durabilidade_raro
+taxa_durabilidade_legendario
+capacete
+peitoral
+calca
+botas
+espada
+adaga
+adaga_envenenada
+capacete
+peitoral
+calca
+botas
+espada de ferro
+adaga
+adaga_envenenada
+espada de cobre
+espada de obsidiana
+espada de madeira
+espada de pedra
+espada de obsidiana
+picareta de ferro
+picareta de madeira
+picareta de pedra
+picareta de cobre
+picareta de obsidiana
+balde
+balde de agua
+balde de lava
+vida
+vida
+vida
+VOCÊ MORREU
+exp
+nome
+não desista você ainda tem um caminho pela frente
+exp
+vida
+deseja continuar? [S] ou [N]: 
+n
+salvando o progresso...
+vida
+picareta de pedra
+picareta de pedra
+picareta de madeira
+picareta de madeira
+picareta de ferro
+picareta de ferro
+picareta de cobre
+picareta de cobre
+picareta de obsidiana
+picareta de obsidiana
+espada de madeira
+espada de madeira
+espada de pedra
+espada de pedra
+espada de ferro
+espada de ferro
+espada de cobre
+espada de cobre
+espada de obsidiana
+espada de obsidiana
+balde
+balde
+balde de lava
+balde de lava
+balde de agua
+balde de agua
+capacete
+capacete
+capacete
+capacete
+peitoral
+peitoral
+peitoral
+peitoral
+calcas
+calcas
+calcas
+calcas
+botas
+botas
+botas
+botas
+adaga
+adaga
+adaga
+adaga
+adaga_envenenada
+adaga_envenenada
+adaga envenenada
+adaga_envenenada
+goblin
+aranha
+slime
+caracol maligno
+gorthak o tirano da pedra
+moedas
+espada de pedra
+adaga
+picareta de madeira
+machado de madeira
+capacete
+peitoral
+calças
+botas
+poção exp
+pão
+carne
+batata
+poção de stamina
+diamantes
+bruxo
+cavaleiro
+goblin
+monstro
+mercador
+======itens equipados======
+cabeca
+
+cabeca
+Nenhum
+tronco
+
+tronco
+Nenhum
+pernas
+
+pernas
+Nenhum
+pes
+
+pes
+Nenhum
+mao direita
+
+mao direita
+Nenhum
+mao esquerda
+
+mao esquerda
+Nenhum
+	cabeça ------
+cabeca
+	tronco ------
+tronco
+	pernas ------
+pernas
+	pés	------
+pes
+
+missao aceitada
+missoes dorian
+missoes ferreiro
+missoes mineiro
+
+dorian
+missoes dorian
+compre uma espada de pedra para dorian\nRECOMPENSAS:\n515 moedas\n100 EXP
+[S]sim\n[N]não
+s
+nome
+missao aceitada
+vá para a loja comprar uma espada de pedra
+ok...sem problema,tente voltar aqui depois por favor!....
+nome
+[1]conversar
+[2]trocar itens
+[3]fazer missões
+ruinas de eldora
+[4]pedir para o acompanhar as ruinas
+[0]sair
+o que deseja fazer?
+4
+ruinas de eldora
+ok..eu te acompanho até lá..
+dorian
+0
+adeus....
+1
+dorian
+3
+nome
+missoes dorian
+como estou ainda muito cansado eu queria pedir um favor para você,na verdade seria uma missão,o que me diz?
+dorian
+vida
+vida
+[1]Atacar
+[2]Defender
+[3]Usar habilidade
+[4]Trocar com aliados
+[5]Usar o inventário
+[6]Gerenciar golens
+[7]Ver status
+[0]Sair da batalha
+Qual opção deseja usar?
+0
+você sai da batalha silenciosamente
+1
+vida
+dano
+dano
+vida
+dano
+dano
+dinheiro_barman
+dinheiro_barman
+esse segredo doi até o osso...
+neverland\nstudio
+small
+
+_
+the legends of eldora
+small
+pressione enter para continuar
+
+areas
+npcs
+enemies
+items
+
+		Carrega um mod de qualquer caminho (.py) e integra ao jogo.
+		game: dicionário que representa o estado do jogo
+		
+mod_module
+get_mod_info
+name
+Sem nome
+author
+Desconhecido
+add_content
+name
+Sem nome
+escreva o nome do mod com a extensão .py no nome
+
+algum erro foi ocorrido...
+dados_jogador
+salvamento_dados
+upgrades
+aliados
+valor_habilidade
+dados_evolucao_nivel
+amigos_conectados
+salvamento_dados2
+dados_itens_equipados
+dados_taverna
+memoria_ferreiro
+dados_mineiro
+horario
+dados_vilas
+dados_jogador_server
+primeira_vez_ruina
+dados_jogador_golem
+slots
+tloe_save.json
+w
+ Jogo salvo com sucesso!
+Picos Congelados de NorthHills
+em uma longa escalada para chegar ao topo dos picos congelados.....
+você.....você finalmente chegou ao topo,foi gratificante ter realizado esse grande marco...mas eu olho pro outro lado do pico....
+ELDORA???????
+era tudo verdade então....
+você encontrou o reino de uma historia que tanto marcou sua infancia
+você depois dessa longa expedição você decide ficar por lá
+[Dorian]eu estou muito exausto....vou passar essa noite numa cabana
+deseja gerenciar a Guilda?[S]Sim ou [N]Não
+n
+s
+O que deseja fazer?
+[1]Remover aliados
+[2]Ver status dos aliados
+[3]equipar itens em aliados
+[0]sair do menu
+
+0
+1
+qual aliado deseja remover?
+esse aliado não existe na sua guilda
+tloe_save.json
+tloe_save.json
+r
+dados_jogador
+salvamento_dados
+upgrades
+aliados
+valor_habilidade
+salvamento_dados2
+dados_jogador2
+dados_jogador3
+dados_jogador4
+amigos_conectados
+dados_itens_equipados
+dados_taverna
+memoria_ferreiro
+dados_mineiro
+dados_vilas
+horario
+dados_jogador_server
+slots
+dados_jogador_golem
+Progresso carregado com sucesso!
+desculpe....mas você não tem nenhum save disponivel o que resultara no fechamento do jogo
+The Legends Of Eldora, todos os direitos reservados a Luiz Gustavo luizsgustavo76@gmail.com
+Bem-vindo ao reino de Eldora
+Seu objetivo em Eldora é pegar os 10 artefatos para reinstaurar a paz no reino.
+O que deseja fazer?\n[1]novo jogo\n[2]carregar um jogo salvo\n[3]carregar um mod\n[4]creditos\n[5]sair: 
+2
+nome
+4
+jogo somente feito por Luiz Gustavo
+começo do desenvolvimento do projeto em fevereiro de 2025
+instagram:luizsgustavo75
+Email:luizsgustavo76@gmail.com
+site oficial:thelegendsofeldora.wordpress.com
+aperte enter ou 0 para sair
+0
+
+3
+5
+até mais...
+1
+nome
+Por favor, escolha seu nome: 
+nome
+motherfucker
+Cheat ativado,menu de trapaças
+quantos de moedas?
+qual nivel?
+quantos diamantes?
+moedas
+nivel
+diamantes
+Bem-vindo ao reino de Eldora, por favor escolha sua classe:
+(1) Bruxo,\n(2) Cavaleiro,\n(3) Goblin,\n(4) Monstro\n(5) Mercador: 
+1
+2
+3
+4
+5
+classe
+Opção inválida
+nome
+classe
+exp
+exp para evoluir
+nivel
+nivel
+exp para evoluir
+exp
+exp para evoluir
+exp
+exp
+horas
+minutos
+Você chegou ao centro de Eldora. O que deseja fazer?
+centro
+
+dados_taverna
+reputacao_por_upgrades_taverna
+registro_acoes
+upgrades_taverna
+[1] Ir à taverna
+[2] Ver seus status
+[3] Ir para sua casa
+[4] Sair do jogo
+[5] Ir à loja
+[6] Ir no inventário
+[7] Enciclopédia
+[8] Ver conquistas
+[9] Salvar jogo
+[10] Carregar jogo
+[11] upgrades
+[12] guilda
+[13] arena infinita
+[14] centro mercantil de eldora
+[15] abrir o mapa
+[16] ferreiro
+O que vai fazer? 
+teste_novo_motor_actionsmoves_ia 1.0
+19
+17
+teste_server
+teste_chat_multiplayer
+teste bau
+16
+ferreiro
+=====ferreiro=====
+olá,bem vindo ao ferreiro,aqui você pode forjar seus equipamentos e golens
+cobre
+carvão
+ferro
+ouro
+diamante
+obsidiana
+lava
+espada
+picareta
+enxada
+pa
+rubi
+esmeralda
+The Legends Of Eldora
+nome
+=====ferreiro=====
+[1]forjar equipamento
+[2]encantar itens
+[3]concertar itens
+[4]forjar golem
+[5]conversar
+[6]vender itens
+[7]fazer missões
+[0]sair
+qual opção tu queres
+4
+um golem para ter dar uma força..bela escolha meu jovem
+horas
+cobre
+amuleto das almas
+golem de cobre
+ferro
+amuleto das almas
+golem de cobre
+pedra
+amuleto das almas
+golem de pedra
+obsidiana
+amuleto das almas
+golem de obsidiana
+madeira
+amuleto das almas
+golem de madeira
+rubi
+amuleto das almas
+golem de rubi
+esmeralda
+amuleto das almas
+golem de esmeralda
+diamante
+amuleto das almas
+golem de diamante
+ouro
+amuleto das almas
+golem de ouro
+com seus itens você consegue fazer os seguintes golens
+qual golem deseja criar?digite [0] para sair
+0
+moedas
+moedas
+amuleto das almas
+itens
+itens
+6
+[ferreiro]vejamos que você quer vender seus itens,aqui é uma boa escolha!
+itens suportados
+====minerios====
+Carvão
+Cobre
+Ferro
+pedra
+Ouro
+Diamante
+Obsidiana
+Rubi
+Esmeralda
+equipamentos e ferramentas
+armaduras de madeira,cobre,diamante,ferro,ouro e obsidiana\n espada de diamante,pedra,madeira,ouro,obsidiana,cobre,ferro\nmachado de diamante,pedra,madeira,ouro,obsidiana,cobre,ferro\nenxada de diamante,pedra,madeira,ouro,obsidiana,cobre,ferro,pá de diamante,pedra,madeira,ouro,obsidiana,cobre,ferro\npicareta de diamante,pedra,madeira,ouro,obsidiana,cobre,ferro\n
+qual item deseja vender?
+[S] OU [N]
+s
+dinheiro
+moedas
+[ferreiro]desculpe mas eu não compro esse tipo de item
+0
+classe
+5
+Conversa com o ferreiro:
+tipos de conversa
+[1]modo livre
+[2]perguntas predefinidas
+*modo livre-escreva qualquer coisa
+qual modo deseja conversar
+2
+=====FERREIRO=====
+qual assunto deseja conversar?
+[1]economia
+[2]ajuda
+[3]batalha
+[4]elogiar
+[5]locais
+[6]climas
+[0]sair
+
+0
+classe
+1
+[1]seus preços são muito altos
+[2]seus preços são muito baixos
+[3]a economia de eldora é muito ruim
+[4]a economia de eldora é muito boa
+
+1
+olha...\ndesculpa,a economia de eldora não está muito boa hoje em dia
+2
+que bom saber disso por que hoje em dia em eldora está tudo mais dificil de comprar
+3
+isso é verdade pois a 5 anos atras aquele rei prometia voltar a epoca de ouro de eldora mas aconteceu o contrario agora passamos pela essa idade das trevas
+4
+.....\nvocê não sabe o que eu e as outras pessoas passamos,você chegou agora nesse reino ...
+2
+o que eu poderia lhe ajudar?
+1
+DIALOGO>>>
+vezes_perguntas
+12
+guilda
+====guilda====
+
+VOCÊ NÃO TEM NENHUM ALIADO
+15
+mapa
+=====MAPA=====
+====ELDORA====
+
+
+######VILAS#####
+[1]Rimvark
+[2]Ebrenthal
+[3]Vangurd
+[4]Nocten
+######AREAS ABERTAS#####
+[5]Floresta das almas
+[6]Deserto da morte
+[7]Mina de Eldora
+[8]Ruinas de Eldora
+areas
+####AREAS ADICIONADAS POR MODS#####
+[0]sair
+qual area deseja ir?
+8
+ruinas de eldora
+dorian
+esse lugar....é totalmente desconhecido e hostíl é melhor eu chamar meu companheiro Dorian pra tentar me ajudar...
+1
+rimvark
+0
+2
+ebranthal
+3
+vangurd
+4
+nocten
+7
+mina
+6
+inventario
+[1]abrir o inventário
+[2]usar equipamentos
+[3]gerenciar golens
+[0]sair
+qual função deseja usar
+3
+0
+1
+Escolha um item para usar\nou aperte [0] para sair
+2
+espada
+capacete
+peitoral
+calcas
+botas
+adaga
+adaga_envenenada
+armadura_sombria
+_
+ 
+
+ 
+capacete
+peitoral
+calcas
+espada
+adaga
+adaga_envenenada
+adaga_envenenada
+botas
+cabeca
+capacete
+defesa
+capacete
+tronco
+peitoral
+defesa
+peitoral
+pernas
+calças
+defesa
+calcas
+pes
+botas
+esquivar
+botas
+mao direita
+espada
+dano
+espada
+qual item deseja\nequipar?
+picareta de pedra
+picareta de pedra
+picareta de pedra
+o item 'picareta de pedra' foi equipado
+mao direita
+botas
+você não tem esse item no inventário 
+picareta de madeira
+picareta de madeira
+picareta de madeira
+o item 'picareta de madeira' foi equipado
+mao direita
+botas
+você não tem esse item no inventário 
+picareta de ferro
+botas
+picareta de ferro
+o item 'picareta de ferro' foi equipado
+mao direita
+picareta de ferro
+você não tem esse item no inventário 
+picareta de cobre
+picareta de cobre
+picareta de cobre
+o item 'picareta de cobre' foi equipado
+mao direita
+botas
+você não tem esse item no inventário 
+picareta de obsidiana
+picareta de obsidiana
+picareta de obsidiana
+o item 'picareta de obsidiana' foi equipado
+mao direita
+picareta de obsidiana
+você não tem esse item no inventário 
+espada de pedra
+espada de pedro
+picareta de obsidiana
+o item 'espada de pedra' foi equipado
+mao direita
+espada de pedra
+você não tem esse item no inventário 
+espada de madeira
+espada de madeira
+espada de madeira
+o item 'espada de madeira' foi equipado
+mao direita
+espada de madeira
+você não tem esse item no inventário 
+espada de ferro
+espada de ferro
+espada de ferrl
+o item 'espada de ferro' foi equipado
+mao direita
+espada de ferro
+você não tem esse item no inventário 
+espada de cobre
+espada de cobrw
+espada de cobre
+o item 'espada de cobre' foi equipado
+mao direita
+espada de cobre
+você não tem esse item no inventário 
+espada de obsidiana
+espada de obsidiana
+espada de obsidiana
+o item 'espada de obsidiana' foi equipado
+mao direita
+espada de obsidiana
+você não tem esse item no inventário 
+balde
+balde
+balde
+o item 'balde' foi equipado
+mao esquerda
+balde
+você não tem esse item no inventário 
+capacete
+capacete
+capacete
+o item 'capacete' foi equipado
+cabeca
+capacete
+você não tem esse item no inventário 
+peitoral
+peitoral
+peitoral
+o item 'peitoral' foi equipado
+tronco
+peitoral
+você não tem esse item no inventário 
+calças
+calcas
+calcas
+calcas
+o item 'calças' foi equipado
+pernas
+calças
+você não tem esse item no inventário 
+botas
+botas
+botas
+o item 'botas' foi equipado
+pes
+botas
+você não tem esse item no inventário 
+teste_barra_vida
+teste_batalha
+14
+teste_golem
+aviso isso é um comando de testes internos!
+13
+arena infinita
+BEM VINDO A ARENA INFINITA
+qual modo deseja jogar
+[1]facil
+[2]medio
+[3]dificil
+[4]INFERNO
+
+1
+2
+3
+4
+vida
+UM MONSTRO APARECEU
+VIDA:
+vida
+VIDA MONSTRO:
+onda:
+
+[1]atacar
+[2]defender
+[3]habilidade
+[4]trocar aliado
+[5]inventario
+[6]fugir
+escolha uma opçao
+3
+5
+você abre seu inventario
+=======INVENTARIO=======
+escolha um item para usar:
+1
+dano
+mao esquerda
+mao direita
+adaga
+VOCÊ DEU ATAQUE CRITICO!!!!!
+dano
+você esta com o efeito do ataque selvagem
+hp:
+vida
+[1]atacar
+1
+dano
+hp:
+vida
+[1]atacar
+você atacou o monstro
+dano
+vida
+4
+aliados de
+nome
+[0]sair
+antigo_guerreiro
+[1]antigo guerreiro
+bebado
+[2]bebado
+qual aliado deseja trocar
+2
+bebbado
+[1]trocar
+[2]ver status
+escolha uma opção
+1
+vida
+vida
+nivel
+nivel
+dano
+dano
+defesa
+defesa
+vida
+vida
+nivel
+nivel
+dano
+dano
+defesa
+defesa
+você trocou com o bebado
+2
+========STATUS=======
+vida
+vida
+dano
+dano
+defesa
+defesa
+nivel
+nivel
+para sair aperte [0]
+0
+tente novamente
+1
+antigo_guerreiro
+[1]trocar
+[2]ver status
+escolha uma opção
+2
+=========STATUS==========
+vida
+vida
+dano
+dano
+defesa
+defesa
+nivel
+nivel
+para sair coloque [0]
+0
+resposta invalida
+1
+você trocou com o antigo guerreiro
+vida
+vida
+defesa
+defesa
+dano
+dano
+vida
+vida
+dano
+dano
+defesa
+defesa
+2
+mana
+voce consegue se defender
+o ataque volta para o inimigo
+defesa
+mana
+você não tem mana o suficiente!
+6
+você conseguiu escapar da batalha
+você não conseguiu escapar da batalha
+vida
+o lucro maximo está ativado
+moedas
+moedas
+moedas
+moedas
+moedas
+você ganhou placa de madeira
+placa_madeira
+você ganhou placa de ferro
+placa_ferro
+você ganhou espada de madeira
+espada_madeira
+você ganhou escudo de madeira
+escudo_madeira
+você ganhou capacete de madeira
+capacete_madeira
+você ganhou uma barra de cobre
+barra_cobre
+você ganhou espada de ferro
+espada_ferro
+você ganhou escudo de ferro
+escudo_ferro
+você ganhou capacete de ferro
+capacete_ferro
+pipeta_cobre
+você ganhou
+
+você ganhou pepita de ouro
+pipeta_ouro
+você ganhou uma barra de ferro
+barra_ferro
+você ganhou uma barra de prata
+barra_prata
+você ganhou barra de ouro
+barra_ouro
+exp
+11
+upgrades
+======upgrades======
+pontos_upgrades
+hp_max
+mana_max
+dano_max
+escolha o upgrade ou\n[0]pra sair
+0
+2
+status
+\n==== SEUS STATUS ====
+\nDigite (0) para voltar ao menu principal: 
+0
+7
+Você abriu sua enciclopédia
+Aperte 0 para sair
+0
+Você saiu da enciclopédia
+8
+Suas conquistas
+Conquista da espada: Obtenha a espada
+Conquista do pão: Você comprou um pão
+Conquista do bêbado: Fale com o bêbado
+aperte 0 para sair
+1
+taverna
+Barman: Bem-vindo à taverna! Aqui você pode conversar, beber e lutar por dinheiro.
+[1] Conversar com um bêbado
+[2] Conversar com o barman
+[3] ir para o canto da taverna
+O que deseja fazer? 
+1
+Você vai conversar com o bêbado.
+Bêbado: O que tu quer?
+[1]conversar
+[2]sair
+escolha uma das opçoes
+1
+você escolheu conversar com o bebado,o que queres falar?
+[1].porque você sempre esta aqui?
+[2].você não se cansa de sempre ficar aqui.porque não visitar a sua familia.
+[3]porque você tem sempre uma cara de depressivo?
+
+1
+bebado:porque não tenho mais lugares para esconder minha depressão
+depois de ouvir isso vc fica comovido e vai embora
+2
+depois dos eventos que destruiram o reino,perdi a minha razão de viver e agora estou aqui bebe do para esquecer do meu passado
+você reflete com a fala dele e vai embora questionando a sua propia vida
+3
+por que nesse mundo não adianta o que você faça  sempre tentarão te desanimar e desistir de seus sonhos,isso que a inveja faz com as pessoas,se elas ve que você tem uma vida bem prospera vão tentar tirar de ti em vez de correr atras.
+você reflete com a fala dele e vai embora questionando a sua propria vida
+3
+você foi para o canto da taverna e vê um baú, uma mesa e um antigo cavaleiro
+o que fazer?
+[1]conversar com um antigo heroi
+[2]conversar com um comerciante sombrio
+[3]checar o baú
+[4]sentar-se numa mesa
+
+4
+frequentadores
+você chega lentamente numa mesa...há muitas pessoas ali,vou chegar mais perto
+você chega naquela mesa...mas o percebe que niguem está sentado nela
+[1] pedir alguma bebida
+[2] pedir alguma comida
+[3] abrir seu inventario
+frequentadores
+[4] puxar assunto com alguem do seu lado
+[0] se levantar da mesa
+o que deseja fazer?
+0
+você levanta lentamente da mesa
+3
+2
+olá meu caro aprendiz...eu tenho coisas que os outros não vendem...vem cá e se acomoda-se
+lembrando que meus itens são vendidos por diamantes...
+[1]ver estoque
+[2]vender itens
+[3]liquidar itens
+[4]negociar e trocar
+[5]conversar
+[0]sair
+o que deseja fazer?
+0
+adeus....ande pelas sombras por que quem brilha muito atrai a escuridão...
+1
+voce chega no heroi e comprimenta ele
+ele te comprimenta devolta e pergunta em que ele poderia ajudar
+[1]o que aconteceu com esse reino?
+[2]quem governava eldora antes?
+[3]o que tem naquela masmorra
+[4]quer se juntar ao meu bando?
+o que quer perguntar?
+1
+a 5 anos atrás,monstros,bestas e maldiçoes começaram a atacar o reino e ai só sobriviveu os cavaleiros,herois e destemidos
+(1)porque o bebado sobreviveu?
+(2)sabe se o porque todo mundo morreu?
+(3)sair
+
+1
+então né,nem sei como esse pinguço foi parar aqui
+2
+sei sim depois de tudo que aconteceu os monstros pegaram os 10 artefatos,eles sustentavam tudo que existia em eldora
+3
+muito obrigado por informar meu caro heroi
+2
+era o rei Dargan,ele causao a queda do reino pois na ligava para a segurança do povo e fez um pacto com o diabo
+3
+niguem se sabe pois o que entraram nunca mais voltaram
+4
+eu aceitaria essa proposta mas com um porem,de todos os ganhos que tiver na batalha, 20% sera meu.
+voce aceita essa proposta?(s) ou (n)
+s
+antigo_guerreiro
+então está bom
+no menu tera a opção de guilda,la voce pode gerenciar seus aliados
+2
+Barman: O que deseja fazer?
+[1] Conversar
+[2] Pedir para entrar na luta
+[3] upgrades da taverna
+[4] comprar bebidas
+O que você quer fazer? 
+4
+então vejo que está\ninteressado na minha mercadoria,vejamos que só tenho um estoque\nhumilde e pequeno
+BARMAN:
+dinheiro_barman
+======BEBIDAS=======
+[0]sair
+classe
+0
+ao sair o barman fica contente que você comprou algo
+-barman:eu entendo sei que meu estoque ainda não está atraente
+-barman:volte sempre
+velho barreiro
+velho barreiro
+velhos barreiros
+
+quantas velhos barreiros o senhor queiras comprar?
+velho barreiro
+velho barreiro
+velho barreiro
+moedas
+moedas
+estoque_velho_barreiro
+moedas
+[S/N]
+s
+sim
+velho_barreiro
+moedas
+dinheiro_barman
+estoque_velho_barreiro
+
+estoque_velho_barreiro
+vodka
+vodka
+vodkas
+
+quantas vodkas o senhor queiras comprar?
+vodka
+vodka
+vodka
+moedas
+moedas
+estoque_vodka
+moedas
+[S/N]
+s
+sim
+vodka
+moedas
+dinheiro_barman
+estoque_vodka
+
+estoque_vodka
+cerveja
+cerveja
+cervejas
+
+quantas cervejas o senhor queiras comprar?
+cerveja
+cerveja
+cerveja
+moedas
+moedas
+estoque_cerveja
+moedas
+[S/N]
+s
+sim
+cerveja
+moedas
+dinheiro_barman
+estoque_cerveja
+
+estoque_cerveja
+cachaça mineira
+cachaça mineira
+cachaças mineiras
+
+quantas cachaças mineiras o senhor queiras comprar?
+cachaça mineira
+cachaça mineira
+cachaça mineira
+moedas
+moedas
+estoque_cachaça_mineira
+moedas
+[S/N]
+s
+sim
+cachaça_mineira
+moedas
+dinheiro_barman
+estoque_cachaça_mineira
+
+estoque_cachaça_mineira
+pinga de mel
+pinga de mel
+pingas de mel
+
+quantas pingas de mel o senhor queiras comprar?
+pinga de mel
+pinga de mel
+pinga de mel
+moedas
+moedas
+estoque_pinga_de_mel
+moedas
+[S/N]
+s
+sim
+pinga_de_mel
+moedas
+dinheiro_barman
+estoque_pinga_de_mel
+
+estoque_cachaça_mineira
+3
+vejo que está querendo dar uma melhorada por aqui....
+qual upgrade deseja fazer?[0] para sair: 
+0
+[barman] muito obrigado meu jovem...
+melhorias_taverna
+moedas
+moedas
+a taverna ficou mais bonita... e mais cara.
+moedas insuficientes, meu jovem...
+esse upgrade ainda não existe nos pergaminhos...
+não conheço esse tipo de melhoria...
+1
+barman
+2
+Barman: Que bom que quer entrar na luta!
+Bêbado: Quanto quer apostar?
+moedas
+Digite a quantia: 
+moedas
+Você não tem moedas suficientes para essa aposta!
+Aposta aceita! Vamos lutar!
+vida
+vida
+(1) Atacar
+(2) Fugir
+O que vai fazer? 
+1
+Você atacou! O bêbado perdeu 5 HP.
+moedas
+vida
+O bêbado contra-atacou! Você perdeu 2 HP.
+vida
+Você perdeu a luta!
+moedas
+2
+Você fugiu da luta!
+3
+casa
+você entrou na sua casa
+[1]descansar(recuperar hp)
+[2]conversar com Dorian
+[3]sair de casa
+o que queres fazer
+2
+1
+vida
+2
+você saiu de casa
+escolha invalida
+4
+Obrigado por jogar! Até a próxima.
+5
+loja
+\nMercador: Você entra na loja e o vendedor te apresenta a mercadoria:
+moedas
+selecione a categoria do item
+[1]itens de ataque
+[2]itens de defesa
+[3]itens consumíveis
+[4]outros itens...
+[5]vender itens
+[6]liquidar itens
+[7]conversar
+[0]sair da loja
+
+4
+[0] Retornar
+Qual item deseja comprar? 
+0
+diamantes
+o item diamante foi adicionado
+diamantes
+7
+comerciante de eldora
+0
+[comerciante de eldora] até mais meu viajante!
+2
+[0] Retornar
+Qual item deseja comprar? 
+0
+capacete
+o item capacete de ferro foi adicionado ao inventário 
+capacete
+peitoral
+o item peitoral de ferro foi adicionado ao inventário 
+peitoral
+calças
+o item calças de ferro foi adicionado ao inventário 
+calcas
+botas
+o item botas de ferro foi adicionado ao inventário 
+botas
+5
+1
+[0]retornar
+escolha um item para comprar
+0
+espada de pedra
+espada
+adaga
+adaga
+moedas
+moedas
+3
+[0]retornar
+escolha um item para comprar
+0
+carne
+o item carne foi adicionado ao inventário 
+carne2
+pão
+o item pão foi adicionado ao inventário 
+pao2
+batata
+o item carne foi adicionado ao inventário 
+carne2
+poção exp
+o item poção exp foi adicionado ao inventário 
+pocao_exp2
+moedas
+moedas
+moedas
+moedas
+9
+10
+__main__
