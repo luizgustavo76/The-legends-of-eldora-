@@ -1,2 +1,5 @@
 # The-legends-of-eldora-
-Jogo de RPG começado em 17/02/2025 mas portado para o Github em 09/05/2025
+the legends of eldora é um rpg de texto baseado em jogos de texto dos anos 70/80 como "zork" mas adaptado para mecanicas mais atuais
+projeto 100% em python
+libs usadas:pyfiglet,requests,win10toast.
+inicio do desenvolvimento:17 de fevereiro de 2025
