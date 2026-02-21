@@ -1,0 +1,583 @@
+[1;31 AD
+[1;General
+[1;34 AD
+[1;Uncle
+[0m
+[1;Akham
+[1;Atm
+[1;Ahm
+[paternal uncle
+[He rose
+[1;Ahm
+terminal_cor
+typing speed
+terminal_cor
+
+typing speed
+
+
+hp
+endurance
+damage
+year
+day
+we
+hours
+0
+minutes
+00
+day
+we
+hours
+minutes
+easy
+half
+difficult
+hell
+
+name
+
+class
+
+level
+life
+exp
+coins
+diamonds
+defense
+damage
+exp to evolve
+chat
+
+area
+
+name
+
+class
+
+level
+xp
+local
+
+friends
+
+id online
+000000000
+
+...can I join your guild?
+1
+Thank you very much...I swear I won't disappoint you mate!
+blacksmith
+So that's a no, I understand you
+greeting
+hey
+be
+eai
+eae
+how are you
+you
+you
+your mother
+battle
+battle
+confrontation
+infinite arena
+dungeon
+monster
+guild
+guild
+group
+bunch
+to bring together
+swearing
+son of a bitch
+son of a bitch
+fuck
+fuck
+go fuck yourself
+horn
+fag
+holy shit
+blacksmith
+sword
+helmet
+breastplate
+pants
+boot
+dagger
+golem
+repair
+concert
+equipment
+high price
+low price
+store
+seller
+competition
+friends
+store
+taverna
+barman
+drunk
+taverna
+alcohol
+beer
+drip of honey
+mining cachaça
+vodka
+old barreiro
+villages
+rhyme wark
+ebrenthal
+Vanguard
+nocts
+village
+climate
+rain
+cold
+heat
+sunny
+cloudy
+storm
+help
+help, doubt
+classes
+class
+wizard
+goblin
+knight
+monster
+merchant
+economy
+money
+economy
+npcs
+blacksmith
+seller
+barman
+drunk
+ancient warrior
+golem
+compliments
+good
+excellent
+excellent
+very good
+perfect
+question status
+boring
+sad
+anger
+happy
+fear
+anxious
+farewell
+goodbye
+goodbye
+until later
+until next time
+player_name
+
+f"hello, what would be your name my dear {dados_player['class']} traveler?"
+f"my name.....is {data_player['name']}"
+player_name
+name
+f"hello again, {memoria_ferreiro['nome_player']}"
+greeting
+battle
+let's see that you like to fight...that's good to know
+you like to battle so...I feel alone sometimes after all this...could I join your guild?
+oops...let's fight?
+guild
+swearing
+what is this for......????
+blacksmith
+f"let's see you like my merchandise, would {data_player['name']} like to buy an item or forge it?"
+blacksmith_price
+It's good to know that my prices are affordable for you
+Yeah... I'm sorry if the prices are high... my life isn't in the best conditions, especially when it comes to money
+store
+I don't mind because we are both essences for this kingdom, because we are the only ones
+taverna
+It was a good thing to go to the tavern in ancient times, joy reigning and drinking without worry
+I could go to the tavern, I haven't been there in years
+villages
+I only heard about this and the other villages... I don't know what I feel... an obligation to stay in this smithy... as if every day were the same
+I don't know but one day I will go there
+help
+oops... how can I help you?
+You are interested in the merchandise but need help, right?
+classes
+Don't go wrong, but in that kingdom there were few of your kind, you and I were the most fearless of them
+economy
+something difficult to get easily in Eldorado
+npcs
+my friend..... actually very good people
+compliments
+I'm glad you liked my service, because if you didn't, I wouldn't have another place to buy...
+farewell
+until later
+goodbye
+May God guide your hand
+goodbye
+f"may God guide your hand my {dados_pessoa['classe']}"
+f"[ferreiro]: {random.choice(chat_response) if isinstance(chat_response, list) else chat_response}"
+Are you going to speak correctly or not?
+sorry but I didn't understand what you said
+I think I'm going deaf! Could you repeat?
+f"a {data_player['classe']} stuttering like that! come to your senses, boy"
+blacksmith]: {indefinite answer}"
+barman
+drunk
+blacksmith
+miner
+merchant
+night market
+vanguard market
+ebranthal merchant
+rimvark merchant
+shady salesman
+ancient warrior
+eudora merchant
+rimvark merchant
+vanguard merchant
+ebranthal merchant
+
+blacksmith
+
+you...you came here with the promise to save those who suffered so much just by being there...but you killed them...you killed those who had the hope of a happy kingdom as before...you had that power...and that's why they were there....
+If hope is the last thing to die...you should already be dead. . .
+final genocidia...
+final genocidia
+class
+wizard
+Reaching level 50 is not just an achievement... it's proof that you survived even in the chaos...
+now you can choose a path to follow
+Do you want to become a:
+[1]water wizard
+[2]fire wizard
+[3]wind wizard
+[4]leaf wizard
+Which subclass will you choose? Choose wisely, to have information
+for each sub-class write [i]
+i
+which sub-class do you want to know about?
+[1]water wizard
+[2]fire wizard
+[3]wind wizard
+[4]leaf wizard
+
+1
+water wizard: has aquatic powers for your own good...has attacks like sending a wave to the enemy, this sub-class is quite
+powerful against fire-type enemies
+press enter to continue
+
+2
+fire wizard, has fire attacks like burn and has more advantages against leaf-type enemies
+press enter to continue
+
+=====your skills=====
+your class:
+class
+f"your mana {skill_value['mana']}"
+subclass
+water wizard
+level
+water cut
+level
+class
+knight
+level
+class
+knight
+knight_skill
+level
+class
+knight
+skill_knight2
+level
+class
+knight
+skill_knight3
+level
+class
+knight
+skill_knight4
+class
+wizard
+level
+wizard_skill
+level
+skill_witch2
+level
+skill_witch3
+level
+skill_witch4
+class
+goblin
+level
+goblin_skill
+level
+skill_goblin2
+level
+skill_goblin3
+level
+skill_goblin4
+class
+monster
+level
+monster_skill
+level
+skill_monster2
+level
+skill_monster3
+level
+skill_monster4
+class
+merchant
+level
+merchant_skill
+level
+skill_merchant2
+level
+skill_merchant3
+level
+skill_merchant4
+Which skill do you want to use?
+class
+knight
+knight_skill
+where
+you used
+knight_skill
+where
+you took 10 life from the monster
+f"MONSTER GAVE YOU {monster_damage} DAMAGE!!"
+life
+You don't have enough mana
+skill_knight4
+where
+you received the blessing of the vow of honor
+Your attacks and defenses will be multiplied by 3 but you will not be able to escape and you will receive the critical attack twice as strong
+damage
+defense
+damage
+defense
+where
+you don't have enough mana
+skill_knight3
+you attacked the monster using brutal charge
+-15 mana
+damage
+f"you took {damage_cav3} damage"
+f"the monster took {monster_damage} hp"
+where
+life
+skill_knight2
+you used sacred shield
+you received the sacred blessing
+f"monster attacked dealing {monster_damage} damage"
+f"the reconchiteo shield"
+class
+wizard
+wizard_skill
+where
+you released a fireball
+life
+where
+you don't have enough mana
+skill_witch2
+where
+you release an arcane blast
+the arcane explosion caused the enemy to burn
+life
+the arcane explosion caused damage but did not cause burns
+where
+You don't have enough mana
+skill_witch3
+where
+you used dark curse on the enemy
+where
+You don't have enough mana
+skill_witch4
+where
+f"you drained the enemy's soul causing {drain_value}"
+f"The Monster attacked you, dealing {monster_damage} damage"
+life
+where
+You don't have enough mana
+class
+monster
+monster_skill
+where
+where
+you give a terrifying roar
+the roar made the monster flee
+the roar did nothing
+monster attacked you with fury
+life
+f"monster attacked taking {monstro_attack_furia} hp"
+skill_monster2
+where
+where
+with the bite your damage doubled in this special attack
+damage
+skill_monster3
+where
+where
+with wild rage you can make two attacks at once
+skill_monster4
+where
+you are regenerating in a supernatural way
+life
+where
+class
+merchant
+skill_merchant4
+where
+you use the maximum profit skill
+skill_merchant3
+where
+you use the persuasion attack
+monster tries to attack you
+monster missed attack
+monster hit attack
+life
+skill_merchant2
+where
+where
+heals 20 coins
+defense 15 coins
+damage 10 coins
+select an item to purchase
+cure
+coins
+you were healed
+coins
+coins
+coins
+life
+you don't have enough coins
+defense
+coins
+coins
+coins
+coins
+defense
+your defense increased by 5
+you don't have enough money...
+damage
+coins
+your damage increased by 5
+coins
+coins
+coins
+damage
+you don't have enough coins
+merchant_skill
+where
+coins
+you are bribing the monster
+where
+coins
+the monster accepted the proposal
+the monster left
+the monster didn't accept the proposal
+the monster returned the money
+coins
+the monster stole your money
+class
+goblin
+skill_goblin4
+where
+YOU ARMED A BOMB
+BOMB EXPLODING IN
+3
+2
+1
+the bomb exploded causing 10 damage
+life
+skill_goblin3
+where
+you used the mock attack
+skill_goblin2
+where
+This skill makes instant escape, do you want to use this skill? [s] or [n]
+s
+you escaped the battle
+where
+n
+your mana will not be spent
+invalid answer
+goblin_skill
+where
+f"you throw a dagger from afar and deal {dagger damage} damage"
+the monster can't hit you because it's too far away
+where
+copper golem
+coins
+items
+copper bar
+amulet of souls
+wooden golem
+coins
+items
+wood
+amulet of souls
+iron golem
+coins
+items
+iron bar
+amulet of souls
+stone golem
+coins
+items
+stone
+amulet of souls
+obsidian golem
+coins
+items
+obsidian
+amulet of souls
+ruby golem
+coins
+items
+ruby
+amulet of souls
+emerald golem
+coins
+items
+emerald
+amulet of souls
+golden golem
+coins
+items
+gold bar
+amulet of souls
+diamond golem
+coins
+items
+diamond
+amulet of souls
+https://translate.google.com/translate?hl=pt-BR&sl=auto&tl=en&u=https://luizsgustavo76.pythonanywhere.com/get
+You are currently without internet or the server is down...please come back later if the problem persists...
+https://translate.google.com/translate?hl=pt-BR&sl=auto&tl=en&u=https://luizsgustavo76.pythonanywhere.com/update
+chat
+your message
+or type reload to reload the chat
+reload
+r
+utf-8
+In
+utf-8
+name
+Friend
+life
+life_max
+area
+unknown
+items
+gold
+chat
+f"[SERVER] IP: {host} - waiting for connection from friend..."
+f"[SERVER] Connected friend: {address}"

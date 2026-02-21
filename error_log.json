@@ -1,0 +1,9 @@
+{
+    "data": "2026-02-01 20:59:09",
+    "arquivo": "tloe.exe",
+    "arquivo_path": "/home/luiz/tloe_10.0/codigo tloe/tloe.exe",
+    "local_no_jogo": null,
+    "ultimo_stdin": null,
+    "ultimo_stdout": null,
+    "erro": "FileNotFoundError('tloe.exe não encontrado')"
+}

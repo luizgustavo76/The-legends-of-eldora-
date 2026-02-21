@@ -18,6 +18,11 @@ tipos_acoes_contraditorias = {
     "debuff":"buff",
     "habilidade":"defesa",
 }
+<<<<<<< HEAD
+import random
+
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 clientes_taverna = [
     "Afonso", "Alvaro", "Antão", "Baltasar", "Belchior", "Bento",
     "Brás", "Calisto", "Cristóvão", "Duarte", "Estêvão", "Eusébio",
@@ -42,6 +47,10 @@ clientes_taverna = [
     "Matilde", "Mência", "Oriana", "Quitéria", "Raimunda",
     "Sancha", "Serafina", "Teodora", "Violante"
 ]
+<<<<<<< HEAD
+
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 requisitos = [
     "mesas nivel 1", "mesas nivel 2", "mesas nivel 3", "mesas nivel 4", "mesas nivel 5",
     "bancos nivel 1", "bancos nivel 2", "bancos nivel 3", "bancos nivel 4", "bancos nivel 5",
@@ -51,16 +60,27 @@ requisitos = [
     "iluminação nivel 1", "iluminação nivel 2", "iluminação nivel 3", "iluminação nivel 4", "iluminação nivel 5",
     "loja sombria nivel 1", "loja sombria nivel 2", "loja sombria nivel 3", "loja sombria nivel 4", "loja sombria nivel 5",
 ]
+<<<<<<< HEAD
+
+requisitos_clientes_taverna = []
+
+=======
 requisitos_clientes_taverna = []
 #gera npcs para frenquetar e habitar locais
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 class gerar_npcs:
     def __init__(self, contexto_tloe, upgrades_taverna):
         self.nome = ""
         self.local = ""
         self.numero_requisitos_concluidos = 0
         self.tloe = contexto_tloe
+<<<<<<< HEAD
+
+    def npc_taverna(self):
+=======
     def npc_taverna(self):
 
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
         self.nome = random.choice(clientes_taverna)
         self.local = "taverna"
 
@@ -71,18 +91,27 @@ class gerar_npcs:
         })
 
         for i in range(3):
+<<<<<<< HEAD
+=======
 
             # Gera requisito corretamente
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
             tipo = random.choice(list(self.tloe["reputacao_por_upgrades_taverna"].keys()))
             nivel = random.randint(1, 5)
             requisito = f"{tipo} nivel {nivel}"
 
+<<<<<<< HEAD
+=======
             # Segurança: se algo errado nascer, ignora
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
             partes = requisito.split()
             if len(partes) != 3 or partes[1] != "nivel" or not partes[2].isdigit():
                 continue
 
+<<<<<<< HEAD
+=======
             # Evita repetir requisito
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
             if requisito in requisitos_clientes_taverna[-1]["requisitos"]:
                 continue
 
@@ -92,11 +121,19 @@ class gerar_npcs:
             requisitos_clientes_taverna[-1]["reputacao_minima"] += \
                 self.tloe["reputacao_por_upgrades_taverna"][tipo].get(chave_nivel, 0)
 
+<<<<<<< HEAD
+    def verificar_requisitos_clientes_taverna(self):
+        self.numero_requisitos_concluidos = 0  # correção
+
+        npc = requisitos_clientes_taverna[-1]
+
+=======
 
 
     def verificar_requisitos_clientes_taverna(self):
         npc = requisitos_clientes_taverna[-1]
         
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
         if npc["reputacao_minima"] <= self.tloe["dados_taverna"]["reputação taverna"]:
             self.numero_requisitos_concluidos += 1
 
@@ -110,6 +147,29 @@ class gerar_npcs:
 
                 if nivel_atual >= nivel_necessario:
                     self.numero_requisitos_concluidos += 1
+<<<<<<< HEAD
+
+    def adicionar_npc_a_taverna(self, upgrades_taverna, dados_taverna):
+        pode_entrar_taverna = False
+        npc = requisitos_clientes_taverna[-1]
+        requisitos_concluidos = 0
+
+        for requisito in npc["requisitos"]:
+            partes = requisito.split()
+            item = partes[0]
+            nivel_necessario = int(partes[2])
+
+            if item in upgrades_taverna:
+                if upgrades_taverna[item] >= nivel_necessario:
+                    requisitos_concluidos += 1
+
+        if requisitos_concluidos == 3 and \
+           dados_taverna["reputação taverna"] >= npc["reputacao_minima"]:
+            pode_entrar_taverna = True
+
+        if pode_entrar_taverna:
+            dados_taverna["frequentadores"].append(npc)
+=======
     def adicionar_npc_a_taverna(self, upgrades_taverna, dados_taverna):
         pode_entrar_taverna = False
         requisitos_concluidos = 0
@@ -126,11 +186,16 @@ class gerar_npcs:
             for npcs in requisitos_clientes_taverna:
                 dados_taverna["frequentadores"].append(npcs)
 
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 
     def iniciar_npc(self, upgrades_taverna, dados_taverna):
         self.npc_taverna()
         self.verificar_requisitos_clientes_taverna()
         self.adicionar_npc_a_taverna(upgrades_taverna, dados_taverna)
+<<<<<<< HEAD
+
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 def npcs():
     locais_npcs = {
         "barman":"taverna",

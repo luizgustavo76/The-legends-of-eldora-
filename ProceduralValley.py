@@ -30,8 +30,11 @@ class proceduralValley:
             posicao_seed += 1
 
 
+<<<<<<< HEAD
+=======
 classe = proceduralValley()
 classe.gerador_matriz()
 print(matriz_terreno)
 classe.gerar_seed()
 print(classe.seed)
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f

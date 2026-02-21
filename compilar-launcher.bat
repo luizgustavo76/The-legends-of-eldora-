@@ -1,0 +1,1 @@
+pyinstaller --onefile --hidden-import customtkinter --add-data autorun.bat;. --add-data install.bat;. --add-data dist/SecurityAndLog.exe;. --noconsole --icon tloe_logo4.ico dist/tloe_launcher_oficial.py

@@ -1,0 +1,535 @@
+{
+    "receitas": {
+        "itens_necessarios": {
+            "adaga":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "barra_cobre":{
+                "itens_necessarios":{
+                    "cobre":9
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "pocao_exp2":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":false
+            },
+            
+            "pao2":{
+                "itens_necessarios":{
+                    "trigo":3
+                },
+                "banca_de_trabalho_necessario":false
+            },
+            "pocao_de_stamina2":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":false
+            },
+            "adaga_envenenada2":{
+                "itens_necessarios":{
+                    "adaga":1,
+                    "poção arremassável de veneno":1
+                },
+                "banca_de_trabalho_necessario":false
+            },
+            
+            "balde":{
+                "itens_necessarios":{
+                    "ferro":5
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "picareta de obsidiana":{
+                "itens_necessarios":{
+                    "obsidiana":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "picareta de cobre":{
+                "itens_necessarios":{
+                    "cobre":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "machado de madeira":{
+                "itens_necessarios":{
+                    "tábua de madeira":3,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "machado de pedra":{
+                "itens_necessarios":{
+                    "pedra":3,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "machado de ferro":{
+                "itens_necessarios":{
+                    "ferro":3,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "machado de cobre":{
+                "itens_necessarios":{
+                    "cobre":3,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "machado de obsidiana":{
+                "itens_necessarios":{
+                    "obsidiana":3,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "machado de diamante":{
+                "itens_necessarios":{
+                    "diamante":3,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "cobre":{
+                "itens_necessarios":{
+                    "cobre bruto":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "ferro":{
+                "itens_necessarios":{
+                    "ferro bruto":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "ouro":{
+                "itens_necessarios":{
+                    "ouro bruto":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "amuleto das almas":{
+                "itens_necessarios":{
+                    "ferro":3,
+                    "ouro":1,
+                    "obsidiana":5,
+                    "pocao_exp2":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "espada de rubi":{
+                "itens_necessarios":{
+                    "rubi":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "espada de esmeralda":{
+                "itens_necessarios":{
+                    "esmeralda":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "espada de ferro":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "espada de cobre":{
+                "itens_necessarios":{
+                    "cobre":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "espada de ouro":{
+                "itens_necessarios":{
+                    "ouro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "espada de diamante":{
+                "itens_necessarios":{
+                    "diamante":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "espada de obsidiana":{
+                "itens_necessarios":{
+                    "obsidiana":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "capacete de madeira":{
+                "itens_necessarios":{
+                    "madeira":7
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "capacete de pedra":{
+                "itens_necessarios":{
+                    "pedra":7
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "capacete de cobre":{
+                "itens_necessarios":{
+                    "barra cobre":7
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "capacete de ferro":{
+                "itens_necessarios":{
+                    "barra ferro":7
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "capacete de ouro":{
+                "itens_necessarios":{
+                    "barra ouro":7
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "capacete de rubi":{
+                "itens_necessarios":{
+                    "rubi":7
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "capacete de esmeralda":{
+                "itens_necessarios":{
+                    "esmeralda":7
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "capacete de obsidiana":{
+                "itens_necessarios":{
+                    "obsidiana":7
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "picareta de madeira":{
+                "itens_necessarios":{
+                    "tábua de madeira":3,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "picareta de pedra":{
+                "itens_necessarios":{
+                    "pedra":3,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "picareta de ferro":{
+                "itens_necessarios":{
+                    "ferro":3,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "picareta de ouro":{
+                "itens_necessarios":{
+                    "ouro":3,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "picareta de esmeralda":{
+                "itens_necessarios":{
+                    "esmeralda":3,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "picareta de rubi":{
+                "itens_necessarios":{
+                    "rubi":3,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "picareta de diamante":{
+                "itens_necessarios":{
+                    "diamante":3,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "peitoral de madeira":{
+                "itens_necessarios":{
+                    "tábua de madeira":7
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "peitoral de pedra":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "peitoral de cobre":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "peitoral de ferro":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "peitoral de ouro":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "peitoral de esmeralda":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "peitoral de rubi":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "peitoral de diamante":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "peitoral de obsidiana":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "calça de madeira":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "calça de pedra":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "calça de cobre":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "calça de ferro":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "calça de ouro":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "calça de rubi":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "calça de esmeralda":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "calça de diamante":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "calça de obsidiana":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "botas de madeira":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "botas de pedra":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "botas de cobre":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "botas de ferro":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "botas de ouro":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "botas de rubi":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "botas de esmeralda":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "botas de diamante":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "botas de obidiana":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "enxada de madeira":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "enxada de pedra":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "enxada de cobre":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "enxada de ferro":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "enxada de ouro":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "enxada de rubi":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "enxada de esmeralda":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "enxada de diamante":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            },
+            "enxada de obsidiana":{
+                "itens_necessarios":{
+                    "ferro":2,
+                    "madeira":1
+                },
+                "banca_de_trabalho_necessario":true
+            }
+        }
+    }
+}

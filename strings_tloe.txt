@@ -1,3 +1,22 @@
+<<<<<<< HEAD
+\033[1;31m
+\033[1;32m
+\033[1;34m
+\033[1;33m
+\033[0m
+\033[1;35m
+\033[1;36m
+\033[1;37m
+\033[33m
+\033[92m
+\033[1;37m
+cor_terminal
+velocidade_digitação
+cor_terminal
+
+velocidade_digitação
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 
 
 hp
@@ -25,16 +44,22 @@ classe
 
 nivel
 vida
+<<<<<<< HEAD
+=======
 habilidade espadas
 habilidade magia
 patente nivel
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 exp
 moedas
 diamantes
 defesa
 dano
 exp para evoluir
+<<<<<<< HEAD
+=======
 esquivar
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 chat
 
 area
@@ -51,6 +76,10 @@ amigos
 
 id online
 000000000
+<<<<<<< HEAD
+
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 ...poderei me juntar a sua guilda?
 1
 muito obrigado...juro que não irei te decepcionar companheiro!
@@ -165,11 +194,19 @@ tchau
 até a proxima
 nome_player
 
+<<<<<<< HEAD
+f"olá, qual seria seu nome meu caro {dados_jogador['classe']} viajante?"
+f"meu nome.....é {dados_jogador['nome']}"
+nome_player
+nome
+f"olá de novo, {memoria_ferreiro['nome_player']}"
+=======
 classe
 nome
 nome_player
 nome
 nome_player
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 saudacao
 batalha
 vejamos que você gosta de batalhar....bom saber disso
@@ -179,7 +216,11 @@ guilda
 xingamento
 pra que isso......????
 ferreiro
+<<<<<<< HEAD
+f"vejamos que você gosta da minha mercadoria, {dados_jogador['nome']} gostaria de comprar algum item ou forja-lo?"
+=======
 nome
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 ferreiro_preço
 que bom saber que meus preços estão acessíveis para você
 eh....me desculpa se os preços são altos..minha vida não está nas melhores condições ainda mais na questão de dinheiro
@@ -207,11 +248,21 @@ até mais
 adeus
 que Deus guia a sua mão
 adeus
+<<<<<<< HEAD
+f"que deus guie sua mão meu {dados_jogador['classe']}"
+f"[ferreiro]: {random.choice(resposta_chat) if isinstance(resposta_chat, list) else resposta_chat}"
+vai falar direito ou não?
+desculpa mas não entendi o que você falou
+acho que estou ficando surdo! poderia repetir?
+f"um {dados_jogador['classe']} gaguejando desse jeito! toma juízo rapaz"
+f"[ferreiro]: {resposta_indefinida}"
+=======
 classe
 vai falar direito ou não?
 desculpa mas não entendi o que você falou
 acho que estou ficando surdo! poderia repetir?
 classe
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 barman
 bebado
 ferreiro
@@ -223,6 +274,15 @@ mercador ebranthal
 mercador rimvark
 vendedor sombrio
 antigo guerreiro
+<<<<<<< HEAD
+comerciante de eldora
+comerciante de rimvark
+comerciante de vangurd
+comerciante de ebranthal
+comerciante de nocten
+ferreiro
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 
 você...você veio aqui com a promessa de salvar aqueles que sofreram tanto só de estarem ali...mas você os matou....matou aqueles em que a esperança de um reino feliz como antes...você tinha esse poder...e por isso que eles estavam ali....
 se a esperança é a ultima que morre...você já deveria estar morto. . . 
@@ -256,7 +316,11 @@ pressione Enter para continuar
 =====suas habilidades=====
 sua classe:
 classe
+<<<<<<< HEAD
+f"sua mana {valor_habilidade['mana']}"
+=======
 mana
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 subclasse
 bruxo da agua
 nivel
@@ -329,6 +393,10 @@ você usou
 habilidade_cavaleiro
 mana
 você tirou 10 de vida do monstro
+<<<<<<< HEAD
+f"MONSTRO TE DEU {dano_monstro} DE DANO!!"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 vida
 Você não tem mana suficiente
 habilidade_cavaleiro4
@@ -345,11 +413,21 @@ habilidade_cavaleiro3
 você atacou o monstro usando investida brutal
 -15 mana
 dano
+<<<<<<< HEAD
+f"você tirou {dano_cav3} de dano"
+f"o monstro tirou {dano_monstro} de hp"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 mana
 vida
 habilidade_cavaleiro2
 você usou escudo sagrado
 você recebeu a benção sagrada 
+<<<<<<< HEAD
+f"monstro atacou dando {dano_monstro} de dano"
+f"o escudo reconchiteo "
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 classe
 bruxo
 habilidade_bruxo
@@ -373,6 +451,11 @@ mana
 Você não tem mana suficiente
 habilidade_bruxo4
 mana
+<<<<<<< HEAD
+f"você drenou a alma do inimigo causando {valor_drenagem}"
+f"O Monstro te atacou causando {dano_monstro} de dano"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 vida
 mana
 Você não tem mana suficiente
@@ -386,6 +469,10 @@ o rugido fez o monstro fugir
 o rugido fez nada
 monstro te atacou com furia
 vida
+<<<<<<< HEAD
+f"monstro atacou tirando {monstro_ataque_furia} de hp"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 habilidade_monstro2
 mana
 mana
@@ -434,7 +521,11 @@ moedas
 moedas
 defesa
 sua defesa aumentou em 5
+<<<<<<< HEAD
+você não tem dinheiro suficiente...
+=======
 voc~e não tem dinheiro suficiente...
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 dano
 moedas
 seu dano aumentou em 5
@@ -480,6 +571,10 @@ sua mana não será gastada
 resposta invalida
 habilidade_goblin
 mana
+<<<<<<< HEAD
+f"você lança uma adaga de longe e causa {dano_adaga} de dano"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 o monstro não consegue te atingir porque esta longe demais
 mana
 golem de cobre
@@ -546,9 +641,18 @@ desconhecida
 itens
 ouro
 chat
+<<<<<<< HEAD
+f"[SERVIDOR] IP: {host} - aguardando conexão do amigo..."
+f"[SERVIDOR] Amigo conectado: {endereco}"
 amigo_mundo.json
 [SERVIDOR] Amigo desconectou
 [SERVIDOR] Conexão encerrada
+f"[CLIENTE] Conectado ao host {ip}"
+=======
+amigo_mundo.json
+[SERVIDOR] Amigo desconectou
+[SERVIDOR] Conexão encerrada
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 [CLIENTE] Não foi possível conectar ao host
 amigo_mundo.json
 [CLIENTE] Conexão perdida com host
@@ -562,15 +666,26 @@ vida_max
 area
 desconhecida
 ˆ
+<<<<<<< HEAD
+f"[{barra:<10}]"
+f"Amigo: {nome} | Área: {area} | Vida: {vida}/{vida_max} {barra}"
+Não foi possível mostrar status do amigo
+f"Itens do amigo: {dados_amigo.get('itens', [])} | Ouro: {dados_amigo.get('ouro', 0)}"
+=======
 Não foi possível mostrar status do amigo
 itens
 ouro
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 [1] Enviar item\n[2] Enviar ouro\nEscolha: 
 1
 Qual item deseja enviar? 
 itens
 itens
 itens
+<<<<<<< HEAD
+f"Você enviou '{item}' para seu amigo."
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 Você não tem esse item.
 2
 Quanto ouro deseja enviar? 
@@ -578,6 +693,10 @@ Valor inválido.
 ouro
 ouro
 ouro
+<<<<<<< HEAD
+f"Você enviou {valor} de ouro para seu amigo."
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 Você não tem ouro suficiente.
 Escolha inválida.
 tloe_save.json
@@ -592,6 +711,10 @@ Escolha:
 >>>Digite sua mensagem: 
 nome
 Você
+<<<<<<< HEAD
+f"{nome}: {msg}"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 chat
 tloe_save.json
 0
@@ -626,6 +749,10 @@ o báu está cheio!
 escolha os itens que deseja depositar
 item:
 bau_cabana
+<<<<<<< HEAD
+f"quantas unidades do item {escolha_deposistar_item_bau_cabana} deseja adicionar?"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 não é possivel depoistar itens com valor de 0 ou menos
 item depositado com sucesso!
 [1] fazer missões
@@ -642,7 +769,11 @@ você aproxima-se daquela cabana, ela ainda parece ser habitada
 [pessoa desconhecida 1] quem...quem é você???
 vocÊ varias pessoas dentro dessa cabana, elas parecem inseguras após a sua chegada
 [pessoa desconhecida 2] o garoto, vai se apresentar não???
+<<<<<<< HEAD
+f"cla..claro meu nome é {dados_jogador['nome']}"
+=======
 nome
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 [pessoa desconhecida 2] pelo visto você não é uma ameaça...meu nome é Josué
 [pessoa desconhecida 1] a... meu nome é maria
 primeira_vez_resistencia
@@ -1702,10 +1833,17 @@ reputação em Rimvark
 0
 0
 [Dorian]então era aqui que você queria me levar?
+<<<<<<< HEAD
+f"[{dados_jogador['nome']}]Meu Deus!.... o que aconteceu aqui???????????"
+por que tá tudo destruido?
+[Dorian]eu estava conversando com uns habitantes locais daqui e eles disseram que era sobreviventes de algum incidente desse reino...mas qual seria esse incidente..
+f"[{dados_jogador['nome']}]entendi..."
+=======
 nome
 por que tá tudo destruido?
 [Dorian]eu estava conversando com uns habitantes locais daqui e eles disseram que era sobreviventes de algum incidente desse reino...mas qual seria esse incidente..
 nome
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 [Dorian]eu estou voltando para meu aposento então..
 você chegou as ruinas
 [1]andar para frente
@@ -1721,7 +1859,66 @@ o que irá fazer
 7
 aperte [0~] para voltar para o menu
 0
+<<<<<<< HEAD
+adaga envenenada
+espada de pedra
+capacete de ferro
+encatamento de afiação
+peitoral de ferro
+calças de ferro
+botas de ferro
+peitoral de diamante
+calças de diamante
+botas de diamante
+capacete de diamante
+peitoral de obsidiana
+calças de obsidiana
+botas de obsidiana
+adaga envenenada
+nivel_requerido
+valor
+espada de pedra
+nivel_requerido
+valor
+capacete de ferro
+nivel_requerido
+valor
+encatamento de afiação
+nivel_requerido
+valor
+peitoral de ferro
+nivel_requerido
+valor
+calças de ferro
+nivel_requerido
+valor
+botas de ferro
+nivel_requerido
+valor
+peitoral de diamante
+nivel_requerido
+valor
+calças de diamante
+nivel_requerido
+valor
+botas de diamante
+nivel_requerido
+valor
+capacete de diamante
+nivel_requerido
+valor
+peitoral de obsidiana
+nivel_requerido
+valor
+calças de obsidiana
+nivel_requerido
+valor
+botas de obsidiana
+nivel_requerido
+valor
+=======
 vila atual
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 Vila de Rimvark:
 [1]loja
 [2]igreja
@@ -1740,6 +1937,12 @@ o que deseja fazer?
 0
 ao sair você percebe que o comerciante ficou feliz pois você comprou algo...
 ok....volte sempre!
+<<<<<<< HEAD
+1
+nivel
+f"{chave} valor: {valor}"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 3
 modo livre...escreva qualquer coisa que ele te responderá...tecnologia DreamCore,fale palavras como tchau,adeus para sair do chat
 comerciante de rimvark
@@ -1863,7 +2066,11 @@ vida
 ataque
 habilidade especial
 envenamento demoniaco
+<<<<<<< HEAD
+f"árvores restantes{dados_floresta['arvores']}:"
+=======
 arvores
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 [1]quebrar uma arvore
 [2]caminhar pela floresta
 [0]sair da floresta
@@ -1880,6 +2087,10 @@ senha
 escolha um nickname, ele é unico e inalterável, é usado essencialmente \n 
 para chats,trades e recursos online!
 qual será seu nickname?seja criativo ^^
+<<<<<<< HEAD
+f"tem certeza que seu nickname será {escolha_nickname}?"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 [S]sim [N]não
 s
 nickname
@@ -1917,13 +2128,24 @@ gerando ID
 id
 finalizando criação da conta
 https://luizsgustavo76.pythonanywhere.com
+<<<<<<< HEAD
+f"{SERVER}/r-chat"
+mensagem
+[trade
+f"\n[{msg['hora']}] {msg['nome']}: {msg['mensagem']}"
+=======
 hora
 nome
 mensagem
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 Erro ao receber mensagens:
 > 
 /sair
 Saindo do chat...
+<<<<<<< HEAD
+f"{SERVER}/chat"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 nome
 mensagem
 hora
@@ -1940,21 +2162,39 @@ nivel
 #
 [
 ]
+<<<<<<< HEAD
+f"{barra_vida}"
+f"{barra_vida}"
+f"{barra_vida}"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 
 facil
 gorthak tirano da pedra["dano"]
 gorthak tirano da pedra["ataques"]
 gorthak tirano da pedra["vida"]
+<<<<<<< HEAD
+que belo dia....bom PRA TACAR UMA GARRAFA NA TUA CABEÇA,garotos como você não deveria estar nesse bar especialmente sendo derrotado por mim,Então é isso?irá me deixar para trás para morrer??,toda causa haja uma consequencia
+
+barman
+barman
+f"{nome_adversario}"
+=======
 que belo dia....bom PRA TACAR UMA GARRAFA NA TUA CABEÇA,garotos como você não deveria estar nesse bar especialmente seno derrotado por mim,Então é isso?irá me deixar para trás para morrer??,toda causa haja uma consequencia
 
 barman
 barman
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 [1]atacar
 [2]defender
 [3]habilidade
 [4]trocar aliado
 [5]inventario
 [6]fugir da batalha
+<<<<<<< HEAD
+f"[7]falar com {nome_adversario}"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 escolha uma opção
 1
 ====== BAÚ ======
@@ -1965,8 +2205,12 @@ escolha uma opção
 Escolha uma opção: 
 1
 Itens no baú:
+<<<<<<< HEAD
+f"{item.replace('_', ' ').title()}: {qtd}"
+=======
 _
  
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 O baú está vazio.
 Pressione Enter para continuar...
 2
@@ -1974,8 +2218,12 @@ Nome do item para guardar:
  
 _
 Quantidade para guardar: 
+<<<<<<< HEAD
+f"{qtd} {item.replace('_',' ')} guardado(s) no baú."
+=======
 _
  
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 Você não tem essa quantidade.
 Item não encontrado no inventário.
 Pressione Enter para continuar...
@@ -1984,13 +2232,37 @@ Nome do item para retirar:
  
 _
 Quantidade para retirar: 
+<<<<<<< HEAD
+f"{qtd} {item.replace('_',' ')} retirado(s) do baú."
+=======
 _
  
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 Você não tem essa quantidade no baú.
 Item não encontrado no baú.
 Pressione Enter para continuar...
 0
 Opção inválida.
+<<<<<<< HEAD
+https://luizsgustavo76.pythonanywhere.com
+=== Propostas Disponiveis ===
+[1] Trocar itens
+[2] Chat interno
+[3] Aceitar propostas
+[0] Sair
+o que opção deseja escolher?
+0
+1
+qual item deseja trocar?se quer trocar moedas digite /moedas
+f"quantas unidades do item {escolha_item_trade} ?"
+/adicionar-itens
+trade_id
+item
+quantidade
+/moedas
+2
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 criador_trade
 integrantes
 itens
@@ -2009,6 +2281,10 @@ True
 integrantes
 nome
 https://luizsgustavo76.pythonanywhere.com
+<<<<<<< HEAD
+f"{SERVER}/s-trade"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 criador_trade
 criador_trade
 integrantes
@@ -2019,6 +2295,114 @@ em_duracao
 em_duracao
 limite_pessoas
 limite_pessoas
+<<<<<<< HEAD
+f"Um erro aconteceu: {e}"
+f"{server}/r-stands"
+Erro:
+\n🏪 CENTRO MERCANTIL DE ELDORA\n
+Nenhum estande ativo.\n
+-
+f"Estande: {s['nome_stand']}"
+f"Dono: {s['nome']}"
+f"Aluguel pago: {s['valor_pago']} moedas"
+itens
+Sem itens à venda.
+itens
+f"{item['item']} | {item['preco']} moedas"
+-
+nome
+nome
+nome_stand
+Título do estande: 
+itens
+valor_pago
+Quantos minutos deseja alugar? 
+valor_pago
+moedas
+valor_pago
+Item (/finalizar): 
+/finalizar
+Preço: 
+itens
+item
+preco
+/criar-id-stand
+nome
+nome
+nome_stand
+nome_stand
+id_stand
+id_stand
+/s-stands
+🏪 Estante criada com sucesso.
+f"{SERVER}/r-chat"
+mensagem
+[trade
+f"\n[{msg['hora']}] {msg['nome']}: {msg['mensagem']}"
+Erro ao receber mensagens:
+> 
+[trade]
+/sair
+Saindo do chat...
+f"{SERVER}/chat"
+nome
+mensagem
+hora
+%H:%M:%S
+Erro ao enviar mensagem:
+Nenhuma trade ativa.
+/finalizar-trade
+trade_id
+Erro ao finalizar trade:
+status
+ok
+Erro:
+mensagem
+resultado
+\n=== TRADE FINALIZADA ===
+f"{jogador} entregou:"
+ -
+=======================\n
+Nenhuma trade ativa.
+/adicionar-itens
+trade_id
+item
+/confirmar-trade
+trade_id
+player
+Nenhuma trade ativa.
+/ver-trade
+trade_id
+Erro ao buscar trade:
+status
+ok
+Erro:
+mensagem
+ofertas
+confirmacoes
+trade_status
+\n========== TRADE ==========
+f"\n{jogador} oferece:"
+  (nada)
+ -
+   ✔ confirmou
+   ⏳ aguardando
+\nStatus da trade:
+===========================\n
+[2] adicionar item
+[3] ver proposta
+[4] confirmar trade
+[0] sair
+> 
+0
+2
+qual item deseja trocar? 
+Item inválido.
+3
+4
+https://luizsgustavo76.pythonanywhere.com/r-trade
+f"Erro ao conectar com o servidor: {e}"
+=======
 Erro ao conectar ao servidor:
 \nCENTRO MERCANTIL DE ELDORA\n
 Nenhum estande disponível.\n
@@ -2089,16 +2473,23 @@ qual item deseja trocar?se quer trocar moedas digite 'moedas {valor}
 trade_id
 item
 https://luizsgustavo76.pythonanywhere.com/r-trade
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 Nenhuma trade aberta no momento.
 Trades abertas:
 integrantes
 integrantes
 itens
 itens
+<<<<<<< HEAD
+f"{idx}. Dono: {trade.get('criador_trade')} - {len(integrantes)}/{trade.get('limite_pessoas')} integrantes - {len(itens)} itens"
+\nDigite o número da trade que deseja entrar (ou 0 para cancelar): 
+f"\nVocê escolheu a trade do dono {trade_escolhida.get('criador_trade')}"
+=======
 criador_trade
 limite_pessoas
 \nDigite o número da trade que deseja entrar (ou 0 para cancelar): 
 criador_trade
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 https://luizsgustavo76.pythonanywhere.com/entrar-trade
 trade_id
 id
@@ -2106,9 +2497,14 @@ nome
 nome
 status
 ok
+<<<<<<< HEAD
+f"Você entrou na trade! Integrantes agora: {resposta_dados['integrantes']}"
+f"Erro: {resposta_dados.get('mensagem', 'Erro desconhecido')}"
+=======
 integrantes
 id
 mensagem
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 Número inválido. Tente novamente.
 Digite um número válido!
 =====CENTRO MERCANTÍL DE ELDORA=====
@@ -2138,7 +2534,10 @@ qual opção deseja escolher?
 2
 https://luizsgustavo76.pythonanywhere.com
 0
+<<<<<<< HEAD
+=======
 opção invalida
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 pocao_exp2
 espada2
 pao2
@@ -2165,6 +2564,10 @@ _
  
 
  
+<<<<<<< HEAD
+f"{nome_formatado}: {valor}"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 Seu inventário está vazio.
  
 
@@ -2172,6 +2575,10 @@ Seu inventário está vazio.
  
 _
 
+<<<<<<< HEAD
+f"Você usou {nome_item.title()}!"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 pao2
 batata2
 Você recuperou 10 de vida.
@@ -2289,6 +2696,8 @@ morte_dificil
 isso que foi uma batalha boa
 morte_inferno
 você tentou,isso que foi o mais dificil
+<<<<<<< HEAD
+=======
 \033[1;31m
 \033[1;32m
 \033[1;34m
@@ -2300,6 +2709,7 @@ você tentou,isso que foi o mais dificil
 \033[33m
 \033[92m
 \033[1;37m
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 descarted: aw000
 caracol maligno
 aranha
@@ -2526,6 +2936,1022 @@ enxada de diamante
 enxada de obsidiana
 madeira
 raridade
+<<<<<<< HEAD
+comum
+preço_revenda
+categoria
+material
+descrição
+Tábua simples retirada de árvores; usada para construir e craftar ferramentas básicas.
+carvão
+raridade
+comum
+preço_revenda
+categoria
+minerio
+descrição
+Combustível negro usado para fornos e algumas receitas alquímicas.
+adaga
+raridade
+incomum
+preço_revenda
+categoria
+arma
+descrição
+Pequena lâmina rápida, útil em combate corpo a corpo e para furtividade.
+barra_cobre
+raridade
+comum
+preço_revenda
+categoria
+minerio
+descrição
+Barra forjada de cobre, usada para fabricar ferramentas e armas básicas.
+pipeta_cobre
+raridade
+comum
+preço_revenda
+categoria
+ferramenta
+descrição
+Instrumento simples de cobre para transferir líquidos em experimentos e poções.
+pocao_exp2
+raridade
+rara
+preço_revenda
+categoria
+consumível
+descrição
+Poção concentrada que concede grande experiência ao ser consumida.
+espada2
+raridade
+incomum
+preço_revenda
+categoria
+arma
+descrição
+Espada forjada de qualidade média, equilibrada entre dano e durabilidade.
+pao2
+raridade
+comum
+preço_revenda
+categoria
+comida
+descrição
+Pão fresco que recupera uma pequena quantidade de vida ao ser consumido.
+carne2
+raridade
+comum
+preço_revenda
+categoria
+comida
+descrição
+Pedaço de carne que pode ser cozido para restaurar vida e stamina.
+batata2
+raridade
+comum
+preço_revenda
+categoria
+comida
+descrição
+Tubérculo versátil, usado em receitas e para saciar fome.
+pocao_de_stamina2
+raridade
+incomum
+preço_revenda
+categoria
+consumível
+descrição
+Restaura rapidamente a stamina do usuário, útil em longas explorações.
+cerveja2
+raridade
+comum
+preço_revenda
+categoria
+bebida
+descrição
+Cerveja comum; relaxa e dá leve regeneração de HP, mas pode atrapalhar a precisão.
+pinga2
+raridade
+comum
+preço_revenda
+categoria
+bebida
+descrição
+Destilado forte, usado para aquecer viajantes e em algumas receitas.
+artefato_luz2
+raridade
+épico
+preço_revenda
+categoria
+artefato
+descrição
+Fragmento de luz pura, emite brilho que afasta criaturas das trevas.
+artefato_fogo2
+raridade
+épico
+preço_revenda
+categoria
+artefato
+descrição
+Concentração ígnea que intensifica magias de fogo e pode incendiar inimigos.
+artefato_agua2
+raridade
+épico
+preço_revenda
+categoria
+artefato
+descrição
+Essência aquática que fortalece habilidades de cura e controle de água.
+artefato_lava2
+raridade
+lendário
+preço_revenda
+categoria
+artefato
+descrição
+Núcleo de lava sólido; poderoso e instável, aumenta dano em área de fogo.
+artefato_diamante2
+raridade
+lendário
+preço_revenda
+categoria
+artefato
+descrição
+Pedra preciosa imbuída de energia; amplia atributos físicos e mágicos.
+artefato_força2
+raridade
+raro
+preço_revenda
+categoria
+artefato
+descrição
+Concede aumento temporário de força a quem o empunha.
+artefato_defesa2
+raridade
+raro
+preço_revenda
+categoria
+artefato
+descrição
+Amplia a resistência física e reduz dano recebido por certo período.
+artefato_ouro2
+raridade
+raro
+preço_revenda
+categoria
+artefato
+descrição
+Objeto de luxo que atrai fortuna e facilita transações comerciais.
+artefato_sorte2
+raridade
+épico
+preço_revenda
+categoria
+artefato
+descrição
+Aumenta as chances de acerto crítico e itens raros ao saquear inimigos.
+artefato_magia2
+raridade
+épico
+preço_revenda
+categoria
+artefato
+descrição
+Amplifica o poder arcano do usuário, reduzindo consumo de mana.
+moeda_do_submundo2
+raridade
+lendário
+preço_revenda
+categoria
+moeda
+descrição
+Moeda corrompida negociada entre criaturas sombrias; tem grande valor em mercados proibidos.
+contrato_das_almas2
+raridade
+lendário
+preço_revenda
+categoria
+artefato
+descrição
+Documento antigo que liga almas a quem o assina, com poderes perigosos e proibidos.
+amuleto_da_necromancia2
+raridade
+épico
+preço_revenda
+categoria
+artefato
+descrição
+Amuleto que facilita comunicação e controle de mortos-vivos.
+fumaca_da_ilusao2
+raridade
+raro
+preço_revenda
+categoria
+consumível
+descrição
+Gera uma cortina de fumaça ilusória que confunde inimigos por alguns instantes.
+adaga_envenenada2
+raridade
+rara
+preço_revenda
+categoria
+arma
+descrição
+Adaga aplicada com veneno persistente; causa dano ao longo do tempo.
+armadura_sombria2
+raridade
+lendário
+preço_revenda
+categoria
+armadura
+descrição
+Armadura imbuída em sombras, reduz dano e facilita furtividade nas trevas.
+cerveja
+raridade
+comum
+preço_revenda
+categoria
+bebida
+descrição
+Cerveja simples; recupera pouca vida e relaxa o personagem.
+pinga_de_mel
+raridade
+incomum
+preço_revenda
+categoria
+bebida
+descrição
+Destilado adoçado com mel; aumenta moral e restaura leve stamina.
+cachaça_mineira
+raridade
+comum
+preço_revenda
+categoria
+bebida
+descrição
+Bebida típica que aquece e pode ser vendida em tavernas locais.
+vodka
+raridade
+comum
+preço_revenda
+categoria
+bebida
+descrição
+Álcool forte usado para limpar ferimentos ou como ingrediente.
+velho_barreiro
+raridade
+incomum
+preço_revenda
+categoria
+bebida
+descrição
+Marca de bebida conhecida pela potência; popular entre mineradores.
+balde
+raridade
+comum
+preço_revenda
+categoria
+ferramenta
+descrição
+Balde básico utilizado para transportar líquidos e materiais.
+obsidiana
+raridade
+rara
+preço_revenda
+categoria
+minerio
+descrição
+Vidro vulcânico extremamente duro, usado para ferramentas e encantamentos.
+balde de água
+raridade
+comum
+preço_revenda
+categoria
+ferramenta
+descrição
+Balde cheio de água, útil para apagar fogo ou regar plantações.
+balde de lava
+raridade
+raro
+preço_revenda
+categoria
+ferramenta
+descrição
+Balde contendo lava; perigoso, usado em forjas especiais e armadilhas.
+picareta de obsidiana
+raridade
+rara
+preço_revenda
+categoria
+ferramenta
+descrição
+Picareta feita de obsidiana, muito eficiente para minerar minerais resistentes.
+picareta de cobre
+raridade
+comum
+preço_revenda
+categoria
+ferramenta
+descrição
+Picareta básica de cobre, boa para minerais superficiais.
+cobre bruto
+raridade
+comum
+preço_revenda
+categoria
+minerio
+descrição
+Minério de cobre tal como extraído; requer fundição para uso.
+ferro bruto
+raridade
+comum
+preço_revenda
+categoria
+minerio
+descrição
+Minério de ferro cru, essencial para ferramentas de nível médio.
+ouro bruto
+raridade
+incomum
+preço_revenda
+categoria
+minerio
+descrição
+Nugget de ouro inestimável para joias e transações de alto valor.
+machado de madeira
+raridade
+comum
+preço_revenda
+categoria
+ferramenta
+descrição
+Machado simples para cortar árvores e coletar madeira.
+machado de ferro
+raridade
+incomum
+preço_revenda
+categoria
+ferramenta
+descrição
+Machado resistente que corta mais rápido e dura mais que os básicos.
+machado de pedra
+raridade
+comum
+preço_revenda
+categoria
+ferramenta
+descrição
+Machado rudimentar feito de pedra, útil em emergências.
+machado de cobre
+raridade
+comum
+preço_revenda
+categoria
+ferramenta
+descrição
+Versão aprimorada do machado de madeira, com maior eficiência.
+machado de obsidiana
+raridade
+raro
+preço_revenda
+categoria
+ferramenta
+descrição
+Ferramenta extremamente afiada e durável, ideal para madeira resistente.
+machado de diamante
+raridade
+lendário
+preço_revenda
+categoria
+ferramenta
+descrição
+Machado supremo que corta qualquer madeira com facilidade extraordinária.
+pedra
+raridade
+comum
+preço_revenda
+categoria
+minerio
+descrição
+Pedra comum coletada do solo; base para construções e craft simples.
+pergaminho da forca I
+raridade
+incomum
+preço_revenda
+categoria
+pergaminho
+descrição
+Ensinamento básico que aumenta ligeiramente a força do personagem.
+pergaminho da forca II
+raridade
+raro
+preço_revenda
+categoria
+pergaminho
+descrição
+Pergaminho que concede um bônus maior de força ao ser usado.
+pergaminho da forca III
+raridade
+épico
+preço_revenda
+categoria
+pergaminho
+descrição
+Antigo pergaminho que fornece um grande aumento de força temporário.
+pergaminho da forca IV
+raridade
+lendário
+preço_revenda
+categoria
+pergaminho
+descrição
+Pergaminho raro que confere força excepcional por um período significativo.
+pergaminho da defesa I
+raridade
+incomum
+preço_revenda
+categoria
+pergaminho
+descrição
+Aprimora levemente a defesa do usuário ao ser lido.
+pergaminho da defesa II
+raridade
+raro
+preço_revenda
+categoria
+pergaminho
+descrição
+Aumenta a resistência contra ataques por algum tempo.
+pergaminho da defesa III
+raridade
+épico
+preço_revenda
+categoria
+pergaminho
+descrição
+Proteção mágica poderosa que reduz danos significativos.
+pergaminho da defesa IV
+raridade
+lendário
+preço_revenda
+categoria
+pergaminho
+descrição
+Antigo tomo que garante defesa quase impenetrável por pouco tempo.
+pergaminho de remendo
+raridade
+incomum
+preço_revenda
+categoria
+pergaminho
+descrição
+Usado para reparar itens mágicos danificados com eficácia moderada.
+pergaminho de mais moedas
+raridade
+raro
+preço_revenda
+categoria
+pergaminho
+descrição
+Magia que, temporariamente, aumenta a quantidade de moedas obtidas em saques.
+cobre
+raridade
+comum
+preço_revenda
+categoria
+minerio
+descrição
+Material de cobre refinado pronto para uso em forjas e comércio.
+ferro
+raridade
+comum
+preço_revenda
+categoria
+minerio
+descrição
+Ferro trabalhado, base para a maioria das armas e ferramentas confiáveis.
+ouro
+raridade
+incomum
+preço_revenda
+categoria
+moeda
+descrição
+Metal precioso usado em joalheria e trocas de alto valor.
+diamante
+raridade
+raro
+preço_revenda
+categoria
+gema
+descrição
+Gema valiosa usada para encantamentos poderosos e itens de luxo.
+rubi
+raridade
+raro
+preço_revenda
+categoria
+gema
+descrição
+Pedra vermelha brilhante valorizada por artesãos e magos.
+esmeralda
+raridade
+raro
+preço_revenda
+categoria
+gema
+descrição
+Gema verde usada em joias e artefatos ligados à natureza.
+amuleto das almas
+raridade
+épico
+preço_revenda
+categoria
+artefato
+descrição
+Amuleto que guarda fragmentos de almas, amplificando magias sombrias.
+espada de rubi
+raridade
+rara
+preço_revenda
+categoria
+arma
+descrição
+Espada encrustada com rubis que aumenta dano crítico contra bestas.
+espada de esmeralda
+raridade
+rara
+preço_revenda
+categoria
+arma
+descrição
+Lâmina verde que concede bônus contra criaturas vinculadas à natureza.
+espada de ferro
+raridade
+comum
+preço_revenda
+categoria
+arma
+descrição
+Espada de ferro clássica, confiável e fácil de consertar.
+espada de cobre
+raridade
+comum
+preço_revenda
+categoria
+arma
+descrição
+Espada leve de cobre, adequada para iniciantes.
+espada de ouro
+raridade
+incomum
+preço_revenda
+categoria
+arma
+descrição
+Espada vistosa de ouro; tem bom charme e algum poder mágico.
+espada de diamante
+raridade
+lendário
+preço_revenda
+categoria
+arma
+descrição
+Espada suprema, extremamente afiada e duradoura.
+espada de obsidiana
+raridade
+épico
+preço_revenda
+categoria
+arma
+descrição
+Lâmina negra que corta com facilidade e causa sangramento em inimigos.
+capacete de madeira
+raridade
+comum
+preço_revenda
+categoria
+armadura
+descrição
+Proteção mínima para a cabeça, feita de madeira reforçada.
+capacete de pedra
+raridade
+comum
+preço_revenda
+categoria
+armadura
+descrição
+Capacete rudimentar de pedra; oferece proteção básica.
+capacete de cobre
+raridade
+comum
+preço_revenda
+categoria
+armadura
+descrição
+Capacete metálico que protege melhor e é leve.
+capacete de ferro
+raridade
+incomum
+preço_revenda
+categoria
+armadura
+descrição
+Capacete sólido de ferro, oferece boa proteção em combate.
+capacete de ouro
+raridade
+raro
+preço_revenda
+categoria
+armadura
+descrição
+Capacete ornamentado que também possui propriedades mágicas leves.
+capacete de rubi
+raridade
+raro
+preço_revenda
+categoria
+armadura
+descrição
+Capacete precioso que aumenta resistência contra fogo.
+capacete de esmeralda
+raridade
+raro
+preço_revenda
+categoria
+armadura
+descrição
+Proteção elegante que concede afinidade com a natureza.
+capacete de obsidiana
+raridade
+épico
+preço_revenda
+categoria
+armadura
+descrição
+Capacete negro que absorve parte do dano recebido por ataques mágicos.
+picareta de madeira
+raridade
+comum
+preço_revenda
+categoria
+ferramenta
+descrição
+Picareta básica para minerar materiais frágeis.
+picareta de pedra
+raridade
+comum
+preço_revenda
+categoria
+ferramenta
+descrição
+Picareta capaz de minerar materiais comuns com eficiência moderada.
+picareta de cobre
+raridade
+comum
+preço_revenda
+categoria
+ferramenta
+descrição
+Ferramenta inicial aprimorada, mais durável que as anteriores.
+picareta de ferro
+raridade
+incomum
+preço_revenda
+categoria
+ferramenta
+descrição
+Picareta confiável que abre acesso a minérios mais resistentes.
+picareta de ouro
+raridade
+incomum
+preço_revenda
+categoria
+ferramenta
+descrição
+Picareta bonita e eficiente em mineração e encantamentos.
+picareta de esmeralda
+raridade
+rara
+preço_revenda
+categoria
+ferramenta
+descrição
+Picareta de qualidade superior, com bônus contra criaturas de pedra.
+picareta de rubi
+raridade
+rara
+preço_revenda
+categoria
+ferramenta
+descrição
+Ferramenta de caça preciosa que perfura com grande eficiência.
+picareta de diamante
+raridade
+lendário
+preço_revenda
+categoria
+ferramenta
+descrição
+A melhor picareta possível; minera tudo com máxima velocidade.
+picareta de obsidiana
+raridade
+épico
+preço_revenda
+categoria
+ferramenta
+descrição
+Picareta extremamente resistente, ideal para minas profundas e perigosas.
+peitoral de madeira
+raridade
+comum
+preço_revenda
+categoria
+armadura
+descrição
+Peitoral simples que oferece proteção leve e é muito barato.
+peitoral de pedra
+raridade
+comum
+preço_revenda
+categoria
+armadura
+descrição
+Armadura rudimentar que concede proteção razoável contra golpes físicos.
+peitoral de cobre
+raridade
+comum
+preço_revenda
+categoria
+armadura
+descrição
+Peitoral metálico leve, usado por aventureiros iniciantes.
+peitoral de ferro
+raridade
+incomum
+preço_revenda
+categoria
+armadura
+descrição
+Armadura robusta para combates intensos, equilibrada entre peso e proteção.
+peitoral de ouro
+raridade
+raro
+preço_revenda
+categoria
+armadura
+descrição
+Peitoral ornamentado que tambem concede rapida movimentação pelo seu peso.
+peitoral de esmeralda
+raridade
+raro
+preço_revenda
+categoria
+armadura
+descrição
+Armadura preciosa que desvia todos os olhares de aldeões por perto para ela.
+peitoral de rubi
+raridade
+raro
+preço_revenda
+categoria
+armadura
+descrição
+Oferece resistência aumentada a ataques de fogo e bônus de ataque físico.
+peitoral de diamante
+raridade
+lendário
+preço_revenda
+categoria
+armadura
+descrição
+Armadura suprema com proteção excepcional e alta durabilidade.
+peitoral de obsidiana
+raridade
+épico
+preço_revenda
+categoria
+armadura
+descrição
+Peitoral que absorve parte da energia dos ataques mágicos.
+calça de madeira
+raridade
+comum
+preço_revenda
+categoria
+armadura
+descrição
+Proteção básica para pernas, pouco confortável mas funcional.
+calça de pedra
+raridade
+comum
+preço_revenda
+categoria
+armadura
+descrição
+Calças reforçadas de pedra que garantem proteção extra contra impactos.
+calça de cobre
+raridade
+comum
+preço_revenda
+categoria
+armadura
+descrição
+Calças metálicas leves que equilibram mobilidade e proteção.
+calça de ferro
+raridade
+incomum
+preço_revenda
+categoria
+armadura
+descrição
+Calça resistente para combates, reduz dano físico nas pernas.
+calça de ouro
+raridade
+raro
+preço_revenda
+categoria
+armadura
+descrição
+Peça de ouro trabalhada, oferece proteção e status social.
+calça de rubi
+raridade
+raro
+preço_revenda
+categoria
+armadura
+descrição
+Calça encantada que concede resistência a fogo e bônus de força.
+calça de esmeralda
+raridade
+raro
+preço_revenda
+categoria
+armadura
+descrição
+Fornece bônus à regeneração e defesa contra magias naturais.
+calça de diamante
+raridade
+lendário
+preço_revenda
+categoria
+armadura
+descrição
+Calça extremamente resistente, excelente para combates prolongados.
+calça de obsidiana
+raridade
+épico
+preço_revenda
+categoria
+armadura
+descrição
+Armadura de perna que absorve dano mágico e físico moderado.
+botas de madeira
+raridade
+comum
+preço_revenda
+categoria
+armadura
+descrição
+Botas simples que protegem os pés e são baratas de produzir.
+botas de pedra
+raridade
+comum
+preço_revenda
+categoria
+armadura
+descrição
+Fornecem maior estabilidade, mas reduzem um pouco a mobilidade.
+botas de cobre
+raridade
+comum
+preço_revenda
+categoria
+armadura
+descrição
+Botas metálicas confortáveis com boa durabilidade.
+botas de ferro
+raridade
+incomum
+preço_revenda
+categoria
+armadura
+descrição
+Botas resistentes que protegem bem contra danos de impacto.
+botas de ouro
+raridade
+raro
+preço_revenda
+categoria
+armadura
+descrição
+Botas elegantes que também aumentam a reputação do usuário.
+botas de rubi
+raridade
+raro
+preço_revenda
+categoria
+armadura
+descrição
+Conferem resistência a fogo e aumentam ataques quando em chamas.
+botas de esmeralda
+raridade
+raro
+preço_revenda
+categoria
+armadura
+descrição
+Aumentam a agilidade e a regeneração em ambientes naturais.
+botas de diamante
+raridade
+lendário
+preço_revenda
+categoria
+armadura
+descrição
+Botas extremamente duráveis que reduzem danos por impacto.
+botas de obidiana
+raridade
+épico
+preço_revenda
+categoria
+armadura
+descrição
+Botas de obsidiana que aumentam furtividade e resistência a magias.
+enxada de madeira
+raridade
+comum
+preço_revenda
+categoria
+ferramenta
+descrição
+Enxada simples para cultivo de plantações.
+enxada de pedra
+raridade
+comum
+preço_revenda
+categoria
+ferramenta
+descrição
+Ferramenta básica resistente para fazendeiros.
+enxada de cobre
+raridade
+comum
+preço_revenda
+categoria
+ferramenta
+descrição
+Enxada metálica que facilita o preparo de terrenos.
+enxada de ferro
+raridade
+incomum
+preço_revenda
+categoria
+ferramenta
+descrição
+Enxada durável e eficiente, usada por jardineiros experientes.
+enxada de ouro
+raridade
+incomum
+preço_revenda
+categoria
+ferramenta
+descrição
+Ferramenta ornamentada com leve bônus de sorte na colheita.
+enxada de rubi
+raridade
+rara
+preço_revenda
+categoria
+ferramenta
+descrição
+Enxada poderosa que aumenta a produtividade das plantações.
+enxada de esmeralda
+raridade
+rara
+preço_revenda
+categoria
+ferramenta
+descrição
+Favorece crescimento acelerado de plantas próximas.
+enxada de diamante
+raridade
+lendário
+preço_revenda
+categoria
+ferramenta
+descrição
+Ferramenta suprema que transforma qualquer terreno com facilidade.
+enxada de obsidiana
+raridade
+épico
+preço_revenda
+categoria
+ferramenta
+descrição
+Enxada encantada que trabalha solos envenenados ou corrompidos.
+=======
 preço revenda
 categoria
 carvão
@@ -3036,6 +4462,7 @@ enxada de obsidiana
 raridade
 preço revenda
 categoria
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 você encontra um báu de madeira\ndurante sua jornada\nsua curiosidade foi mais forte e você decide abrir ele
 você conseguiu um pergaminho da força nivel I.....!
 pergaminho da forca I
@@ -3107,6 +4534,10 @@ velho barreiro
 estoque_
  
 _
+<<<<<<< HEAD
+f"{nome} {valor} moedas,Estoque:{estoque}"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 capacete
 antigo_guerreiro
 bebado
@@ -3167,10 +4598,18 @@ bebidas
 iluminação
 nome
 === Lista de amigos disponíveis para PvP ===
+<<<<<<< HEAD
+f"{i} - {amigo} (IP: {ip})"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 Escolha o número do amigo para iniciar o PvP: 
 Escolha inválida.
 Não foi possível conectar ao amigo.
 ATAQUE
+<<<<<<< HEAD
+f"Você foi atacado! Perdeu {dano} de vida. Vida atual: {vida}"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 FUGA
 O inimigo fugiu!
 \n=== Seu turno ===
@@ -3198,6 +4637,22 @@ espada
 Dano +10
 escudo
 Defesa +5
+<<<<<<< HEAD
+f"{nome_amigo} ({addr[0]}) virou seu amigo!"
+Notificação de Amigo
+f"{nome_amigo} está online!!!"
+MSG:
+TRADE:
+f"Você recebeu o item '{item}'!"
+f"{nome_amigo} se desconectou. Salvando como amigo..."
+MSG:
+TRADE:
+f"Você recebeu o item '{item}'!"
+Amigo se desconectou.
+/enviaritem
+f"TRADE:{item}"
+f"Você enviou '{item}'!"
+=======
 Notificação de Amigo
 MSG:
 TRADE:
@@ -3205,11 +4660,16 @@ MSG:
 TRADE:
 Amigo se desconectou.
 /enviaritem
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 Você não tem esse item.
 Uso: /enviaritem nome_do_item
 /itens
 Seus itens:
 , 
+<<<<<<< HEAD
+f"MSG:{nome}: {msg}"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 === Sistema de Trade Online ===
 Digite seu nome: 
 1 - Criar host
@@ -3219,7 +4679,13 @@ poção
 espada
 1
 
+<<<<<<< HEAD
+f"Host criado! Seu IP é: {ip_local}"
 Esperando amigo se conectar...
+f"Conectado com {addr[0]}"
+=======
+Esperando amigo se conectar...
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 2
 Digite o IP do host: 
 Conectado ao host!
@@ -3237,6 +4703,10 @@ membros_detectados
 patentes
 historico_guilda.txt
 a
+<<<<<<< HEAD
+f"[{time.ctime()}] {acao}\n"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 guilda.json
 w
 guilda.json
@@ -3246,7 +4716,11 @@ r
 1. Criar guilda
 2. Entrar na guilda existente
 Escolha: 
+<<<<<<< HEAD
+f"\n[Gerenciamento da Guilda {dados_guilda['nome']}]"
+=======
 nome
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 1. Ver atividade dos membros
 2. Adicionar membro (por IP)
 3. Expulsar membro
@@ -3259,16 +4733,33 @@ nome
 10. Sair
 \n[Chat da Guilda]
 mensagens
+<<<<<<< HEAD
+f"{ip}: {msg}"
+Digite a mensagem (ou 'exit()' para sair): 
+exit()
+conexoes
+f"[Chat] {msg}"
+mensagens
+Host
+f"Host enviou mensagem: {msg}"
+=======
 Digite a mensagem (ou 'exit()' para sair): 
 exit()
 conexoes
 mensagens
 Host
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 Nome do arquivo .py para enviar: 
 Arquivo não encontrado.
 r
 conexoes
+<<<<<<< HEAD
+f"[Script]{conteudo}"
 Script enviado para todos os membros.
+f"Script {nome_script} enviado."
+=======
+Script enviado para todos os membros.
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 b"1. Atacar 2. Defender 3. Fugir: "
 1
 2
@@ -3279,19 +4770,51 @@ b"1. Atacar 2. Defender 3. Fugir: "
 b"Um dos jogadores fugiu!\n"
 b"Um dos jogadores fugiu!\n"
 Um jogador fugiu do PvP.
+<<<<<<< HEAD
+f"Seu HP: {hp1} | HP inimigo: {hp2}\n"
+f"Seu HP: {hp2} | HP inimigo: {hp1}\n"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 PvP finalizado.
 b"Digite item para enviar: "
 b"Digite item para enviar: "
 b"Recebeu: "
 b"Recebeu: "
+<<<<<<< HEAD
+f"Trade realizado: {item1.decode()} <-> {item2.decode()}"
 IP do membro: 
 Patente a atribuir: 
 patentes
+f"Patente '{patente}' atribuída a {membro}."
+f"Patente '{patente}' atribuída a {membro}."
+f"[GUILDA] Servidor iniciado em {ip_host}:{PORTA_PADRAO}"
+=======
+IP do membro: 
+Patente a atribuir: 
+patentes
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 Servidor iniciado.
 guilda_ativa
 Digite a senha da guilda: 
 senha
 Senha incorreta. Conexão encerrada.
+<<<<<<< HEAD
+f"Tentativa de entrada falhou de {ip}."
+conexoes
+membros
+atividades
+f"[+] {ip} entrou na guilda."
+f"{ip} entrou na guilda."
+mensagens
+atividades
+conexoes
+f"[{ip}] {msg}"
+f"Mensagem de {ip}: {msg}"
+membros
+membros
+f"[-] {ip} saiu da guilda."
+f"{ip} saiu da guilda."
+=======
 conexoes
 membros
 atividades
@@ -3300,6 +4823,7 @@ atividades
 conexoes
 membros
 membros
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 1
 Seu IP (ou 127.0.0.1 para local): 
 Nome da guilda: 
@@ -3313,16 +4837,35 @@ Escolha:
 atividades
 patentes
 Sem patente
+<<<<<<< HEAD
+f"Membro: {m} - Patente: {patente} - Última atividade: {round(time.time() - t)}s atrás"
 2
 IP do novo membro: 
 convidados
+f"{novo} convidado!"
+f"Convite enviado para {novo}."
+=======
+2
+IP do novo membro: 
+convidados
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 3
 IP a remover: 
 membros
 membros
+<<<<<<< HEAD
+f"{remover} removido."
+f"{remover} removido da guilda."
 4
 Mensagem de broadcast: 
 conexoes
+f"[Broadcast] {msg}"
+f"Broadcast enviado: {msg}"
+=======
+4
+Mensagem de broadcast: 
+conexoes
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 5
 IP jogador 1: 
 IP jogador 2: 
@@ -3385,6 +4928,10 @@ golem de obsidiana
 golem de diamante
 golem de ouro
 golem de ferro
+<<<<<<< HEAD
+f"gerecianmento do {escolha_gerenciamento_golem}"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
  ■\n■■■\n ■
 [1]equipar itens
 [2]ver status do golem
@@ -3392,26 +4939,86 @@ golem de ferro
 qual opção você escolhe?
 0
 \n--- Slots de Golem ---
+<<<<<<< HEAD
+f"Slot 1 ---- {slots['slot1_golem']}"
+f"Slot 2 ---- {slots['slot2_golem']}"
+f"Slot 3 ---- {slots['slot3_golem']}"
+f"Slot 4 ---- {slots['slot4_golem']}"
+=======
 slot1_golem
 slot2_golem
 slot3_golem
 slot4_golem
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 \n[1] Habilitar/Desabilitar Golem
 [2] Gerenciar Golems
 [0] Sair
 Escolha uma opção: 
 1
 qual golem deseja habilitar/desabilitar?
+<<<<<<< HEAD
+f"{nome} - Quantidade: {qtd}"
+
+f"Slot 1 ---- {slots['slot1_golem']}"
+f"Slot 2 ---- {slots['slot2_golem']}"
+f"Slot 3 ---- {slots['slot3_golem']}"
+f"Slot 4 ---- {slots['slot4_golem']}"
+=======
 
 slot1_golem
 slot2_golem
 slot3_golem
 slot4_golem
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 em qual slot deseja adicionar/remover um golem?
 
 1
 slot1_golem
 qual golem deseja adicionar?
+<<<<<<< HEAD
+f"o golem {adicionar_golem} foi adicionado!"
+slot1_golem
+f"deseja desabilitar o golem {slot['slot1']}?"
+[S] OU [N]
+s
+f"o golem {slot['slot1']}foi desativado!"
+2
+slot2_golem
+qual golem deseja adicionar?
+f"o golem {adicionar_golem} foi adicionado!"
+slot2_golem
+f"deseja desabilitar o golem {slot['slot1']}?"
+[S] OU [N]
+s
+f"o golem {slot['slot2']}foi desativado!"
+3
+slot3_golem
+qual golem deseja adicionar?
+f"o golem {adicionar_golem} foi adicionado!"
+slot3_golem
+f"deseja desabilitar o golem {slot['slot3']}?"
+[S] OU [N]
+s
+f"o golem {slot['slot3']}foi desativado!"
+4
+slot4_golem
+qual golem deseja adicionar?
+f"o golem {adicionar_golem} foi adicionado!"
+slot4_golem
+f"deseja desabilitar o golem {slot['slot4']}?"
+[S] OU [N]
+s
+f"o golem {slot['slot4']}foi desativado!"
+2
+\n--- Seus Golems ---
+f"Slot 1 ---- {slots['slot1_golem']}"
+f"Slot 2 ---- {slots['slot2_golem']}"
+f"Slot 3 ---- {slots['slot3_golem']}"
+f"Slot 4 ---- {slots['slot4_golem']}"
+\nDigite o nome do golem que deseja gerenciar (ou 'voltar'): 
+voltar
+f"\nGerenciando o {nome_golem}..."
+=======
 slot1_golem
 slot1
 [S] OU [N]
@@ -3449,6 +5056,7 @@ slot3_golem
 slot4_golem
 \nDigite o nome do golem que deseja gerenciar (ou 'voltar'): 
 voltar
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 Esse Golem não foi encontrado
 0
 picareta de pedra
@@ -3485,7 +5093,12 @@ afinidade
 dificuldade das missoes
 facil
 ===missões===
+<<<<<<< HEAD
+f"dificuldade:{dados_mineiro['dificuldade das missoes']}"
+f"{chave_missao2} {valor_missao2}"
+=======
 dificuldade das missoes
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 aperte 0 para sair
 0
 [1]minerar
@@ -3514,7 +5127,11 @@ você minerou um ouro bruto...!
 ouro bruto
 você minerou um carvão...!
 carvão
+<<<<<<< HEAD
+f"[{dados_jogador['nome']}]nossa...ja cheguei a um rio de lava.."
+=======
 nome
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 será que eu pego um pouco?
 [s]sim\n[n]não
 o que deseja fazer?
@@ -3552,9 +5169,16 @@ qual opção selecionara?
 adeus...boa sorte na sua mineiração!
 1
 2
+<<<<<<< HEAD
+f"itens a venda:\n{chave}------{valor} moedas"
+qual item deseja comprar?digite [0] para sair
+0
+f"até mais {dados_jogador['nome']}"
+=======
 qual item deseja comprar?digite [0] para sair
 0
 nome
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 picareta de pedra
 quantos itens?
 picareta de pedra
@@ -3681,6 +5305,10 @@ vida
 vida
 VOCÊ MORREU
 exp
+<<<<<<< HEAD
+f"você perdeu {resultado_exp} de exp"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 nome
 não desista você ainda tem um caminho pela frente
 exp
@@ -3808,11 +5436,19 @@ missoes dorian
 compre uma espada de pedra para dorian\nRECOMPENSAS:\n515 moedas\n100 EXP
 [S]sim\n[N]não
 s
+<<<<<<< HEAD
+f"muito obrigado {dados_jogador['nome']}!"
+missao aceitada
+vá para a loja comprar uma espada de pedra
+ok...sem problema,tente voltar aqui depois por favor!....
+f"olá {dados_jogador['nome']} como vai?"
+=======
 nome
 missao aceitada
 vá para a loja comprar uma espada de pedra
 ok...sem problema,tente voltar aqui depois por favor!....
 nome
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 [1]conversar
 [2]trocar itens
 [3]fazer missões
@@ -3829,12 +5465,21 @@ adeus....
 1
 dorian
 3
+<<<<<<< HEAD
+f"oi {dados_jogador['nome']},como vai?"
+missoes dorian
+como estou ainda muito cansado eu queria pedir um favor para você,na verdade seria uma missão,o que me diz?
+dorian
+f"Vida monstro:{monstro.atributos_monstro['vida']}"
+f"Sua vida:{dados_jogador['vida']}"
+=======
 nome
 missoes dorian
 como estou ainda muito cansado eu queria pedir um favor para você,na verdade seria uma missão,o que me diz?
 dorian
 vida
 vida
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 [1]Atacar
 [2]Defender
 [3]Usar habilidade
@@ -3849,6 +5494,21 @@ você sai da batalha silenciosamente
 1
 vida
 dano
+<<<<<<< HEAD
+f"você tirou {dados_jogador['dano']} de vida do monstro!"
+vida
+dano
+f"o monstro te atacou tirando {monstro.atributos_monstro['dano']} de vida!"
+dinheiro_barman
+dinheiro_barman
+esse segredo doi até o osso...
+the legends of eldora
+small
+splash.json
+r
+utf-8
+splash_titles
+=======
 dano
 vida
 dano
@@ -3862,6 +5522,7 @@ small
 _
 the legends of eldora
 small
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 pressione enter para continuar
 
 areas
@@ -3869,6 +5530,17 @@ npcs
 enemies
 items
 
+<<<<<<< HEAD
+        Carrega um mod de qualquer caminho (.py) e integra ao jogo.
+        game: dicionário que representa o estado do jogo
+        
+f"Arquivo de mod não encontrado: {mod_file}"
+mod_module
+get_mod_info
+f"Mod carregado: {info.get('name', 'Sem nome')} por {info.get('author', 'Desconhecido')}"
+add_content
+f"Conteúdo do mod '{info.get('name', 'Sem nome')}' integrado ao jogo!"
+=======
 		Carrega um mod de qualquer caminho (.py) e integra ao jogo.
 		game: dicionário que representa o estado do jogo
 		
@@ -3881,6 +5553,7 @@ Desconhecido
 add_content
 name
 Sem nome
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 escreva o nome do mod com a extensão .py no nome
 
 algum erro foi ocorrido...
@@ -3902,9 +5575,17 @@ dados_jogador_server
 primeira_vez_ruina
 dados_jogador_golem
 slots
+<<<<<<< HEAD
+configuracoes
 tloe_save.json
 w
  Jogo salvo com sucesso!
+f"você...você era um viajante que explorava vários lugares desconhecidos e inóspitos que a humanidade nunca mais pisou lá....quando você era pequeno gostava de lendas por isso que se dedica a exploração mas uma delas que você via era as lendas de eldora....um lugar feliz,vivo e prospero teve sua decadencia a ataques de diferentes monstros e inimigos,eles roubaram os 10 artefatos de eldora o que fez eldora que era um paraiso se transformar e um inferno de ruinas com poucos sobreviventes....mas era uma lenda....nada disso seria real....era o que eu achava até agora...."
+=======
+tloe_save.json
+w
+ Jogo salvo com sucesso!
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 Picos Congelados de NorthHills
 em uma longa escalada para chegar ao topo dos picos congelados.....
 você.....você finalmente chegou ao topo,foi gratificante ter realizado esse grande marco...mas eu olho pro outro lado do pico....
@@ -3925,6 +5606,10 @@ O que deseja fazer?
 0
 1
 qual aliado deseja remover?
+<<<<<<< HEAD
+f"o aliado {remover_aliado} foi removido com sucesso!"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 esse aliado não existe na sua guilda
 tloe_save.json
 tloe_save.json
@@ -3948,17 +5633,30 @@ horario
 dados_jogador_server
 slots
 dados_jogador_golem
+<<<<<<< HEAD
+configuracoes
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 Progresso carregado com sucesso!
 desculpe....mas você não tem nenhum save disponivel o que resultara no fechamento do jogo
 The Legends Of Eldora, todos os direitos reservados a Luiz Gustavo luizsgustavo76@gmail.com
 Bem-vindo ao reino de Eldora
 Seu objetivo em Eldora é pegar os 10 artefatos para reinstaurar a paz no reino.
+<<<<<<< HEAD
+O que deseja fazer?\n[1] Novo jogo\n[2] Carregar um jogo salvo\n[3] Carregar um mod\n[4] Creditos\n[5] Configurações\n[0]sair: 
+2
+f"bem vindo de volta a Eldora {dados_jogador['nome']}"
+4
+jogo feito por Luiz Gustavo C.F Lourenço
+começo do desenvolvimento do projeto em 17 fevereiro de 2025
+=======
 O que deseja fazer?\n[1]novo jogo\n[2]carregar um jogo salvo\n[3]carregar um mod\n[4]creditos\n[5]sair: 
 2
 nome
 4
 jogo somente feito por Luiz Gustavo
 começo do desenvolvimento do projeto em fevereiro de 2025
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 instagram:luizsgustavo75
 Email:luizsgustavo76@gmail.com
 site oficial:thelegendsofeldora.wordpress.com
@@ -3966,8 +5664,57 @@ aperte enter ou 0 para sair
 0
 
 3
+<<<<<<< HEAD
+0
+Obrigado por jogar! Até mais...
+5
+[1] cor do terminal
+[2] velocidade de digitação de dialogos
+[0] sair do menu
+qual configuração deseja alterar?
+0
+deseja salvar as configurações?\n[S] sim\n[N] não
+s
+1
+[1] Branco[padrão]
+[2] Roxo
+[3] Amarelo
+[4] Vermelho
+[5] Verde
+[6] Verde claro
+[7] Ciano
+[8] Cinza
+[9] Azul
+[10] Marrom
+qual cor deseja selecionar?
+1
+cor_terminal
+2
+cor_terminal
+3
+cor_terminal
+4
+cor_terminal
+5
+cor_terminal
+6
+cor_terminal
+7
+cor_terminal
+8
+cor_terminal
+9
+cor_terminal
+10
+cor_terminal
+2
+f"Velocidade atual:{configuracaoes['velocidade_digitação']}"
+qual velocidade de texto deseja escolher?[padrão 0.05]
+velocidade_digitação
+=======
 5
 até mais...
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 1
 nome
 Por favor, escolha seu nome: 
@@ -3989,19 +5736,31 @@ Bem-vindo ao reino de Eldora, por favor escolha sua classe:
 5
 classe
 Opção inválida
+<<<<<<< HEAD
+f"Bem-vindo a Eldora, {dados_jogador['nome']}, o {dados_jogador['classe']}!"
+exp
+exp para evoluir
+nivel
+f"parabens você subiu para o nivel {dados_jogador['nivel']}!"
+=======
 nome
 classe
 exp
 exp para evoluir
 nivel
 nivel
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 exp para evoluir
 exp
 exp para evoluir
 exp
 exp
+<<<<<<< HEAD
+f"{horario['horas']}:{horario['minutos']} horas"
+=======
 horas
 minutos
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 Você chegou ao centro de Eldora. O que deseja fazer?
 centro
 
@@ -4049,6 +5808,27 @@ enxada
 pa
 rubi
 esmeralda
+<<<<<<< HEAD
+=====ferreiro=====
+[1] forjar equipamento
+[2] encantar itens
+[3] concertar itens
+[4] forjar golem
+[5] conversar
+[6] vender itens
+[7] fazer missões
+[8] usar forja
+[0]sair
+qual opção tu queres
+8
+qual item deseja forjar? [0] para sair
+0
+você sai da banca e volta para a frente do ferreiro
+craftings.json
+r
+receitas
+f"quantas unidades de {escolha_crafting} deseja fazer?"
+=======
 The Legends Of Eldora
 nome
 =====ferreiro=====
@@ -4061,6 +5841,7 @@ nome
 [7]fazer missões
 [0]sair
 qual opção tu queres
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 4
 um golem para ter dar uma força..bela escolha meu jovem
 horas
@@ -4099,6 +5880,11 @@ moedas
 amuleto das almas
 itens
 itens
+<<<<<<< HEAD
+f"volte aqui as {tempo_forjar} horas para buscar seu golem"
+f"[ferreiro]você não pode fazer o {escolha_criar_golem} porque você não tem os materiais necessarios"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 6
 [ferreiro]vejamos que você quer vender seus itens,aqui é uma boa escolha!
 itens suportados
@@ -4115,13 +5901,21 @@ Esmeralda
 equipamentos e ferramentas
 armaduras de madeira,cobre,diamante,ferro,ouro e obsidiana\n espada de diamante,pedra,madeira,ouro,obsidiana,cobre,ferro\nmachado de diamante,pedra,madeira,ouro,obsidiana,cobre,ferro\nenxada de diamante,pedra,madeira,ouro,obsidiana,cobre,ferro,pá de diamante,pedra,madeira,ouro,obsidiana,cobre,ferro\npicareta de diamante,pedra,madeira,ouro,obsidiana,cobre,ferro\n
 qual item deseja vender?
+<<<<<<< HEAD
+f"você deseja mesmo vender o item {escolha_item_vender_ferreiro}?você ganhará {preco_revenda} de moedas"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 [S] OU [N]
 s
 dinheiro
 moedas
 [ferreiro]desculpe mas eu não compro esse tipo de item
 0
+<<<<<<< HEAD
+f"volte sempre meu {dados_jogador['classe']}"
+=======
 classe
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 5
 Conversa com o ferreiro:
 tipos de conversa
@@ -4141,7 +5935,11 @@ qual assunto deseja conversar?
 [0]sair
 
 0
+<<<<<<< HEAD
+f"ate mais {dados_jogador['classe']}"
+=======
 classe
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 1
 [1]seus preços são muito altos
 [2]seus preços são muito baixos
@@ -4166,6 +5964,10 @@ guilda
 ====guilda====
 
 VOCÊ NÃO TEM NENHUM ALIADO
+<<<<<<< HEAD
+f"{nomes_aliados}\n"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 15
 mapa
 =====MAPA=====
@@ -4184,6 +5986,10 @@ mapa
 [8]Ruinas de Eldora
 areas
 ####AREAS ADICIONADAS POR MODS#####
+<<<<<<< HEAD
+f"[{i}] {areas_mods}"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 [0]sair
 qual area deseja ir?
 8
@@ -4203,15 +6009,44 @@ nocten
 mina
 6
 inventario
+<<<<<<< HEAD
+[1] abrir o inventário
+[2] usar equipamentos
+[3] gerenciar golens
+[4] menu de crafting
+=======
 [1]abrir o inventário
 [2]usar equipamentos
 [3]gerenciar golens
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 [0]sair
 qual função deseja usar
 3
 0
+<<<<<<< HEAD
+4
+qual item deseja craftar? [0] para sair
+0
+você sai do menu do crafting...
+craftings.json
+r
+receitas
+f"quantas unidades de {escolha_crafting} deseja fazer?"
+1
+Escolha um item para usar\n
+aperte [0] para sair ou /detalhes [nome item] para ver detalhes do item
+/detalhes
+Você não informou o nome do item!
+f"Raridade:{inventory_jogador[item]['raridade']}"
+f"Preço de revenda:{inventory_jogador[item]['preço_revenda']}"
+f"Descrição:{inventory_jogador[item]['descrição']}"
+pressione [0] para sair
+0
+um erro aconteceu! se persistir não insista c;
+=======
 1
 Escolha um item para usar\nou aperte [0] para sair
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 2
 espada
 capacete
@@ -4225,6 +6060,10 @@ _
  
 
  
+<<<<<<< HEAD
+f"{nome_formatado}: {valor}"
+teste inventario
+=======
 capacete
 peitoral
 calcas
@@ -4360,6 +6199,7 @@ o item 'botas' foi equipado
 pes
 botas
 você não tem esse item no inventário 
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 teste_barra_vida
 teste_batalha
 14
@@ -4398,23 +6238,39 @@ você abre seu inventario
 =======INVENTARIO=======
 escolha um item para usar:
 1
+<<<<<<< HEAD
+f"jogador ataque dano {dados_jogador['dano']}"
+=======
 dano
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 mao esquerda
 mao direita
 adaga
 VOCÊ DEU ATAQUE CRITICO!!!!!
 dano
 você esta com o efeito do ataque selvagem
+<<<<<<< HEAD
+f"vida monstro: {hp_monstro}"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 hp:
 vida
 [1]atacar
 1
 dano
+<<<<<<< HEAD
+f"vida monstro: {hp_monstro}"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 hp:
 vida
 [1]atacar
 você atacou o monstro
 dano
+<<<<<<< HEAD
+f"o monstro te atacou tirando {dano_monstro}"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 vida
 4
 aliados de
@@ -4508,6 +6364,10 @@ o lucro maximo está ativado
 moedas
 moedas
 moedas
+<<<<<<< HEAD
+f"parabens você ganhou {moeda_generator} de moedas!"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 moedas
 moedas
 você ganhou placa de madeira
@@ -4528,6 +6388,10 @@ você ganhou escudo de ferro
 escudo_ferro
 você ganhou capacete de ferro
 capacete_ferro
+<<<<<<< HEAD
+f"você ganhou {qtd_pipeta_cobre} pipetas de cobre!"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 pipeta_cobre
 você ganhou
 
@@ -4539,6 +6403,18 @@ você ganhou uma barra de prata
 barra_prata
 você ganhou barra de ouro
 barra_ouro
+<<<<<<< HEAD
+f"Você derrotou o monstro! Wave {wave}"
+exp
+f"Ganhou {10 * wave} de exp!"
+11
+upgrades
+======upgrades======
+f"seus pontos de upgrades:{upgrades['pontos_upgrades']}"
+f"maximo de vida:\n{max_atributos['hp_max']}"
+f"maximo de mana:\n{max_atributos['mana_max']}"
+f"maximo de dano:\n {max_atributos['dano_max']}"
+=======
 exp
 11
 upgrades
@@ -4547,11 +6423,16 @@ pontos_upgrades
 hp_max
 mana_max
 dano_max
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 escolha o upgrade ou\n[0]pra sair
 0
 2
 status
 \n==== SEUS STATUS ====
+<<<<<<< HEAD
+f"{chave.capitalize()}: {valor}"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 \nDigite (0) para voltar ao menu principal: 
 0
 7
@@ -4668,10 +6549,17 @@ O que você quer fazer?
 4
 então vejo que está\ninteressado na minha mercadoria,vejamos que só tenho um estoque\nhumilde e pequeno
 BARMAN:
+<<<<<<< HEAD
+f"dinheiro do barman:{dados_taverna['dinheiro_barman']}"
+======BEBIDAS=======
+[0]sair
+f"qual bebida deseja comprar meu caro {dados_jogador['classe']}\ndigite [0] para sair"
+=======
 dinheiro_barman
 ======BEBIDAS=======
 [0]sair
 classe
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 0
 ao sair o barman fica contente que você comprou algo
 -barman:eu entendo sei que meu estoque ainda não está atraente
@@ -4688,15 +6576,27 @@ moedas
 moedas
 estoque_velho_barreiro
 moedas
+<<<<<<< HEAD
+f"BARMAN:deu {preco_bebida} moedas,deseja comprar?"
 [S/N]
 s
 sim
+f"você comprou {numero_bebidas} {bebida_selecionada_unificacao}"
+=======
+[S/N]
+s
+sim
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 velho_barreiro
 moedas
 dinheiro_barman
 estoque_velho_barreiro
 
+<<<<<<< HEAD
+f"não temos estoque de {numero_bebidas} velho barreiro somente de {dados_taverna['estoque_velho_barreiro']}..."
+=======
 estoque_velho_barreiro
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 vodka
 vodka
 vodkas
@@ -4709,15 +6609,27 @@ moedas
 moedas
 estoque_vodka
 moedas
+<<<<<<< HEAD
+f"BARMAN:deu {preco_bebida} moedas,deseja comprar?"
 [S/N]
 s
 sim
+f"você comprou {numero_bebidas} {bebida_selecionada_unificacao}"
+=======
+[S/N]
+s
+sim
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 vodka
 moedas
 dinheiro_barman
 estoque_vodka
 
+<<<<<<< HEAD
+f"não temos estoque de {numero_bebidas} {bebida_selecionada_unificacao} somente de {dados_taverna['estoque_vodka']}..."
+=======
 estoque_vodka
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 cerveja
 cerveja
 cervejas
@@ -4730,15 +6642,27 @@ moedas
 moedas
 estoque_cerveja
 moedas
+<<<<<<< HEAD
+f"BARMAN:deu {preco_bebida} moedas,deseja comprar?"
 [S/N]
 s
 sim
+f"você comprou {numero_bebidas} {bebida_selecionada_unificacao}"
+=======
+[S/N]
+s
+sim
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 cerveja
 moedas
 dinheiro_barman
 estoque_cerveja
 
+<<<<<<< HEAD
+f"não temos estoque de {numero_bebidas} cerveja somente de {dados_taverna['estoque_cerveja']}..."
+=======
 estoque_cerveja
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 cachaça mineira
 cachaça mineira
 cachaças mineiras
@@ -4751,15 +6675,27 @@ moedas
 moedas
 estoque_cachaça_mineira
 moedas
+<<<<<<< HEAD
+f"BARMAN:deu {preco_bebida} moedas,deseja comprar?"
 [S/N]
 s
 sim
+f"você comprou {numero_bebidas} {bebida_selecionada_unificacao}"
+=======
+[S/N]
+s
+sim
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 cachaça_mineira
 moedas
 dinheiro_barman
 estoque_cachaça_mineira
 
+<<<<<<< HEAD
+f"não temos estoque de {numero_bebidas} velho barreiro somente de {dados_taverna['estoque_cachaça_mineira']}..."
+=======
 estoque_cachaça_mineira
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 pinga de mel
 pinga de mel
 pingas de mel
@@ -4772,17 +6708,32 @@ moedas
 moedas
 estoque_pinga_de_mel
 moedas
+<<<<<<< HEAD
+f"BARMAN:deu {preco_bebida} moedas,deseja comprar?"
 [S/N]
 s
 sim
+f"você comprou {numero_bebidas} {bebida_selecionada_unificacao}"
+=======
+[S/N]
+s
+sim
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 pinga_de_mel
 moedas
 dinheiro_barman
 estoque_pinga_de_mel
 
+<<<<<<< HEAD
+f"não temos estoque de {numero_bebidas} somente de {dados_taverna['estoque_cachaça_mineira']}..."
+3
+vejo que está querendo dar uma melhorada por aqui....
+f"{upgrade} nivel:{nivel}"
+=======
 estoque_cachaça_mineira
 3
 vejo que está querendo dar uma melhorada por aqui....
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 qual upgrade deseja fazer?[0] para sair: 
 0
 [barman] muito obrigado meu jovem...
@@ -4798,18 +6749,30 @@ barman
 2
 Barman: Que bom que quer entrar na luta!
 Bêbado: Quanto quer apostar?
+<<<<<<< HEAD
+f"Suas moedas: {dados_jogador['moedas']}"
+=======
 moedas
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 Digite a quantia: 
 moedas
 Você não tem moedas suficientes para essa aposta!
 Aposta aceita! Vamos lutar!
 vida
+<<<<<<< HEAD
+f"Bêbado HP: {hp_bebado} | Seu HP: {dados_jogador['vida']}"
+=======
 vida
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 (1) Atacar
 (2) Fugir
 O que vai fazer? 
 1
 Você atacou! O bêbado perdeu 5 HP.
+<<<<<<< HEAD
+f"Você venceu e ganhou {aposta} {moedas_word}!"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 moedas
 vida
 O bêbado contra-atacou! Você perdeu 2 HP.
@@ -4827,6 +6790,10 @@ você entrou na sua casa
 o que queres fazer
 2
 1
+<<<<<<< HEAD
+f"você recuperou {descansar} de hp"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 vida
 2
 você saiu de casa
@@ -4836,7 +6803,11 @@ Obrigado por jogar! Até a próxima.
 5
 loja
 \nMercador: Você entra na loja e o vendedor te apresenta a mercadoria:
+<<<<<<< HEAD
+f"\nVocê tem {dados_jogador['moedas']} moedas."
+=======
 moedas
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 selecione a categoria do item
 [1]itens de ataque
 [2]itens de defesa
@@ -4848,6 +6819,10 @@ selecione a categoria do item
 [0]sair da loja
 
 4
+<<<<<<< HEAD
+f"{item.capitalize()} - {preco} moedas"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 [0] Retornar
 Qual item deseja comprar? 
 0
@@ -4858,7 +6833,25 @@ diamantes
 comerciante de eldora
 0
 [comerciante de eldora] até mais meu viajante!
+<<<<<<< HEAD
+5
+[vendedor] qual item deseja vender?
+escolha o item pra vender ou [0] pra finalizar a venda
+f"quantas unidades de '{escolha_vender_item}' deseja vender? "
+preço_revenda
+comerciante de eldora
+f"você ganhará {preco_final} de moedas por {quantidade_itens_revenda} de {escolha_vender_item}\ndeseja vender?\n[S]sim\n[N]não"
+s
+moedas
+f"você ganhou {preco_final} de moedas!!!"
+0
+[vendedor] fizemos um bom negócio não é mesmo?
+[vendedor] que item é esse? nunca ouvi falar
 2
+f"{item.capitalize()} - {preco} moedas"
+=======
+2
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 [0] Retornar
 Qual item deseja comprar? 
 0
@@ -4876,6 +6869,10 @@ o item botas de ferro foi adicionado ao inventário
 botas
 5
 1
+<<<<<<< HEAD
+f"{item.capitalize()} - {preco} moedas"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 [0]retornar
 escolha um item para comprar
 0
@@ -4886,6 +6883,10 @@ adaga
 moedas
 moedas
 3
+<<<<<<< HEAD
+f"{item.capitalize()} - {preco} moedas"
+=======
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 [0]retornar
 escolha um item para comprar
 0

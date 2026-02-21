@@ -1,5 +1,9 @@
 pt_file = "strings_tloe.txt"
+<<<<<<< HEAD
+en_file = "strings_tloe - English.txt"
+=======
 en_file = "strings_tloe.pt.en.txt"
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f
 saida = "traducao.txt"
 
 with open(pt_file, "r", encoding="utf-8") as f:

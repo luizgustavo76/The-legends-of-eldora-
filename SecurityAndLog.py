@@ -4,6 +4,61 @@ import os
 import sys
 import json
 import datetime
+<<<<<<< HEAD
+import tloe100 as tloe
+
+LOG_FILE = "error_log.json"
+
+def salvar_log(erro, detalhe=None):
+    log = {
+        "timestamp": str(datetime.datetime.now()),
+        "erro": str(erro),
+        "detalhe": detalhe or ""
+    }
+
+    try:
+        if os.path.isfile(LOG_FILE):
+            with open(LOG_FILE, "r", encoding="utf-8") as f:
+                dados = json.load(f)
+        else:
+            dados = []
+
+        dados.append(log)
+        with open(LOG_FILE, "w", encoding="utf-8") as f:
+            json.dump(dados, f, indent=4, ensure_ascii=False)
+    except Exception as e:
+        print("Erro ao salvar log:", e)
+
+def mostrar_popup_erro(erro_texto="O TLOE caiu…"):
+    root = tk.Tk()
+    root.withdraw()
+    
+    resposta = messagebox.askyesno(
+        "Erro no TLOE",
+        f"{erro_texto}\n\nDeseja tentar abrir o jogo novamente?"
+    )
+    root.destroy()
+    return resposta
+
+def executar_tloe():
+    while True:
+        try:
+            tloe.main()
+            break
+            
+        except Exception as e:
+            print("Erro capturado:", e)
+            salvar_log({"erro": str(e), "data": str(datetime.datetime.now())})
+            
+            try_novamente = mostrar_popup_erro(str(e))
+            if not try_novamente:
+                sys.exit()
+            # Se clicou "Sim", volta pro começo do while e tenta novamente
+
+
+if __name__ == "__main__":
+    executar_tloe()
+=======
 import subprocess
 
 # ---------------- LOG BASE ----------------
@@ -84,3 +139,4 @@ while True:
 
         if not mostrar_popup_erro():
             sys.exit(1)
+>>>>>>> e19656e9f0b10e030925b7e7ba56be12c65a006f

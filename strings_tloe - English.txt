@@ -1,0 +1,7260 @@
+﻿terminal_color
+typing_speed
+terminal_color
+
+typing_speed
+
+
+hp
+resistance
+damage
+year
+day
+month
+hours
+0
+minutes
+00
+day
+month
+hours
+minutes
+easy
+medium
+difficult
+hell
+
+name
+
+class
+
+level
+life
+exp
+coins
+diamonds
+defense
+damage
+exp to level up
+chat
+
+area
+
+name
+
+class
+
+level
+xp
+location
+
+friends
+
+online id
+000000000
+
+...can I join your guild?
+1
+thank you very much...I swear I won't disappoint you, companion!
+blacksmith
+so that's a no, I understand you
+greeting
+hi
+hello
+hey
+hey
+how are you
+you
+you
+you
+battle
+to battle
+confrontation
+infinite arena
+dungeon
+monster
+guild
+guild
+group
+gang
+join
+insult
+son of a bitch
+son of a mother
+fuck
+dick
+go fuck yourself
+cuckold
+faggot
+whore to know that
+you like to battle then... I feel lonely sometimes after all this... could I join your guild?
+hey... shall we battle?
+guild
+insult
+what's the point......????
+blacksmith
+f"let's see that you like my merchandise, {dados_jogador['nome']}, would you like to buy an item or forge it?"
+blacksmith_price
+good to know that my prices are affordable for you
+uh... sorry if the prices are high... my life isn't in the best condition, especially regarding money
+shop
+I don't mind because we both are essential to this realm, as we are the only ones
+tavern
+good thing it used to be going to the tavern in the old days, joy reigning and drinking without worries
+could go there to the tavern, it's been years since I went there
+villages
+I've only heard about this and other villages... I don't know what I feel... an obligation to stay in this forge... as if every day were the same
+I don't know but one day I will go there
+help
+hey... how can I help you?
+is Eldora  
+Merchant of Rimvark  
+Merchant of Vangurd  
+Merchant of Ebranthal  
+Merchant of Nocten  
+Blacksmith  
+
+You... you came here with the promise of saving those who suffered so much just by being there... but you killed them... killed those who held the hope of a happy kingdom like before... you had that power... and that’s why they were there...  
+If hope is the last to die... you should already be dead...  
+Genocide ending...  
+Genocide ending  
+
+Class  
+Wizard  
+
+Reaching level 50 is not just an achievement... it’s proof that you survived even in chaos...  
+Now you can choose a path to follow  
+You wish to become a:  
+[1] Water Wizard  
+[2] Fire Wizard  
+[3] Wind Wizard  
+[4] Leaf Wizard  
+
+Which subclass will you choose? Choose wisely, to get information.  
+For each subclass write [i]  
+i  
+
+Which subclass do you want information about?  
+[1] Water Wizard  
+[2] Fire Wizard  
+[3] Wind Wizard  
+[4] Leaf Wizard  
+
+1  
+
+Water Wizard: has aquatic powers for your monster_ability4
+class
+merchant
+level
+merchant_ability
+level
+merchant_ability2
+level
+merchant_ability3
+level
+merchant_ability4
+which ability do you want to use?
+class
+knight
+knight_ability
+mana
+you used
+knight_ability
+mana
+you took 10 health from the monster
+f"MONSTER DEALT {dano_monstro} DAMAGE!!"
+health
+You do not have enough mana
+knight_ability4
+mana
+you received the blessing of the oath of honor
+your attacks and defenses will be multiplied by 3 but you will not be able to flee and you will receive critical attacks twice as strong
+damage
+defense
+damage
+defense
+mana
+you do not have enough mana
+knight_ability3
+you attacked the monster using brutal charge
+- 15 mana
+damage
+f"you dealt {dano_cav3} damage"
+f"the monster took {dano_monstro} hp"
+mana
+health
+knight_ability2
+you used sacred shield
+you received the sacred blessing
+f"monster attacked dealing {dano_monstro} damage"
+f"the shield reconchiteo just once
+ability_monster4
+mana
+you are regenerating in a supernatural way
+life
+mana
+class
+merchant
+merchant_ability4
+mana
+you use the maximum profit ability
+merchant_ability3
+mana
+you use the persuasion attack
+monster tries to attack you
+monster missed the attack
+monster hit the attack
+life
+merchant_ability2
+mana
+mana
+heal 20 coins
+defense 15 coins
+damage 10 coins
+select an item to buy
+heal
+coins
+you have been healed
+coins
+coins
+coins
+life
+you don't have enough coins
+defense
+coins
+coins
+coins
+coins
+defense
+your defense increased by 5
+you don't have enough money...
+damage
+coins
+your damage increased by 5
+coins
+coins
+coins
+damage
+you don't have enough coins
+merchant_ability
+mana
+coins
+you are bribing the monster
+mana
+coins
+the monster accepted the offer
+the monster left
+the monster did not accept the offer
+the monster returned the money
+coins
+the monster stole yours s
+items
+gold bar
+soul amulet
+diamond golem
+coins
+items
+diamond
+soul amulet
+https://luizsgustavo76.pythonanywhere.com/get
+currently you are offline or the server is down...please try again later if the problem persists...
+https://luizsgustavo76.pythonanywhere.com/update
+chat
+your message\nor type reload to reload the chat
+reload
+r
+utf-8
+w
+utf-8
+name
+Friend
+health
+max_health
+area
+unknown
+items
+gold
+chat
+f"[SERVER] IP: {host} - waiting for friend's connection..."
+f"[SERVER] Friend connected: {address}"
+friend_world.json
+[SERVER] Friend disconnected
+[SERVER] Connection closed
+f"[CLIENT] Connected to host {ip}"
+[CLIENT] Could not connect to host
+friend_world.json
+[CLIENT] Connection lost with host
+[CLIENT] Connection closed
+8.8.8.8
+127.0.0.1
+name
+Friend
+health
+max_health
+area
+unknown
+^
+f"[{bar:<10}]"
+f"Friend: {name} | Area: {area} | Health: {health}/{max_health} {bar}"
+It was not e_save.json
+cls
+nt
+clear
+first_time_resistance
+first_time_chest_cabin
+chest_cabin
+item limit for chest is 30 items
+[1] deposit items
+[2] withdraw items
+[0] exit
+what do you want to do?
+1
+chest_cabin
+the chest is full!
+choose the items you want to deposit
+item:
+chest_cabin
+f"how many units of the item {choose_deposit_item_chest_cabin} do you want to add?"
+it is not possible to deposit items with a value of 0 or less
+item successfully deposited!
+[1] complete missions
+[2] talk to a member
+[3] check chest
+[4] open inventory
+what do you want to do?
+3
+first_time_chest_cabin
+[Maria] ah... this is the chest here, you can store your items there as you wish
+first_time_resistance
+you approach that cabin, it still seems to be inhabited
+...
+[unknown person 1] who... who are you???
+There are several people inside this cabin, they seem uneasy after your arrival
+[unknown person 2] the kid, aren't you going to introduce yourself???
+f"of course my name is"} 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+[Dorian]so it was here that you wanted me iron ete
+required_level
+value
+sharpening enchantment
+required_level
+value
+iron chestplate
+required_level
+value
+iron pants
+required_level
+value
+iron boots
+required_level
+value
+diamond chestplate
+required_level
+value
+diamond pants
+required_level
+value
+diamond boots
+required_level
+value
+diamond helmet
+required_level
+value
+obsidian chestplate
+required_level
+value
+obsidian pants
+required_level
+value
+obsidian boots
+required_level
+value
+Rimvark Village:
+[1]shop
+[2]church
+[3]market
+[4]house
+[5]view map
+[6]player menu
+what do you want to do?
+1
+welcome to my weapons shop...
+[1]view stock
+[2]sell items
+[3]talk
+[0]exit
+what would you like to do?
+0
+upon leaving you notice the merchant is happy because you bought something...
+ok....come back anytime!
+1
+level
+f"{key} value: {value}"
+3
+free mode...write anything and it will reply...DreamCore technology, speak words like You go into the church but notice it’s still under construction...
+Soon ahead the priest is celebrating a mass.....
+Village of Nocten:
+[1] shop
+[2] church
+[3] market
+[4] house
+[5] view map
+[6] player menu
+What do you want to do?
+5
+You are traveling back to the center of Eldora
+...
+1
+[Nocten merchant]: welcome to my shop of potions and cursed items
+[1] view stock
+[2] sell items
+[3] talk
+[0] exit
+What would you like to do?
+0
+Upon leaving you notice the merchant is happy because you bought something...
+Ok... come back always!
+3
+Free mode... write anything and he will answer you... DreamCore technology, say words like bye, goodbye to exit the chat
+Nocten merchant
+2
+You enter the church but notice it’s still under construction
+money
+stock
+Village of Ebranthal:
+[1] shop
+[2] church
+[3] market
+[4] house
+[5] view map
+[6] player menu
+What do you want to do?
+5
+You are traveling back to the center of Eldora
+...
+1
+[Ebranthal merchant]: welcome to my When starting the game we could ask if you'd like to create an account for online content?
+It's free and allows you to 
+ enjoy interactive multiplayer modes!
+[S] Yes, I would like to.
+[N] No, thank you
+s
+http://luizsgustavo76.pythonanywhere.com
+/create-id
+nickname
+email
+password
+choose a nickname, it is unique and unchangeable, it is used essentially 
+ for chats, trades and online resources!
+what will be your nickname? be creative ^^
+f"are you sure your nickname will be {escolha_nickname}?"
+[S] Yes [N] No
+s
+nickname
+do you want to add an email? in case of password forgetfulness we can 
+ send a password reset email! and you will also receive news 
+ first-hand directly to your email
+note: we will send a confirmation email to your inbox
+[S] Yes, [N] No
+s
+what is your email?
+you can change your recovery email at any time
+in the settings
+email
+now... please set a password
+your password:
+your password is too short...but you have the option to stay but "damage"]
+gorthak stone tyrant["attacks"]
+gorthak stone tyrant["life"]
+what a beautiful day....good TO SMASH A BOTTLE ON YOUR HEAD, guys like you shouldn't be in this bar especially being defeated by me, so is that it? will you leave me behind to die??, every cause has a consequence
+
+barman
+barman
+f"{nome_adversario}"
+[1]attack
+[2]defend
+[3]skill
+[4]swap ally
+[5]inventory
+[6]flee battle
+f"[7]talk to {nome_adversario}"
+choose an option
+1
+====== CHEST =====
+[1] View items in chest
+[2] Store item in chest
+[3] Retrieve item from chest
+[0] Exit
+Choose an option:
+1
+Items in chest:
+f"{item.replace('_', ' ').title()}: {qtd}"
+The chest is empty.
+Press Enter to continue...
+2
+Name of item to store:
+
+_
+Quantity to store:
+f"{qtd} {item.replace('_',' ')} stored in chest."
+You don't have that quantity.
+Item not found in inventory.
+Press Enter to continue...
+3
+Name of item to retrieve:
+
+_
+Quantity to before
+members
+items
+items
+duration
+duration
+people limit
+people limit
+f"An error occurred: {e}"
+f"{server}/r-stands"
+Error:
+\n🏪 ELDORA COMMERCIAL CENTER\n
+No active stall.\n
+-
+f"Stall: {s['nome_stand']}"
+f"Owner: {s['nome']}"
+f"Rent paid: {s['valor_pago']} coins"
+items
+No items for sale.
+items
+f"{item['item']} | {item['preco']} coins"
+-
+name
+name
+stall_name
+Stall title:
+items
+amount_paid
+How many minutes do you want to rent?
+amount_paid
+coins
+amount_paid
+Item (/finish):
+/finish
+Price:
+items
+item
+price
+/create-id-stand
+name
+name
+stall_name
+stall_name
+stall_id
+stall_id
+/s-stands
+🏪 Stall created successfully.
+f"{SERVER}/r-chat"
+message
+[trade
+f"\n[{msg['hora']}] {msg['name']}: {msg['message']}"
+Error receiving messages:
+>
+[trade]
+/exit
+Leaving the chat...
+f"{SERVER}/chat"
+name
+message
+time
+%H:%M:%S
+Error sending message:
+No active trade.
+/finish-trade
+trade_id
+Error finishing elar):
+f"\nYou chose the trade of the owner {trade_escolhida.get('criador_trade')}"
+https://luizsgustavo76.pythonanywhere.com/entrar-trade
+trade_id
+id
+name
+name
+status
+ok
+f"You entered the trade! Members now: {resposta_dados['integrantes']}"
+f"Error: {resposta_dados.get('mensagem', 'Unknown error')}"
+Invalid number. Try again.
+Enter a valid number!
+=====ELDORA MERCHANT CENTER=====
+[1] trades
+[2] go to the sales stalls
+[3] open chat
+[0] exit
+what do you want to do?
+0
+you leave the center...
+3
+1
+[1] create a trade table
+[2] view open trade tables
+[0] exit
+what do you want to do?
+1
+2
+which trade do you want
+0
+2
+[1] Create a Stall
+[2] View Stalls
+[0] exit
+which option do you want to be useful in crafting.
+underworld_coin2
+You heard whispers from beyond...
+souls_contract2
+You made a dark pact.
+necromancy_amulet2
+The dead now recognize you as one of them.
+illusion_smoke2
+You became invisible for a few seconds.
+poisoned_dagger2
+Your next blade will be deadly.
+shadow_armor2
+A shadowy armor envelops your body.
+sword2
+armor2
+You equipped a new battle gear.
+You used the item, but nothing happened.
+Item not found in inventory.
+level_value
+bronze I
+bronze II
+bronze III
+silver I
+silver II
+silver III
+gold I
+gold II
+gold III
+platinum I
+platinum II
+platinum III
+diamond I
+diamond II
+diamond III
+master I
+master II
+master III
+master of honor I
+master of honor II
+master of honor III
+elite I
+elite II
+elite III
+welcome
+name
+class
+welcome to the tutorial
+do you want to do the tutorial? (y/n)
+n
+then let the adventure begin
+The Legends Of Eldora
+s
+welcome to the world of Eldora
+for rcador
+bribe
+knight_ability2
+holy shield
+knight_ability3
+brutal charge
+knight_ability4
+honor vow
+wizard_ability2
+arcane explosion
+wizard_ability3
+dark curse
+wizard_ability4
+drain soul
+goblin_ability2
+agile escape
+goblin_ability3
+mockery
+goblin_ability4
+improvised bomb
+merchant_ability2
+lightning offer
+merchant_ability3
+persuasion
+merchant_ability4
+maximum profit
+monster_ability2
+voracious bite
+monster_ability3
+wild rage
+monster_ability4
+natural regeneration
+cold
+exposed_weather
+the day is a bit sunny
+the day is rainy
+exposed_weather
+it's a heavy rain, it even looks like a storm is coming
+exposed_weather
+there is an intense storm with lightning and strong winds, and I should take shelter
+exposed_weather
+the day is cloudy, it's even nice to stay here!
+the day is sunny, take advantage to do your tasks
+there is a snowstorm, and I better wood
+iron axe
+stone axe
+iron axe
+copper axe
+obsidian axe
+diamond axe
+stone
+gallows scroll I
+gallows scroll II
+gallows scroll III
+gallows scroll IV
+defense scroll I
+defense scroll II
+defense scroll III
+defense scroll IV
+patch scroll
+more coins scroll
+copper
+iron
+gold
+diamond
+ruby
+emerald
+souls amulet
+ruby sword
+emerald sword
+iron sword
+copper sword
+gold sword
+diamond sword
+obsidian sword
+wooden helmet
+stone helmet
+copper helmet
+iron helmet
+gold helmet
+ruby helmet
+emerald helmet
+obsidian helmet
+wooden pickaxe
+stone pickaxe
+copper pickaxe
+iron pickaxe
+gold pickaxe
+emerald pickaxe
+ruby pickaxe
+diamond pickaxe
+obsidian pickaxe
+wooden chestplate
+stone chestplate
+copper chestplate body and for stealth.
+copper_bar
+rarity
+common
+sell_price
+category
+ore
+description
+Forged copper bar, used to craft basic tools and weapons.
+copper_pipette
+rarity
+common
+sell_price
+category
+tool
+description
+Simple copper instrument for transferring liquids in experiments and potions.
+exp_potion2
+rarity
+rare
+sell_price
+category
+consumable
+description
+Concentrated potion that grants a large amount of experience when consumed.
+sword2
+rarity
+uncommon
+sell_price
+category
+weapon
+description
+Medium-quality forged sword, balanced between damage and durability.
+bread2
+rarity
+common
+sell_price
+category
+food
+description
+Fresh bread that restores a small amount of health when consumed.
+meat2
+rarity
+common
+sell_price
+category
+food
+description
+Piece of meat that can be cooked to restore health and stamina.
+potato2
+rarity
+common
+sell_price
+category
+food
+description
+Versatile tuber. enda
+category
+artifact
+description
+Solid lava core; powerful and unstable, increases fire area damage.
+artifact_diamond2
+rarity
+legendary
+resale_price
+category
+artifact
+description
+Gemstone imbued with energy; enhances physical and magical attributes.
+artifact_strength2
+rarity
+rare
+resale_price
+category
+artifact
+description
+Grants a temporary strength boost to the wielder.
+artifact_defense2
+rarity
+rare
+resale_price
+category
+artifact
+description
+Increases physical resistance and reduces damage taken for a certain period.
+artifact_gold2
+rarity
+rare
+resale_price
+category
+artifact
+description
+Luxury item that attracts fortune and facilitates commercial transactions.
+artifact_luck2
+rarity
+epic
+resale_price
+category
+artifact
+description
+Increases critical hit chances and rare item drops when looting enemies.
+artifact_magic2
+rarity
+epic
+resale_price
+category
+artifact
+description
+Amplifies the user's arcane power, reducing consumption of of
+common
+resale_price
+category
+drink
+description
+Simple beer; recovers a little health and relaxes the character.
+honey_shot
+rarity
+uncommon
+resale_price
+category
+drink
+description
+Honey‑sweetened spirit; increases morale and restores a little stamina.
+mineira_cachaca
+rarity
+common
+resale_price
+category
+drink
+description
+Typical drink that warms and can be sold in local taverns.
+vodka
+rarity
+common
+resale_price
+category
+drink
+description
+Strong alcohol used to clean wounds or as an ingredient.
+old_barrel
+rarity
+uncommon
+resale_price
+category
+drink
+description
+Brand of drink known for its potency; popular among miners.
+bucket
+rarity
+common
+resale_price
+category
+tool
+description
+Basic bucket used to transport liquids and materials.
+obsidian
+rarity
+rare
+resale_price
+category
+ore
+description
+Extremely hard volcanic glass, used for tools and enchantments.
+bucket of high-value transactions.
+wooden axe
+rarity
+common
+resell_price
+category
+tool
+description
+Simple axe for cutting trees and gathering wood.
+iron axe
+rarity
+uncommon
+resell_price
+category
+tool
+description
+Sturdy axe that cuts faster and lasts longer than basic ones.
+stone axe
+rarity
+common
+resell_price
+category
+tool
+description
+Rudimentary stone axe, useful in emergencies.
+copper axe
+rarity
+common
+resell_price
+category
+tool
+description
+Enhanced version of the wooden axe, with greater efficiency.
+obsidian axe
+rarity
+rare
+resell_price
+category
+tool
+description
+Extremely sharp and durable tool, ideal for tough wood.
+diamond axe
+rarity
+legendary
+resell_price
+category
+tool
+description
+Supreme axe that cuts any wood with ease category
+scroll
+description
+Increases resistance to attacks for a while.
+Defense Scroll III
+rarity
+epic
+resale_price
+category
+scroll
+description
+Powerful magical protection that reduces significant damage.
+Defense Scroll IV
+rarity
+legendary
+resale_price
+category
+scroll
+description
+Ancient tome that provides near‑impenetrable defense for a short time.
+Patch Scroll
+rarity
+uncommon
+resale_price
+category
+scroll
+description
+Used to repair damaged magical items with moderate effectiveness.
+More Coins Scroll
+rarity
+rare
+resale_price
+category
+scroll
+description
+Magic that temporarily increases the amount of coins obtained from loots.
+copper
+rarity
+common
+resale_price
+category
+ore
+description
+Refined copper material ready for use in forging and trade.
+iron
+rarity
+common
+resale_price
+category
+ore
+description
+Processed iron, base for most weapons and tools age
+common
+resale_price
+category
+weapon
+description
+Classic iron sword, reliable and easy to repair.
+copper sword
+rarity
+common
+resale_price
+category
+weapon
+description
+Light copper sword, suitable for beginners.
+gold sword
+rarity
+uncommon
+resale_price
+category
+weapon
+description
+Showy gold sword; has good charm and some magical power.
+diamond sword
+rarity
+legendary
+resale_price
+category
+weapon
+description
+Supreme sword, extremely sharp and durable.
+obsidian sword
+rarity
+epic
+resale_price
+category
+weapon
+description
+Black blade that cuts easily and causes bleeding in enemies.
+wooden helmet
+rarity
+common
+resale_price
+category
+armor
+description
+Minimal protection for the head, made of reinforced wood.
+stone helmet
+rarity
+common
+resale_price
+category
+armor
+description
+Rudimentary stone helmet; offers basic protection.
+helmet of stone
+rarity
+common
+resale_price
+category
+tool
+description
+Pickaxe capable of mining common materials with moderate efficiency.
+copper pickaxe
+rarity
+common
+resale_price
+category
+tool
+description
+Improved starter tool, more durable than the previous ones.
+iron pickaxe
+rarity
+uncommon
+resale_price
+category
+tool
+description
+Reliable pickaxe that grants access to tougher ores.
+gold pickaxe
+rarity
+uncommon
+resale_price
+category
+tool
+description
+Beautiful and efficient pickaxe for mining and enchanting.
+emerald pickaxe
+rarity
+rare
+resale_price
+category
+tool
+description
+Superior-quality pickaxe, with bonus against stone creatures.
+ruby pickaxe
+rarity
+rare
+resale_price
+category
+tool
+description
+Precious hunting tool that pierces with great efficiency.
+diamond pickaxe
+rarity
+legendary
+resale_price
+category
+tool
+description
+The best emerald
+rarity
+rare
+resale_price
+category
+armor
+description
+Precious armor that draws all nearby villagers' gazes to it.
+ruby chestplate
+rarity
+rare
+resale_price
+category
+armor
+description
+Provides increased resistance to fire attacks and a physical attack bonus.
+diamond chestplate
+rarity
+legendary
+resale_price
+category
+armor
+description
+Supreme armor with exceptional protection and high durability.
+obsidian chestplate
+rarity
+epic
+resale_price
+category
+armor
+description
+Chestplate that absorbs part of the energy from magical attacks.
+wooden pants
+rarity
+common
+resale_price
+category
+armor
+description
+Basic leg protection, not very comfortable but functional.
+stone pants
+rarity
+common
+resale_price
+category
+armor
+description
+Stone-reinforced pants that provide extra protection against impacts.
+copper pants
+rarity
+common
+resale_price
+category
+armor
+description
+Metallic pants Simple boots that protect the feet and are cheap to produce.
+stone boots
+rarity
+common
+resale_price
+category
+armor
+description
+Provide greater stability, but slightly reduce mobility.
+copper boots
+rarity
+common
+resale_price
+category
+armor
+description
+Comfortable metal boots with good durability.
+iron boots
+rarity
+uncommon
+resale_price
+category
+armor
+description
+Sturdy boots that protect well against impact damage.
+gold boots
+rarity
+rare
+resale_price
+category
+armor
+description
+Elegant boots that also increase the user's reputation.
+ruby boots
+rarity
+rare
+resale_price
+category
+armor
+description
+Grant fire resistance and increase attacks when flaming.
+emerald boots
+rarity
+rare
+resale_price
+category
+armor
+description
+Increase agility and regeneration in natural environments.
+boots of date
+rare
+resale_price
+category
+tool
+description
+Powerful hoe that increases crop productivity.
+emerald hoe
+rarity
+rare
+resale_price
+category
+tool
+description
+Promotes accelerated growth of nearby plants.
+diamond hoe
+rarity
+legendary
+resale_price
+category
+tool
+description
+Supreme tool that transforms any terrain with ease.
+obsidian hoe
+rarity
+epic
+resale_price
+category
+tool
+description
+Enchanted hoe that works on poisoned or corrupted soils.
+you find a wooden chest
+during your journey
+your curiosity was stronger and you decide to open it
+you obtained a strength scroll level I.....!
+strength scroll I
+you obtained a defense scroll level I....!
+defense scroll I
+1
+you find a stone chest
+during your journey
+your curiosity was stronger and you decide to open it
+you obtained a strength scroll level touch_old_barrel
+wine_stock
+whiskey_stock
+tequila_stock
+mead_stock
+rum_stock
+tavern reputation
+patrons
+drunk
+tavern_upgrades
+banks
+tables
+appearance
+drinks
+lighting
+kitchen
+beer
+Mineira cachaça
+honey schnapps
+vodka
+old_barrel
+stock_
+_
+f"{nome} {valor} coins,Stock:{estoque}"
+helmet
+ancient_warrior
+drunk
+ancient_warrior_hp
+drunk_hp
+warrior_attack
+drunk_attack
+warrior_defense
+drunk_defense
+tables
+level 1
+level 2
+level 3
+level 4
+level 5
+banks
+level 1
+level 2
+level 3
+level 4
+level 5
+appearance
+level 1
+level 2
+level 3
+level 4
+level 5
+kitchen
+level 1
+level 2
+level 3
+level 4
+level 5
+dark_shop
+level 1
+level 2
+level 3
+level 4
+level 5
+drinks
+level 1
+level 2
+level 3
+level 4
+level 5
+lighting
+level 1
+level 2
+level 3
+level 4
+level 5
+tables
+banks
+appearance
+kitchen
+dark_shop
+drinks
+lighting
+name
+=== List of friends available for PvP ===
+f"{i} - {amigo}" Online ===
+Enter your name:
+1. - Create host
+2. - Connect as client
+Choose:
+potion
+sword
+1
+
+f"Host created! Your IP is: {ip_local}"
+Waiting for friend to connect...
+f"Connected with {addr[0]}"
+2
+Enter the host IP:
+Connected to the host!
+Invalid option.
+name
+password
+owner
+members
+connections
+messages
+guests
+active_guild
+activities
+detected_members
+ranks
+guild_history.txt
+a
+f"[{time.ctime()}] {action}\n"
+guild.json
+w
+guild.json
+guild.json
+r
+
+Online Guild Menu:
+1. Create guild
+2. Join existing guild
+Choose:
+f"\n[Guild Management {guild_data['name']}]"
+1. View member activity
+2. Add member (by IP)
+3. Expel member
+4. Send broadcast
+5. PvP
+6. Trade
+7. Chat
+8. Send script to members
+9. Set rank
+10. Exit
+
+[Guild Chat]
+messages
+f"{ip}: {msg}"
+Enter the message (or 'exit()' to quit):
+exit()
+connections
+f"[Chat] {msg}"
+messages
+Host
+f"Host sent message: {msg}"
+Name of connections
+f"[{ip}] {msg}"
+f"Message from {ip}: {msg}"
+members
+members
+f"[-] {ip} left the guild."
+f"{ip} left the guild."
+1
+Your IP (or 127.0.0.1 for local):
+Guild name:
+Set the guild password:
+owner
+name
+password
+Existing guild loaded.
+Choose:
+1
+activities
+ranks
+No rank
+f"Member: {m} - Rank: {patente} - Last activity: {round(time.time() - t)}s ago"
+2
+IP of the new member:
+invitees
+f"{novo} invited!"
+f"Invitation sent to {novo}."
+3
+IP to remove:
+members
+members
+f"{remover} removed."
+f"{remover} removed from the guild."
+4
+Broadcast message:
+connections
+f"[Broadcast] {msg}"
+f"Broadcast sent: {msg}"
+5
+Player 1 IP:
+Player 2 IP:
+members
+members
+6
+Player 1 IP:
+Player 2 IP:
+members
+members
+7
+8
+9
+10
+Closing guild.
+active_guild
+Guild closed by owner.
+2
+Enter the host IP to join:
+[*] Connected to the guild.
+Enter the guild password:
+\n[Member Menu]
+1. - Chat
+2. - PvP
+3. - Trade
+4. - of: {qtd}"
+f"Slot 1 ---- {slots['slot1_golem']}"
+f"Slot 2 ---- {slots['slot2_golem']}"
+f"Slot 3 ---- {slots['slot3_golem']}"
+f"Slot 4 ---- {slots['slot4_golem']}"
+In which slot do you want to add/remove a golem?
+
+1
+slot1_golem
+Which golem do you want to add?
+f"The golem {adicionar_golem} has been added!"
+slot1_golem
+f"Do you want to disable the golem {slot['slot1']}?"
+[Y] OR [N]
+s
+f"The golem {slot['slot1']} has been deactivated!"
+2
+slot2_golem
+Which golem do you want to add?
+f"The golem {adicionar_golem} has been added!"
+slot2_golem
+f"Do you want to disable the golem {slot['slot1']}?"
+[Y] OR [N]
+s
+f"The golem {slot['slot2']} has been deactivated!"
+3
+slot3_golem
+Which golem do you want to add?
+f"The golem {adicionar_golem} has been added!"
+slot3_golem
+f"Do you want to disable the golem {slot['slot3']}?"
+[Y] OR [N]
+s
+f"The golem {slot['slot3']} has been deactivated!"
+4
+slot4_golem
+Which golem do you want to add?
+f"The golem {adicionar_golem} has been added!"
+slot4_golem
+f"Do you want to disable the golem dad
+
+mission difficulty
+easy
+===missions===
+f"difficulty:{dados_mineiro['dificuldade das missoes']}"
+f"{chave_missao2} {valor_missao2}"
+press 0 to exit
+0
+[1]mine
+[2]open inventory
+[3]use equipment
+[0]exit
+what will you do?
+procedural test
+1
+[1]mine forward
+[2]mine down
+[0]exit the mine
+what would you like to do?
+1
+...a...a diamond
+diamond
+my god....an emerald!
+emerald
+wow..this stone is very shiny and red..wait a bit....it's a ruby!
+ruby
+you mined a stone...!
+stone
+you mined raw copper...!
+raw copper
+you mined raw gold...!
+raw gold
+you mined coal...!
+coal
+f"[{dados_jogador['nome']}]wow...I already reached a lava river.."
+should I take some?
+[s]yes\n[n]no
+what would you like to do?
+s
+left hand
+bucket
+you collected a bucket of lava...!
+lava bucket
+left hand
+
+n
+0
+leaving the mine...
+0
+2
+choose an item to use
+Eldora mine
+[1]enter the lava fact
+diamond artifact
+strength artifact
+defense artifact
+gold artifact
+luck artifact
+magic artifact
+beer
+pinga
+dragon's tear
+skull soul
+dead soul
+black soul
+helmet
+chestplate
+pants
+boots
+shield
+swords
+dagger
+poisoned dagger
+copper sword
+obsidian sword
+wooden sword
+stone sword
+obsidian sword
+iron pickaxe
+wooden pickaxe
+stone pickaxe
+copper pickaxe
+obsidian pickaxe
+bucket
+water bucket
+lava bucket
+helmet
+chestplate
+pants
+boots
+dagger
+sword
+poisoned_dagger
+copper sword
+obsidian sword
+wooden sword
+stone sword
+obsidian sword
+iron pickaxe
+wooden pickaxe
+stone pickaxe
+copper pickaxe
+obsidian pickaxe
+bucket
+water bucket
+bucket rro
+copper sword
+copper sword
+obsidian sword
+obsidian sword
+bucket
+bucket
+lava bucket
+lava bucket
+water bucket
+water bucket
+helmet
+helmet
+helmet
+helmet
+chestplate
+chestplate
+chestplate
+chestplate
+leggings
+leggings
+leggings
+leggings
+boots
+boots
+boots
+boots
+dagger
+dagger
+dagger
+dagger
+poisoned_dagger
+poisoned_dagger
+poisoned dagger
+poisoned_dagger
+goblin
+spider
+slime
+evil snail
+gorthak the stone tyrant
+coins
+stone sword
+dagger
+wooden pickaxe
+wooden axe
+helmet
+chestplate
+pants
+boots
+experience potion
+bread
+meat
+potato
+stamina potion
+diamonds
+warlock
+knight
+goblin
+monster
+merchant
+======equipped items======
+head
+
+head
+None
+torso
+
+torso
+None
+legs
+
+legs
+None
+feet
+
+feet
+None
+right hand
+
+right hand
+None
+left hand
+
+left hand
+None
+    head ------
+head
+    torso ------
+torso
+    legs ------
+legs
+    feet      ------
+feet
+
+quest accepted
+quests Which option do you want to use?
+0
+you silently leave the battle
+1
+health
+damage
+f"You took {dados_jogador['dano']} health from the monster!"
+health
+damage
+f"The monster attacked you, taking {monstro.atributos_monstro['dano']} health!"
+bartender_money
+bartender_money
+this secret hurts down to the bone...
+the legends of eldora
+small
+splash.json
+r
+utf-8
+splash_titles
+press enter to continue
+
+areas
+npcs
+enemies
+items
+
+Loads a mod from any path (.py) and integrates it into the game.
+game: dictionary representing the game's state
+
+f"Mod file not found: {mod_file}"
+mod_module
+get_mod_info
+f"Mod loaded: {info.get('name', 'Untitled')} by {info.get('author', 'Unknown')}"
+add_content
+f"Content of mod '{info.get('name', 'Untitled')}' integrated into the game!"
+write the mod name with the .py extension in the name
+
+some error occurred reach the top of the frozen peaks.....
+you.....you finally reached the top, it was rewarding to have achieved this great milestone...but I look to the other side of the peak....
+ELDORA???????
+it was all true then....
+you found the kingdom of a story that marked your childhood so much
+you, after this long expedition, decide to stay there
+[Dorian] I am very exhausted.... I will spend this night in a cabin
+do you want to manage the Guild? [S] Yes or [N] No
+n
+s
+What do you want to do?
+[1] Remove allies
+[2] View allies' status
+[3] Equip items on allies
+[0] exit menu
+
+0
+1
+which ally do you want to remove?
+f"The ally {remover_aliado} was successfully removed!"
+that ally does not exist in your avo75
+Email:luizsgustavo76@gmail.com
+official site:thelegendsofeldora.wordpress.com
+press enter or 0 to exit
+0
+
+3
+0
+Thank you for playing! See you later...
+5
+[1] terminal color
+[2] typing speed of dialogues
+[0] exit menu
+which setting do you want to change?
+0
+do you want to save the settings?\n[S] yes\n[N] no
+s
+1
+[1] White[default]
+[2] Purple
+[3] Yellow
+[4] Red
+[5] Green
+[6] Light green
+[7] Cyan
+[8] Gray
+[9] Blue
+[10] Brown
+which color do you want to select?
+1
+terminal_color
+2
+terminal_color
+3
+terminal_color
+4
+terminal_color
+5
+terminal_color
+6
+terminal_color
+7
+terminal_color
+8
+terminal_color
+9
+terminal_color
+10
+terminal_color
+2
+f"Current speed:{configurations['typing_speed']}"
+which text speed do you want to choose? [default 0.05]
+typing_speed
+1
+name
+Please choose your name:
+name
+motherfucker
+Cheat activated, cheat menu
+how many coins?
+what level?
+how many diamonds?
+coins
+level
+diamonds
+Welcome to the kingdom =====blacksmith=====
+hello, welcome to the blacksmith, here you can forge your equipment and golems
+copper
+coal
+iron
+gold
+diamond
+obsidian
+lava
+sword
+pickaxe
+hoe
+shovel
+ruby
+emerald
+=====blacksmith=====
+[1] forge equipment
+[2] enchant items
+[3] repair items
+[4] forge golem
+[5] talk
+[6] sell items
+[7] do missions
+[8] use forge
+[0] exit
+which option do you want
+8
+which item do you want to forge? [0] to exit
+0
+you leave the stall and return to the front of the blacksmith
+craftings.json
+r
+recipes
+f"how many units of {escolha_crafting} do you want to make?"
+4
+a golem to give you a boost.. nice choice, my young one
+hours
+copper
+soul amulet
+copper golem
+iron
+soul amulet
+copper golem
+stone
+soul amulet
+stone golem
+obsidian
+soul amulet
+obsidian golem
+wood
+soul amulet
+wood golem
+ruby
+soul amulet
+ruby golem
+emerald
+soul amulet
+emerald golem
+diamond
+soul amulet
+golem sell the item {escolha_item_vender_ferreiro}? you will receive {preco_revenda} coins"
+[S] OR [N]
+s
+money
+coins
+[blacksmith] sorry but I don't buy this type of item
+0
+f"come back always my {dados_jogador['classe']}"
+5
+Conversation with the blacksmith:
+types of conversation
+[1]free mode
+[2]predefined questions
+* free mode - write anything
+which mode do you want to converse
+2
+=====BLACKSMITH=====
+what subject would you like to talk about?
+[1]economy
+[2]help
+[3]battle
+[4]praise
+[5]places
+[6]climates
+[0]exit
+
+0
+f"see you later {dados_jogador['classe']}"
+1
+[1]your prices are too high
+[2]your prices are too low
+[3]the economy of Eldora is very bad
+[4]the economy of Eldora is very good
+
+1
+look...
+sorry, the economy of Eldora is not very good nowadays
+2
+that's good to know because nowadays in Eldora everything is harder to buy
+3
+that's true because 5 years ago that king promised to return Eldora to its golden age but the opposite happened, now we are going through the nu do crafting...
+craftings.json
+r
+recipes
+f"how many units of {escolha_crafting} do you want to make?"
+1
+Choose an item to use\n
+press [0] to exit or /details [item name] to see item details
+/details
+You did not provide the item name!
+f"Rarity:{inventory_jogador[item]['rarity']}"
+f"Resale price:{inventory_jogador[item]['resale_price']}"
+f"Description:{inventory_jogador[item]['description']}"
+press [0] to exit
+0
+an error occurred! if it persists, do not insist c;
+2
+sword
+helmet
+breastplate
+pants
+boots
+dagger
+poisoned_dagger
+shadow_armor
+_
+f"{formatted_name}: {value}"
+inventory test
+health_bar_test
+battle_test
+14
+golem_test
+notice this is an internal test command!
+13
+infinite arena
+WELCOME TO THE INFINITE ARENA
+which mode do you want to play
+[1]easy
+[2]medium
+[3]hard
+[4]INFERNO
+1
+2
+3
+4
+life
+A MONSTER APPEARED
+LIFE:
+life
+MONSTER LIFE:
+wave:
+[1]attack
+[2]defend
+[3]skill
+[4]swap ==========STATUS==========
+life
+life
+damage
+damage
+defense
+defense
+level
+level
+to exit type [0]
+0
+invalid response
+1
+you swapped with the old warrior
+life
+life
+defense
+defense
+damage
+damage
+life
+life
+damage
+damage
+defense
+defense
+2
+mana
+you can defend
+the attack returns to the enemy
+defense
+mana
+you don't have enough mana!
+6
+you managed to escape the battle
+you failed to escape the battle
+life
+the maximum profit is activated
+coins
+coins
+coins
+f"congratulations you won {moeda_generator} coins!"
+coins
+coins
+you received a wooden board
+wooden_board
+you received an iron board
+iron_board
+you received a wooden sword
+wooden_sword
+you received a wooden shield
+wooden_shield
+you received a wooden helmet
+wooden_helmet
+you received a copper bar
+copper_bar
+you received an iron sword
+iron_sword
+you received an iron shield
+iron_shield
+you received an iron helmet
+iron_helmet
+f"you won You can talk, drink, and fight for money.
+[1] Talk to a drunk
+[2] Talk to the bartender
+[3] Go to the corner of the tavern
+What do you want to do?
+1
+You will talk to the drunk.
+Drunk: What do you want?
+[1] Talk
+[2] Leave
+Choose one of the options
+1
+You chose to talk to the drunk, what do you want to say?
+[1] Because you’re always here?
+[2] Aren’t you tired of always staying here? Why not visit your family?
+[3] Why do you always have a depressed look?
+
+1
+Drunk: Because I have no more places to hide my depression.
+After hearing this you become moved and leave.
+2
+After the events that destroyed the kingdom, I lost my reason to live and now I’m here drinking to forget my past.
+You reflect on his words and leave questioning your own life.
+3
+Why, in this world, it doesn’t matter what you do—people will always try to discourage you and make you abandon your dreams. That’s what envy does to people, if they see that you have a life. Huh?
+0
+Goodbye....walk through the shadows because those who shine too much attract darkness...
+1
+You approach the hero and greet him
+He greets you back and asks how he can help
+[1] What happened to this kingdom?
+[2] Who ruled Eldora before?
+[3] What's in that dungeon
+[4] Do you want to join my gang?
+What do you want to ask?
+1
+Five years ago, monsters, beasts, and curses began attacking the kingdom and only the knights, heroes, and the fearless survived
+(1) Why did the drunk survive?
+(2) Do you know why everyone died?
+(3) Exit
+1
+So, well, I don't even know how that scoundrel ended up here
+2
+I do know, after everything that happened, the monsters took the 10 artifacts; they sustained everything that existed in Eldora
+3
+Thank you very much for informing me, my dear hero
+2
+It was King Dargan, he caused the kingdom's fall because he neglected the safety of the people and made a pact with the devil
+3
+No one knows because those who entered never returned
+4
+I would accept this proposal but with a N: gave {preco_bebida} coins, do you want to buy?
+[Y/N]
+y
+yes
+f"you bought {numero_bebidas} {bebida_selecionada_unificacao}"
+velho_barreiro
+coins
+barman_money
+stock_velho_barreiro
+f"we don't have stock of {numero_bebidas} velho barreiro only {dados_taverna['estoque_velho_barreiro']}..."
+vodka
+vodka
+vodkas
+how many vodkas would you like to buy?
+vodka
+vodka
+vodka
+coins
+coins
+stock_vodka
+coins
+f"BARMAN: gave {preco_bebida} coins, do you want to buy?"
+[Y/N]
+y
+yes
+f"you bought {numero_bebidas} {bebida_selecionada_unificacao}"
+vodka
+coins
+barman_money
+stock_vodka
+f"we don't have stock of {numero_bebidas} {bebida_selecionada_unificacao} only {dados_taverna['estoque_vodka']}..."
+beer
+beer
+beers
+how many beers would you like to buy?
+beer
+beer
+beer
+coins
+coins
+stock_beer
+coins
+f"BARMAN: gave {preco_bebida} coins, do you want to buy?"
+[Y/N]
+y
+yes
+f"you bought {numero_bebidas} a_selecionada_unificacao}"
+pinga_de_mel
+moedas
+dinheiro_barman
+estoque_pinga_de_mel
+
+f"we don't have stock of {numero_bebidas} only of {dados_taverna['estoque_cachaça_mineira']}..."
+3
+I see you're trying to improve something here....
+f"{upgrade} level:{nivel}"
+which upgrade do you want to do?[0] to exit:
+0
+[barman] thank you very much, my young friend...
+melhorias_taverna
+moedas
+moedas
+the tavern became more beautiful... and more expensive.
+insufficient coins, my young friend...
+this upgrade does not exist in the scrolls yet...
+I don't know this type of improvement...
+1
+barman
+2
+Barman: Good that you want to join the fight!
+Drunkard: How much do you want to bet?
+f"Your coins: {dados_jogador['moedas']}"
+Enter the amount:
+moedas
+You don't have enough coins for this bet!
+Bet accepted! Let's fight!
+vida
+f"Drunkard HP: {hp_bebado} | Your HP: {dados_jogador['vida']}"
+(1) Attack
+(2) Run
+What will you do?
+1
+You attacked! The drunkard lost 5 HP.
+f"You won and earned {aposta}" Start the sale
+f"How many units of '{escolha_vender_item}' do you want to sell? "
+resale_price
+Eldora merchant
+f"You will earn {preco_final} coins for {quantidade_itens_revenda} of {escolha_vender_item}\nDo you want to sell?\n[S]yes\n[N]no"
+s
+coins
+f"You earned {preco_final} coins!!!"
+0
+[seller] We made a good deal, didn't we?
+[seller] What item is that? I've never heard of it
+2
+f"{item.capitalize()} - {preco} coins"
+[0] Return
+Which item do you want to buy?
+0
+helmet
+the iron helmet item has been added to the inventory
+helmet
+breastplate
+the iron breastplate item has been added to the inventory
+breastplate
+pants
+the iron pants item has been added to the inventory
+pants
+boots
+the iron boots item has been added to the inventory
+boots
+5
+1
+f"{item.capitalize()} - {preco} coins"
+[0] return
+choose an item to buy
+0
+stone sword
+sword
+dagger
+dagger
+coins
+coins
+3
+f"{item.capitalize()} - {preco} coins"
+[0] return
+choose an item to
