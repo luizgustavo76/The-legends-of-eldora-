@@ -6,7 +6,8 @@ git clone "https://github.com/luizgustavo76/The-legends-of-eldora-" \
 depois vá para a pasta que gerou a copia\
 no terminal rode pip install -r requirements.txt\
 para executar o jogo principal rode no terminal "python tloe100.py"\
-se quiser rodar o jogo com uma camada de segurança de anti-crashes rode "python SecurityAndLog.py"\
+se quiser rodar o jogo com uma camada de segurança de anti-crashes rode "python SecurityAndLog.py"
+
 
 
 
